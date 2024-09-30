@@ -1,0 +1,17 @@
+name: Supabase
+headlight: The open source Firebase alternative.
+source: github supabase/supabase
+url: https://supabase.io/
+logo: /logos/supabase.svg
+description: |
+  Supabase is an open source Firebase alternative.
+  Start your project with a Postgres database, Authentication, instant APIs, Edge Functions, Realtime subscriptions, Storage, and Vector embeddings.
+categories: 
+  - Backend service
+  - Vector embeddings
+alterantiveTo:
+  - retool
+  - powerapps
+  - appsheet
+relatedProjects: 
+  - obs-studio
