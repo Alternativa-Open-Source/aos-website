@@ -16,13 +16,15 @@ export async function generateStaticParams() {
 export default async function AlternativeTo({ params }) {
   const slug = params.slug;
   const project = await readOpenSourceFileAndRepoData(slug);
-
+console.log(project)
   return (
     <>
       <h1>{project.yaml.name}</h1>
       <div>My Post: {slug}</div>
       <div>headlight: {project.yaml.headlight}</div>
-      <div><Image width={100} height={100} src={project.yaml.logo}/></div>
+      <div>
+        <Image width={100} height={100} src={project.yaml.logo} />
+      </div>
 
       <div>{project.yaml.headlight}</div>
       <div>{project.yaml.source}</div>
@@ -43,6 +45,11 @@ export default async function AlternativeTo({ params }) {
       <div>{project.repoData.forks}</div>
       <div>{project.repoData.issues}</div>
       <div>{project.repoData.generatedAt}</div>
+
+      <div>
+        Tutorials:
+        <ul>{project.yaml.tutorials && project.yaml.tutorials.map((el) => <li key={el.title}><a href={el.link}>{el.title}</a></li>)}</ul>
+      </div>
     </>
   );
 }

@@ -1,0 +1,21 @@
+name: Filebrowser
+createdAt: '2024-10-05T06:30:20.273Z'
+headlight: 📂 Navegador de arquivos da Web
+source: github filebrowser/filebrowser
+url: https://filebrowser.org/
+logo: /logos/filebrowser/logo.png
+description: ''
+categories:
+  - Cloud Storage
+alterantiveTo:
+  - google-drive
+relatedProjects:
+  - apache-guacamole
+  - matano
+  - cal-com
+  - kukkee
+  - filegator
+tutorials:
+  - title: ''
+    link: ''
+images: /public/logos/filebrowser/

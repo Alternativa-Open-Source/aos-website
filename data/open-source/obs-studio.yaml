@@ -1,16 +1,21 @@
 name: OBS Studio
-headlight: Free and open source software for live streaming and screen recording
+createdAt: '2024-10-05T06:27:25.774Z'
+headlight: OBS Studio - Software gratuito e de código aberto para transmissão ao vivo e gravação de tela
 source: github obsproject/obs-studio
 url: https://obsproject.com/
-logo: /logos/obs-studio.png
-description: |
-  OBS Studio is equipped with a powerful API, enabling plugins and scripts to provide further customization and functionality specific to your needs.
-  Utilize native plugins for high performance integrations or scripts written with Lua or Python that interface with existing sources.
-  Work with developers in the streaming community to get the features you need with endless possibilities.
-  Browse or submit your own in the [Duck Duck Go](https://duckduckgo.com)
-alterantiveTo:
-  - microsoft-365
+logo: /logos/obs-studio/logo.png
+description: ''
 categories:
   - Video
-relatedProjects: 
-  - supabase
+alterantiveTo:
+  - vmix
+relatedProjects:
+  - rrweb
+  - microweber
+  - zettlr
+  - signoz
+  - krita
+tutorials:
+  - title: ''
+    link: ''
+images: /public/logos/obs-studio/

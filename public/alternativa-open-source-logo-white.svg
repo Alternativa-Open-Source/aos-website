@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="552.1" height="146.6" viewBox="0 0 552.1 146.6">
+  <g id="Group_15" data-name="Group 15" transform="translate(-122.45 -503.443)">
+    <g id="image_3" data-name="image 3" transform="translate(122.45 509.156)">
+      <path id="Path_21" data-name="Path 21" d="M74.768,36.7a38.168,38.168,0,1,0,38.168,38.168A38.133,38.133,0,0,0,74.768,36.7Zm0,64.375a26.383,26.383,0,1,1,26.383-26.383A26.348,26.348,0,0,1,74.768,101.075Z" transform="translate(27.775 27.851)" fill="#556b2f"/>
+      <path id="Path_22" data-name="Path 22" d="M117.317,0A23.383,23.383,0,0,0,93.924,23.393a23.393,23.393,0,0,1-46.786,0A23.57,23.57,0,0,0,0,23.393,23.5,23.5,0,0,0,23.393,46.786a23.393,23.393,0,1,1,0,46.786A23.686,23.686,0,0,0,0,117.317a23.393,23.393,0,1,0,46.786,0,70.336,70.336,0,0,1,70.355-70.355,23.383,23.383,0,0,0,23.393-23.393A23.273,23.273,0,0,0,117.317,0ZM23.393,35.177A11.785,11.785,0,0,1,11.609,23.393h0A11.785,11.785,0,0,1,23.393,11.609h0A11.785,11.785,0,0,1,35.177,23.393h0A11.785,11.785,0,0,1,23.393,35.177Zm0,93.748a11.7,11.7,0,0,1-.176-23.393h.352a11.7,11.7,0,1,1-.176,23.393Zm93.924-93.748a11.785,11.785,0,0,1-11.784-11.784h0a11.785,11.785,0,0,1,11.784-11.784h0A11.785,11.785,0,0,1,129.1,23.393h0a11.9,11.9,0,0,1-11.784,11.784Z" fill="#556b2f"/>
+    </g>
+    <text id="Open_Source" data-name="Open Source" transform="translate(293.55 569.443)" fill="#fff" font-size="63" font-family="Roboto Slab" font-weight="500" letter-spacing="0.008em"><tspan x="0" y="0" fill="#556b2f">O</tspan><tspan y="0" fill="#fff">pen</tspan><tspan y="0" fill="#000"> </tspan><tspan y="0" fill="#556b2f">S</tspan><tspan y="0" fill="#fff">ource</tspan></text>
+    <text id="_alternativa_" data-name="— alternativa —" transform="translate(295.738 630.454)" fill="#fff" font-size="49" font-family="Roboto Slab" font-weight="500" letter-spacing="0.008em"><tspan x="0" y="0">— alternativa —</tspan></text>
+  </g>
+</svg>
