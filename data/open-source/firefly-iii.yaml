@@ -1,0 +1,22 @@
+name: Firefly III
+createdAt: '2024-10-06T00:50:38.000Z'
+headlight: 'Firefly III: um gerenciador de finanças pessoais'
+source: github firefly-iii/firefly-iii
+url: https://www.firefly-iii.org/
+logo: /open-source/firefly-iii/logo.png
+description: ''
+categories:
+  - Finances
+alterantiveTo:
+  - quicken
+  - ynab
+relatedProjects:
+  - posthog
+  - boxbilling
+  - papercups
+  - nvda
+  - jina-ai
+tutorials:
+  - title: ''
+    link: ''
+images: /public/open-source/firefly-iii/

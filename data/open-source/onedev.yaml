@@ -1,0 +1,23 @@
+name: OneDev
+createdAt: '2024-10-06T01:06:15.832Z'
+headlight: Servidor Git com CI/CD, Kanban e Pacotes. Ultra Fácil de Configurar e Manter.
+source: github theonedev/onedev
+url: https://code.onedev.io/
+logo: /open-source/onedev/logo.png
+description: ''
+categories:
+  - Developer Tools
+alterantiveTo:
+  - github
+  - bitbucket
+  - upsource
+relatedProjects:
+  - wiki-js
+  - supertokens
+  - appbase
+  - nopcommerce
+  - automatisch
+tutorials:
+  - title: ''
+    link: ''
+images: /public/open-source/onedev/

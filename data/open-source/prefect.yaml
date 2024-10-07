@@ -1,0 +1,21 @@
+name: Prefect
+createdAt: '2024-10-06T01:14:49.571Z'
+headlight: Prefect é uma ferramenta de orquestração de fluxo de trabalho que capacita os desenvolvedores a construir, observar e reagir a pipelines de dados
+source: github prefecthq/prefect
+url: https://www.prefect.io/
+logo: /open-source/prefect/logo.jpeg
+description: ''
+categories:
+  - ELT/ETL
+alterantiveTo:
+  - fivetran
+relatedProjects:
+  - countly
+  - rustdesk
+  - gotosocial
+  - dragonfly
+  - wallabag
+tutorials:
+  - title: ''
+    link: ''
+images: /public/open-source/prefect/

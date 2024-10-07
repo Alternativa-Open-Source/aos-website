@@ -1,0 +1,19 @@
+name: Tina
+createdAt: '2024-10-06T01:30:44.845Z'
+headlight: Um CMS headless totalmente de código aberto que suporta Markdown e edição visual
+source: github tinacms/tinacms
+url: https://tina.io/
+logo: /open-source/tina/logo.png
+description: ''
+categories:
+  - CMS
+alterantiveTo:
+  - contentful
+relatedProjects:
+  - podman
+  - netdata
+  - staticdeploy
+tutorials:
+  - title: ''
+    link: ''
+images: /public/open-source/tina/

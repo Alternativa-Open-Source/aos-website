@@ -1,0 +1,21 @@
+name: Greenshot
+createdAt: '2024-10-06T00:53:45.949Z'
+headlight: 'Greenshot para Windows - Relate bugs e recursos aqui: https://greenshot.atlassian.net ou procure informações em:'
+source: github greenshot/greenshot
+url: https://getgreenshot.org/
+logo: /open-source/greenshot/logo.png
+description: ''
+categories:
+  - Utilities
+alterantiveTo:
+  - lightshot
+relatedProjects:
+  - orchest
+  - fritzing
+  - baserow
+  - open-web-analytics
+  - prometheus
+tutorials:
+  - title: ''
+    link: ''
+images: /public/open-source/greenshot/

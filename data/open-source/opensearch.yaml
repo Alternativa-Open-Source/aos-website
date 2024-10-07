@@ -1,0 +1,22 @@
+name: OpenSearch
+createdAt: '2024-10-06T01:06:51.903Z'
+headlight: 🔎 Mecanismo de busca RESTful e distribuído de código aberto.
+source: github opensearch-project/OpenSearch
+url: https://opensearch.org/
+logo: /open-source/opensearch/logo.png
+description: ''
+categories:
+  - Enterprise Search
+alterantiveTo:
+  - algolia
+  - ibm-watson-discovery
+relatedProjects:
+  - storj
+  - lmms
+  - magento
+  - shoutify
+  - appsmith
+tutorials:
+  - title: ''
+    link: ''
+images: /public/open-source/opensearch/

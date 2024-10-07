@@ -1,0 +1,21 @@
+name: YOURLS
+createdAt: '2024-10-06T01:34:36.866Z'
+headlight: 🔗 O encurtador de URL auto-hospedado padrão de fato em PHP
+source: github YOURLS/YOURLS
+url: https://yourls.org/
+logo: /open-source/yourls/logo.
+description: ''
+categories:
+  - Link Shortener
+alterantiveTo:
+  - bitly
+relatedProjects:
+  - rudderstack
+  - appbase
+  - soundux
+  - gogs
+  - podman
+tutorials:
+  - title: ''
+    link: ''
+images: /public/open-source/yourls/

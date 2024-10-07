@@ -1,0 +1,22 @@
+name: Webiny
+createdAt: '2024-10-06T01:33:24.811Z'
+headlight: CMS corporativo sem servidor de código aberto. Inclui um CMS sem interface, construtor de páginas, construtor de formulários e gerenciador de arquivos. Fácil de personalizar e expandir. Implanta na AWS.
+source: github webiny/webiny-js
+url: https://www.webiny.com/
+logo: /open-source/webiny/logo.png
+description: ''
+categories:
+  - CMS
+alterantiveTo:
+  - contentful
+  - webflow
+relatedProjects:
+  - gitea
+  - papercups
+  - opensearch
+  - restyaboard
+  - firezone
+tutorials:
+  - title: ''
+    link: ''
+images: /public/open-source/webiny/

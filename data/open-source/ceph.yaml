@@ -1,0 +1,21 @@
+name: ceph
+createdAt: '2024-10-06T01:39:05.159Z'
+headlight: Ceph é uma plataforma de armazenamento de objetos, blocos e arquivos distribuída
+source: github ceph/ceph
+url: https://ceph.io
+logo: /open-source/ceph/logo.svg
+description: ''
+categories:
+  - Cloud Storage
+alterantiveTo:
+  - amazon-s3
+relatedProjects:
+  - zinc
+  - label-studio
+  - grafana
+  - clickhouse
+  - corteza
+tutorials:
+  - title: ''
+    link: ''
+images: /public/open-source/ceph/

@@ -1,0 +1,24 @@
+name: Zettlr
+createdAt: '2024-10-06T01:38:42.821Z'
+headlight: Sua bancada de publicação completa
+source: github Zettlr/Zettlr
+url: https://www.zettlr.com/
+logo: /open-source/zettlr/logo.png
+description: ''
+categories:
+  - CMS
+alterantiveTo:
+  - obsidian
+  - evernote
+  - notion
+  - scrivener
+relatedProjects:
+  - openoffice
+  - cryptpad
+  - ghidra
+  - avideo
+  - losslesscut
+tutorials:
+  - title: ''
+    link: ''
+images: /public/open-source/zettlr/

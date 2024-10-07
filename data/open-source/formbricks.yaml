@@ -1,0 +1,23 @@
+name: Formbricks
+createdAt: '2024-10-06T00:51:58.203Z'
+headlight: Plataforma de pesquisa de código aberto
+source: github formbricks/formbricks
+url: https://formbricks.com/
+logo: /open-source/formbricks/logo.jpeg
+description: ''
+categories:
+  - Developer Tools
+alterantiveTo:
+  - typeform
+  - qualtrics
+  - sprig
+relatedProjects:
+  - parse-server
+  - countly
+  - typebot-io
+  - gitlab
+  - goaccess
+tutorials:
+  - title: ''
+    link: ''
+images: /public/open-source/formbricks/

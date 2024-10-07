@@ -1,0 +1,20 @@
+name: Briefing
+createdAt: '2024-10-06T00:45:03.230Z'
+headlight: 🔮 Bate-papo em grupo com vídeo direto e seguro
+source: github holtwick/briefing
+url: https://brie.fi/ng
+logo: /open-source/briefing/logo.
+description: ''
+categories:
+  - Video
+alterantiveTo:
+  - zoom
+  - google-meet
+relatedProjects:
+  - zammad
+  - supabase
+  - nextcloud
+tutorials:
+  - title: ''
+    link: ''
+images: /public/open-source/briefing/

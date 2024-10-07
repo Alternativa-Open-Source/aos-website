@@ -1,0 +1,23 @@
+name: Jellyfin
+createdAt: '2024-10-06T00:56:52.213Z'
+headlight: O Sistema de Mídia de Software Livre
+source: github jellyfin/jellyfin
+url: https://jellyfin.org/
+logo: /open-source/jellyfin/logo.png
+description: ''
+categories:
+  - Streaming
+alterantiveTo:
+  - plex
+  - emby
+  - netflix
+relatedProjects:
+  - gatus
+  - fider
+  - humhub
+  - umami
+  - inlang
+tutorials:
+  - title: ''
+    link: ''
+images: /public/open-source/jellyfin/

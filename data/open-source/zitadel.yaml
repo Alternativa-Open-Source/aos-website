@@ -1,0 +1,22 @@
+name: Zitadel
+createdAt: '2024-10-06T01:38:57.204Z'
+headlight: ZITADEL - Infraestrutura de identidade simplificada para você.
+source: github zitadel/zitadel
+url: https://zitadel.com/
+logo: /open-source/zitadel/logo.png
+description: ''
+categories:
+  - Auth & SSO
+alterantiveTo:
+  - auth0
+  - okta
+relatedProjects:
+  - codeberg
+  - reaction-commerce
+  - openam
+  - flagsmith
+  - lbry-sdk
+tutorials:
+  - title: ''
+    link: ''
+images: /public/open-source/zitadel/

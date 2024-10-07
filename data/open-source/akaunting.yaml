@@ -1,0 +1,21 @@
+name: Akaunting
+createdAt: '2024-10-06T00:26:15.231Z'
+headlight: Software de contabilidade online
+source: github akaunting/akaunting
+url: https://akaunting.com/
+logo: /open-source/akaunting/logo.png
+description: ''
+categories:
+  - Accounting
+alterantiveTo:
+  - quickbooks
+relatedProjects:
+  - offen
+  - dbeaver
+  - rudderstack
+  - lesspass
+  - privatebin
+tutorials:
+  - title: ''
+    link: ''
+images: /public/open-source/akaunting/

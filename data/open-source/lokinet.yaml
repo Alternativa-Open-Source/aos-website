@@ -1,0 +1,24 @@
+name: Lokinet
+createdAt: '2024-10-06T01:00:41.400Z'
+headlight: Lokinet é uma rede de sobreposição anônima, descentralizada e baseada em IP para a internet.
+source: github oxen-io/lokinet
+url: https://lokinet.org/
+logo: /open-source/lokinet/logo.png
+description: ''
+categories:
+  - Social Media
+alterantiveTo:
+  - whatsapp
+  - telegram
+  - threema
+  - signal
+relatedProjects:
+  - concrete
+  - cerbos
+  - redash
+  - jellyfin
+  - flarum
+tutorials:
+  - title: ''
+    link: ''
+images: /public/open-source/lokinet/

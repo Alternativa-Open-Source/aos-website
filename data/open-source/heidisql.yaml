@@ -1,0 +1,21 @@
+name: HeidiSQL
+createdAt: '2024-10-06T00:54:45.421Z'
+headlight: Um cliente leve para gerenciar MariaDB, MySQL, SQL Server, PostgreSQL, SQLite, Interbase e Firebird, escrito em Delphi
+source: github HeidiSQL/HeidiSQL
+url: https://www.heidisql.com/
+logo: /open-source/heidisql/logo.png
+description: ''
+categories:
+  - Database
+alterantiveTo:
+  - toad
+relatedProjects:
+  - berty
+  - taiga
+  - goaccess
+  - thelia
+  - signal-android
+tutorials:
+  - title: ''
+    link: ''
+images: /public/open-source/heidisql/

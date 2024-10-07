@@ -1,0 +1,21 @@
+name: Semgrep
+createdAt: '2024-10-06T01:22:20.320Z'
+headlight: Análise estática leve para muitas linguagens. Encontre variantes de bugs com padrões que se parecem com código-fonte.
+source: github returntocorp/semgrep
+url: https://semgrep.dev/
+logo: /open-source/semgrep/logo.png
+description: ''
+categories:
+  - Developer Tools
+alterantiveTo:
+  - snyk
+relatedProjects:
+  - fider
+  - pyroscope
+  - goatcounter
+  - shopaholic
+  - ackee
+tutorials:
+  - title: ''
+    link: ''
+images: /public/open-source/semgrep/

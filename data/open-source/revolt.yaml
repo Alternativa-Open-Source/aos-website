@@ -1,0 +1,21 @@
+name: Revolt
+createdAt: '2024-10-06T01:17:53.686Z'
+headlight: 'Repositório para gerenciamento de repositórios diversos e discussões: https://github.com/revoltchat/revolt/discussions'
+source: github revoltchat/revolt
+url: https://revolt.chat/
+logo: /open-source/revolt/logo.png
+description: ''
+categories:
+  - Communication
+alterantiveTo:
+  - slack
+  - microsoft-teams
+  - discord
+relatedProjects:
+  - colabora-online
+  - affine-pro
+  - opnsense
+tutorials:
+  - title: ''
+    link: ''
+images: /public/open-source/revolt/

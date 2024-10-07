@@ -1,0 +1,21 @@
+name: Lobsters Rails Project
+createdAt: '2024-10-06T01:00:19.805Z'
+headlight: Comunidade focada em computação centrada em agregação de links e discussão
+source: github lobsters/lobsters
+url: https://lobste.rs/
+logo: /open-source/lobsters-rails-project/logo.png
+description: ''
+categories:
+  - Social Media
+alterantiveTo:
+  - reddit
+relatedProjects:
+  - joplin
+  - gitea
+  - dgraph
+  - owncloud
+  - logseq
+tutorials:
+  - title: ''
+    link: ''
+images: /public/open-source/lobsters-rails-project/

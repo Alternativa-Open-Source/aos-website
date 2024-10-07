@@ -1,0 +1,22 @@
+name: PeerPad
+createdAt: '2024-10-06T01:11:54.998Z'
+headlight: 📝 Editor online que oferece edição colaborativa em tempo real usando CRDTs e IPFS.
+source: github peer-base/peer-pad
+url: https://peerpad.net/
+logo: /open-source/peerpad/logo.svg
+description: ''
+categories:
+  - Documentation
+alterantiveTo:
+  - typora
+  - google-docs
+relatedProjects:
+  - vue-storefront
+  - shopware
+  - testsigma
+  - nocodb
+  - tolgee
+tutorials:
+  - title: ''
+    link: ''
+images: /public/open-source/peerpad/

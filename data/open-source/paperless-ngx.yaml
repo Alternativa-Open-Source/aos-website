@@ -1,0 +1,22 @@
+name: Paperless-ngx
+createdAt: '2024-10-06T01:11:40.858Z'
+headlight: 'Uma versão supercarregada e com suporte da comunidade sem papel: digitalize, indexe e arquive todos os seus documentos físicos'
+source: github paperless-ngx/paperless-ngx
+url: https://paperless-ngx.readthedocs.io/en/latest/
+logo: /open-source/paperless-ngx/logo.jpeg
+description: ''
+categories:
+  - Notetaking
+alterantiveTo:
+  - evernote
+  - maya
+relatedProjects:
+  - shynet
+  - meilisearch
+  - rallly
+  - nuclear
+  - activeworkflow
+tutorials:
+  - title: ''
+    link: ''
+images: /public/open-source/paperless-ngx/

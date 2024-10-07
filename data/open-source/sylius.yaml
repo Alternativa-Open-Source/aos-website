@@ -1,0 +1,21 @@
+name: Sylius
+createdAt: '2024-10-06T01:29:41.153Z'
+headlight: Framework de comércio eletrônico de código aberto no Symfony
+source: github Sylius/Sylius
+url: https://sylius.com/
+logo: /open-source/sylius/logo.png
+description: ''
+categories:
+  - E-commerce
+alterantiveTo:
+  - shopify
+  - bigcommerce
+relatedProjects:
+  - nhost
+  - bleachbit
+  - papercups
+  - remotely
+tutorials:
+  - title: ''
+    link: ''
+images: /public/open-source/sylius/

@@ -1,0 +1,23 @@
+name: Codeberg
+createdAt: '2024-10-06T00:46:56.811Z'
+headlight: ''
+source: github Codeberg-org/gitea
+url: https://codeberg.org/
+logo: /open-source/codeberg/logo.svg
+description: ''
+categories:
+  - Developer Tools
+alterantiveTo:
+  - github
+  - bitbucket
+  - upsource
+relatedProjects:
+  - lesspass
+  - rfbx
+  - ckan
+  - mailspring
+  - ackee
+tutorials:
+  - title: ''
+    link: ''
+images: /public/open-source/codeberg/

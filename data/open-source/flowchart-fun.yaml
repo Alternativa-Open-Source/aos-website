@@ -1,0 +1,21 @@
+name: Flowchart.fun
+createdAt: '2024-10-06T00:50:58.193Z'
+headlight: Gere facilmente fluxogramas e diagramas a partir de texto ⿻
+source: github tone-row/flowchart-fun
+url: https://flowchart.fun/
+logo: /open-source/flowchart-fun/logo.png
+description: ''
+categories:
+  - Design
+alterantiveTo:
+  - lucidchart
+relatedProjects:
+  - jellyfin
+  - opensearch
+  - classquiz
+  - pipedream
+  - parse-server
+tutorials:
+  - title: ''
+    link: ''
+images: /public/open-source/flowchart-fun/

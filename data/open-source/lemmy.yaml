@@ -1,0 +1,21 @@
+name: Lemmy
+createdAt: '2024-10-06T00:59:46.399Z'
+headlight: 🐀 Um agregador de links e fórum para o fediverse
+source: github LemmyNet/lemmy
+url: https://join-lemmy.org/
+logo: /open-source/lemmy/logo.svg
+description: ''
+categories:
+  - Social Media
+alterantiveTo:
+  - reddit
+relatedProjects:
+  - openreplay
+  - chatwoot
+  - ballerine
+  - tina
+  - opnsense
+tutorials:
+  - title: ''
+    link: ''
+images: /public/open-source/lemmy/

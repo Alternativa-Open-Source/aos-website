@@ -1,0 +1,20 @@
+name: Vault
+createdAt: '2024-10-06T01:32:38.527Z'
+headlight: Uma ferramenta para gerenciamento de segredos, criptografia como serviço e gerenciamento de acesso privilegiado
+source: github hashicorp/vault
+url: https://www.vaultproject.io/
+logo: /open-source/vault/logo.png
+description: ''
+categories:
+  - Password Managers
+alterantiveTo:
+  - 1password
+relatedProjects:
+  - shynet
+  - brave-browser
+  - terminusdb
+  - heidisql
+tutorials:
+  - title: ''
+    link: ''
+images: /public/open-source/vault/

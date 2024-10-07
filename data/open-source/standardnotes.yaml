@@ -1,0 +1,25 @@
+name: Standardnotes
+createdAt: '2024-10-06T01:24:18.710Z'
+headlight: Pense sem medo com notas e arquivos criptografados de ponta a ponta. Para problemas, visite https://standardnotes.com/forum ou https://standardnotes.com/help.
+source: github standardnotes/web
+url: https://standardnotes.com/
+logo: /open-source/standardnotes/logo.png
+description: ''
+categories:
+  - Notetaking
+alterantiveTo:
+  - evernote
+  - onenote
+  - roam-research
+  - notion
+  - microsoft-onenote
+relatedProjects:
+  - onedev
+  - openbb-terminal
+  - modulz
+  - beekeeper-studio
+  - openscan
+tutorials:
+  - title: ''
+    link: ''
+images: /public/open-source/standardnotes/

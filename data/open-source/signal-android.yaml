@@ -1,0 +1,21 @@
+name: Signal Android
+createdAt: '2024-10-06T01:23:44.035Z'
+headlight: Um mensageiro privado para Android.
+source: github signalapp/Signal-Android
+url: https://signal.org/
+logo: /open-source/signal-android/logo.png
+description: ''
+categories:
+  - Communication
+alterantiveTo:
+  - whatsapp
+relatedProjects:
+  - cerbos
+  - vscodium
+  - invoiceninja
+  - rallly
+  - superset
+tutorials:
+  - title: ''
+    link: ''
+images: /public/open-source/signal-android/

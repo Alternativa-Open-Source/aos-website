@@ -1,0 +1,20 @@
+name: Dendron
+createdAt: '2024-10-06T00:48:29.970Z'
+headlight: A ferramenta de gerenciamento de conhecimento pessoal (PKM) que cresce junto com você!
+source: github dendronhq/dendron
+url: https://www.dendron.so/
+logo: /open-source/dendron/logo.png
+description: ''
+categories:
+  - Notetaking
+alterantiveTo:
+  - roam-research
+relatedProjects:
+  - temporal
+  - super-easy-forms
+  - webmin
+  - space-cloud
+tutorials:
+  - title: ''
+    link: ''
+images: /public/open-source/dendron/

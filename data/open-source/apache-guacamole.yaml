@@ -1,0 +1,21 @@
+name: Apache Guacamole
+createdAt: '2024-10-06T00:33:56.638Z'
+headlight: Espelho do Servidor Apache Guacamole
+source: github apache/guacamole-server
+url: https://guacamole.apache.org/
+logo: /open-source/apache-guacamole/logo.png
+description: ''
+categories:
+  - Developer Tools
+alterantiveTo:
+  - teamviewer
+relatedProjects:
+  - gimp
+  - grafana
+  - musescore
+  - space-cloud
+  - ackee
+tutorials:
+  - title: ''
+    link: ''
+images: /public/open-source/apache-guacamole/

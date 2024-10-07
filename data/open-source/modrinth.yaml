@@ -1,0 +1,20 @@
+name: Modrinth
+createdAt: '2024-10-06T01:03:35.129Z'
+headlight: Nosso backend baseado em Rust utiliza o framework actix-web para servir a API do Modrinth.
+source: github modrinth/labrinth
+url: https://modrinth.com/
+logo: /open-source/modrinth/logo.png
+description: ''
+categories:
+  - Gaming
+alterantiveTo:
+  - curseforge
+relatedProjects:
+  - movim
+  - semis-weaviate
+  - shoutify
+  - refinery
+tutorials:
+  - title: ''
+    link: ''
+images: /public/open-source/modrinth/

@@ -1,0 +1,21 @@
+name: MetriQL
+createdAt: '2024-10-06T01:03:03.853Z'
+headlight: A camada de métricas para seus dados. Junte-se a nós em https://metriql.com/slack
+source: github metriql/metriql
+url: https://metriql.com/
+logo: /open-source/metriql/logo.svg
+description: ''
+categories:
+  - Metric store
+alterantiveTo:
+  - looker
+relatedProjects:
+  - lowdefy
+  - sulu
+  - cabal-desktop
+  - clickhouse
+  - baserow
+tutorials:
+  - title: ''
+    link: ''
+images: /public/open-source/metriql/

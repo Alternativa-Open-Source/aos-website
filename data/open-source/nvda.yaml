@@ -1,0 +1,21 @@
+name: NVDA
+createdAt: '2024-10-06T01:04:14.526Z'
+headlight: NVDA, o leitor de tela gratuito e de código aberto para Microsoft Windows
+source: github nvaccess/nvda
+url: https://www.nvaccess.org/
+logo: /open-source/nvda/logo.png
+description: ''
+categories:
+  - Communication
+alterantiveTo:
+  - jaws
+relatedProjects:
+  - erpnext
+  - anki
+  - sigle
+  - lbry-sdk
+  - silex
+tutorials:
+  - title: ''
+    link: ''
+images: /public/open-source/nvda/

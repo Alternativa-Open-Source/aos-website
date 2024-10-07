@@ -1,0 +1,21 @@
+name: Ploomber
+createdAt: '2024-10-06T01:13:42.991Z'
+headlight: A maneira mais rápida ⚡️ de construir pipelines de dados. Desenvolva iterativamente, implante em qualquer lugar. ☁️
+source: github ploomber/ploomber
+url: https://ploomber.io/
+logo: /open-source/ploomber/logo.jpeg
+description: ''
+categories:
+  - ML Ops
+alterantiveTo:
+  - aws-sagemaker
+relatedProjects:
+  - peertube
+  - mpv
+  - crowdsec
+  - cachet
+  - refinery
+tutorials:
+  - title: ''
+    link: ''
+images: /public/open-source/ploomber/

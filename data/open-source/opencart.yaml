@@ -1,0 +1,21 @@
+name: Opencart
+createdAt: '2024-10-06T01:06:54.696Z'
+headlight: Um sistema de carrinho de compras gratuito. OpenCart é uma solução de e-commerce online baseada em PHP de código aberto.
+source: github opencart/opencart
+url: https://www.opencart.com/
+logo: /open-source/opencart/logo.png
+description: ''
+categories:
+  - E-commerce
+alterantiveTo:
+  - shopify
+relatedProjects:
+  - baserow
+  - jellyfin
+  - crowd-dev
+  - space-cloud
+  - pixelorama
+tutorials:
+  - title: ''
+    link: ''
+images: /public/open-source/opencart/

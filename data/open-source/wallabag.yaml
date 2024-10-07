@@ -1,0 +1,21 @@
+name: Wallabag
+createdAt: '2024-10-06T01:33:22.448Z'
+headlight: 'wallabag é um aplicativo auto-hospedável para salvar páginas da web: Salve e classifique artigos. Leia-os depois. Livremente.'
+source: github wallabag/wallabag
+url: https://wallabag.org/en
+logo: /open-source/wallabag/logo.png
+description: ''
+categories:
+  - Notetaking
+alterantiveTo:
+  - pocket
+relatedProjects:
+  - leantime
+  - piwigo
+  - papermerge
+  - n8n
+  - automa
+tutorials:
+  - title: ''
+    link: ''
+images: /public/open-source/wallabag/

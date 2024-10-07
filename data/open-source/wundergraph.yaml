@@ -1,0 +1,25 @@
+name: Wundergraph
+createdAt: '2024-10-06T01:34:31.915Z'
+headlight: WunderGraph é um backend para framework de frontend para otimizar fluxos de trabalho de desenvolvedores frontend, fullstack e backend por meio da composição de API.
+source: github wundergraph/wundergraph
+url: https://wundergraph.com/
+logo: /open-source/wundergraph/logo.png
+description: ''
+categories:
+  - API Platform
+alterantiveTo:
+  - apollo-graphql
+  - supabase
+  - hasura
+  - stepzen
+  - postgraphile
+relatedProjects:
+  - commento
+  - pyroscope
+  - lost-pixel
+  - prefect
+  - n8n
+tutorials:
+  - title: ''
+    link: ''
+images: /public/open-source/wundergraph/

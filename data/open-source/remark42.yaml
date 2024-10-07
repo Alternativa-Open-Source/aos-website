@@ -1,0 +1,20 @@
+name: Remark42
+createdAt: '2024-10-06T01:17:06.363Z'
+headlight: mecanismo de comentários
+source: github umputun/remark42
+url: https://remark42.com/
+logo: /open-source/remark42/logo.
+description: ''
+categories:
+  - Communication
+alterantiveTo:
+  - disqus
+relatedProjects:
+  - rallly
+  - inkscape
+  - taiga
+  - buttercup
+tutorials:
+  - title: ''
+    link: ''
+images: /public/open-source/remark42/

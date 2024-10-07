@@ -1,0 +1,21 @@
+name: Homebridge
+createdAt: '2024-10-06T00:55:01.199Z'
+headlight: Suporte HomeKit para os impacientes.
+source: github homebridge/homebridge
+url: https://homebridge.io/
+logo: /open-source/homebridge/logo.png
+description: ''
+categories:
+  - Smart Home
+alterantiveTo:
+  - apple-homekit
+relatedProjects:
+  - vanilla
+  - akaunting
+  - label-studio
+  - plasmic
+  - shynet
+tutorials:
+  - title: ''
+    link: ''
+images: /public/open-source/homebridge/

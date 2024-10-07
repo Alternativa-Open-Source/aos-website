@@ -1,0 +1,21 @@
+name: Aegis
+createdAt: '2024-10-06T00:29:08.295Z'
+headlight: Um aplicativo gratuito, seguro e de código aberto para Android para gerenciar seus tokens de verificação em duas etapas.
+source: github beemdevelopment/Aegis
+url: https://getaegis.app/
+logo: /open-source/aegis/logo.png
+description: ''
+categories:
+  - Auth & SSO
+alterantiveTo:
+  - lastpass
+relatedProjects:
+  - crowd-dev
+  - revolt
+  - neovim
+  - misskey
+  - featurebase
+tutorials:
+  - title: ''
+    link: ''
+images: /public/open-source/aegis/

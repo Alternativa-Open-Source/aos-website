@@ -1,0 +1,21 @@
+name: Tsuru
+createdAt: '2024-10-06T01:31:18.189Z'
+headlight: Plataforma como serviço (PaaS) de código aberto e extensível.
+source: github tsuru/tsuru
+url: https://tsuru.io/
+logo: /open-source/tsuru/logo.png
+description: ''
+categories:
+  - Deployment
+alterantiveTo:
+  - heroku
+  - render
+relatedProjects:
+  - cryptomator
+  - onedev
+  - bundlejs
+  - featurebase
+tutorials:
+  - title: ''
+    link: ''
+images: /public/open-source/tsuru/

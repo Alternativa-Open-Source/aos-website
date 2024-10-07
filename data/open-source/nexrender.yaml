@@ -1,0 +1,21 @@
+name: Nexrender
+createdAt: '2024-10-06T01:04:45.126Z'
+headlight: 📹 Automação de renderização baseada em dados para After Effects
+source: github inlife/nexrender
+url: https://nexrender.vercel.app/
+logo: /open-source/nexrender/logo.png
+description: ''
+categories:
+  - Video
+alterantiveTo:
+  - dataclay-templater-bot
+relatedProjects:
+  - moodle
+  - peppermint
+  - flarum
+  - flowchart-fun
+  - focalboard
+tutorials:
+  - title: ''
+    link: ''
+images: /public/open-source/nexrender/

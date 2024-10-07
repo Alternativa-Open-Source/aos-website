@@ -1,0 +1,22 @@
+name: Quickwit
+createdAt: '2024-10-06T01:15:58.307Z'
+headlight: Mecanismo de busca nativo da nuvem para observabilidade. Uma alternativa de código aberto para Datadog, Elasticsearch, Loki e Tempo.
+source: github quickwit-oss/quickwit
+url: https://quickwit.io/
+logo: /open-source/quickwit/logo.png
+description: ''
+categories:
+  - Developer Tools
+alterantiveTo:
+  - elasticsearch
+  - splunk
+relatedProjects:
+  - remark42
+  - postgres
+  - onlyoffice
+  - tuleap
+  - typebot-io
+tutorials:
+  - title: ''
+    link: ''
+images: /public/open-source/quickwit/

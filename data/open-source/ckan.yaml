@@ -1,0 +1,21 @@
+name: Ckan
+createdAt: '2024-10-06T00:45:55.362Z'
+headlight: O CKAN é um DMS (sistema de gerenciamento de dados) de código aberto para alimentar hubs de dados e portais de dados. O CKAN facilita a publicação, o compartilhamento e o uso de dados. Ele alimenta catalog.data.gov, open.canada.ca/data, data.humdata.org, entre muitos outros sites.
+source: github ckan/ckan
+url: https://ckan.org/
+logo: /open-source/ckan/logo.png
+description: ''
+categories:
+  - Database
+alterantiveTo:
+  - socrata
+relatedProjects:
+  - lemmy
+  - opensearch
+  - ploomber
+  - blender
+  - schildichat
+tutorials:
+  - title: ''
+    link: ''
+images: /public/open-source/ckan/

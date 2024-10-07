@@ -1,0 +1,21 @@
+name: GitLab
+createdAt: '2024-10-06T00:52:31.485Z'
+headlight: GitLab CE Mirror | Abra novos problemas em nosso rastreador de problemas no GitLab.com
+source: github gitlabhq/gitlabhq
+url: https://about.gitlab.com/
+logo: /open-source/gitlab/logo.svg
+description: ''
+categories:
+  - Developer Tools
+alterantiveTo:
+  - github
+  - bitbucket
+  - upsource
+relatedProjects:
+  - clearflask
+  - spree-commerce
+  - ory
+tutorials:
+  - title: ''
+    link: ''
+images: /public/open-source/gitlab/

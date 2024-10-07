@@ -1,0 +1,21 @@
+name: Uptime Kuma
+createdAt: '2024-10-06T01:32:28.083Z'
+headlight: Uma ferramenta de monitoramento auto-hospedada sofisticada
+source: github louislam/uptime-kuma
+url: https://uptime.kuma.pet/
+logo: /open-source/uptime-kuma/logo.jpeg
+description: ''
+categories:
+  - Observability and monitoring
+alterantiveTo:
+  - uptime-robot
+relatedProjects:
+  - meshcentral
+  - raycast-extensions
+  - illa
+  - espocrm
+  - gitea
+tutorials:
+  - title: ''
+    link: ''
+images: /public/open-source/uptime-kuma/

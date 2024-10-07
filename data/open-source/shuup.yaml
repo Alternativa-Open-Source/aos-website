@@ -1,0 +1,22 @@
+name: Shuup
+createdAt: '2024-10-06T01:23:24.177Z'
+headlight: Plataforma de comércio eletrônico
+source: github shuup/shuup
+url: https://shuup.com/
+logo: /open-source/shuup/logo.jpeg
+description: ''
+categories:
+  - E-commerce
+alterantiveTo:
+  - shopify
+  - ecwid
+relatedProjects:
+  - kontalk
+  - hoppscotch
+  - mirotalk-p2p
+  - vlc
+  - appflowy
+tutorials:
+  - title: ''
+    link: ''
+images: /public/open-source/shuup/

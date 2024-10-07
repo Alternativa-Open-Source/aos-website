@@ -1,0 +1,21 @@
+name: Open Web Analytics
+createdAt: '2024-10-06T01:06:19.634Z'
+headlight: Repositório oficial do Open Web Analytics, que é uma alternativa de código aberto para ferramentas comerciais como o Google Analytics. Mantenha o controle dos dados que você coleta sobre o uso do seu site ou aplicativo. Por favor, considere patrocinar este projeto.
+source: github padams/Open-Web-Analytics
+url: http://www.openwebanalytics.com/
+logo: /open-source/open-web-analytics/logo.png
+description: ''
+categories:
+  - Analytics
+alterantiveTo:
+  - google-analytics
+relatedProjects:
+  - metabase
+  - bookstack
+  - filestash
+  - quickwit
+  - baserow
+tutorials:
+  - title: ''
+    link: ''
+images: /public/open-source/open-web-analytics/

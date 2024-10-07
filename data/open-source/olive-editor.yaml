@@ -1,0 +1,21 @@
+name: Olive Editor
+createdAt: '2024-10-06T01:06:13.135Z'
+headlight: Editor de vídeo não linear de código aberto gratuito
+source: github olive-editor/olive
+url: https://olivevideoeditor.org/
+logo: /open-source/olive-editor/logo.png
+description: ''
+categories:
+  - Video
+alterantiveTo:
+  - adobe-premiere-pro
+relatedProjects:
+  - modulz
+  - twake
+  - airbyte
+  - prefect
+  - neovim
+tutorials:
+  - title: ''
+    link: ''
+images: /public/open-source/olive-editor/

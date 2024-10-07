@@ -1,0 +1,22 @@
+name: MindsDB
+createdAt: '2024-10-06T01:03:18.058Z'
+headlight: A plataforma para criar IA personalizada, capacitando organizações mais inteligentes.
+source: github mindsdb/mindsdb
+url: https://mindsdb.com/
+logo: /open-source/mindsdb/logo.png
+description: ''
+categories:
+  - ML Ops
+alterantiveTo:
+  - bigquery-ml
+  - google-automl-tables
+relatedProjects:
+  - rustdesk
+  - owncloud
+  - meilisearch
+  - wallabag
+  - typebot-io
+tutorials:
+  - title: ''
+    link: ''
+images: /public/open-source/mindsdb/

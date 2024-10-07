@@ -1,0 +1,21 @@
+name: Jitsi
+createdAt: '2024-10-06T00:56:59.777Z'
+headlight: Jitsi Meet - Videoconferências seguras, simples e escaláveis que você pode usar como um aplicativo independente ou incorporar em seu aplicativo web.
+source: github jitsi/jitsi-meet
+url: https://meet.jit.si/
+logo: /open-source/jitsi/logo.png
+description: ''
+categories:
+  - Communication
+alterantiveTo:
+  - zoom
+  - skype
+relatedProjects:
+  - lowdefy
+  - clickhouse
+  - milkman
+  - dyrector
+tutorials:
+  - title: ''
+    link: ''
+images: /public/open-source/jitsi/

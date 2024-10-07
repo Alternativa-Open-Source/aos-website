@@ -1,0 +1,22 @@
+name: Flipt
+createdAt: '2024-10-06T00:50:52.404Z'
+headlight: Solução de gerenciamento de recursos CloudNative pronta para empresas, habilitada para GitOps
+source: github markphelps/flipt
+url: https://flipt.io/
+logo: /open-source/flipt/logo.jpeg
+description: ''
+categories:
+  - Developer Tools
+alterantiveTo:
+  - rollout-io
+  - launchdarkly
+relatedProjects:
+  - invoiceninja
+  - argos-ci
+  - crowdsec
+  - buttercup
+  - losslesscut
+tutorials:
+  - title: ''
+    link: ''
+images: /public/open-source/flipt/

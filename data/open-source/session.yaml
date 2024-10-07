@@ -1,0 +1,25 @@
+name: Session
+createdAt: '2024-10-06T01:22:33.028Z'
+headlight: Sessão Desktop - Mensageiro baseado em roteamento Onion
+source: github oxen-io/session-desktop
+url: https://getsession.org/
+logo: /open-source/session/logo.png
+description: ''
+categories:
+  - Communication
+alterantiveTo:
+  - whatsapp
+  - telegram
+  - berty
+  - coyim
+  - threema
+relatedProjects:
+  - piwigo
+  - remark42
+  - affine-pro
+  - joplin
+  - tuleap
+tutorials:
+  - title: ''
+    link: ''
+images: /public/open-source/session/

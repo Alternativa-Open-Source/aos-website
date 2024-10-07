@@ -1,0 +1,21 @@
+name: Wekan
+createdAt: '2024-10-06T01:34:03.224Z'
+headlight: O kanban de código aberto (construído com Meteor). Mantenha os nomes de variáveis/tabelas/campos camelCase. Para traduções, adicione apenas as alterações do Pull Request em wekan/i18n/en.i18n.json , outras traduções são feitas apenas em https://app.transifex.com/wekan/.
+source: github wekan/wekan
+url: https://wekan.github.io/
+logo: /open-source/wekan/logo.svg
+description: ''
+categories:
+  - Product Management
+alterantiveTo:
+  - trello
+relatedProjects:
+  - pimcore
+  - apache-guacamole
+  - vuepress
+  - baserow
+  - corteza
+tutorials:
+  - title: ''
+    link: ''
+images: /public/open-source/wekan/

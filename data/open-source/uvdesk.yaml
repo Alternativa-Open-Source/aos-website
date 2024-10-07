@@ -1,0 +1,21 @@
+name: UVDesk
+createdAt: '2024-10-06T01:31:34.363Z'
+headlight: Projeto de Helpdesk da Comunidade Opensource UVdesk criado para todos, com o objetivo de criar um Sistema Completo de Suporte a Tickets, além de muitos outros recursos.
+source: github uvdesk/community-skeleton
+url: https://www.uvdesk.com/en/
+logo: /open-source/uvdesk/logo.jpeg
+description: ''
+categories:
+  - Communication
+alterantiveTo:
+  - zendesk
+relatedProjects:
+  - buttercup
+  - coyim
+  - firefly-iii
+  - element
+  - jenkins
+tutorials:
+  - title: ''
+    link: ''
+images: /public/open-source/uvdesk/

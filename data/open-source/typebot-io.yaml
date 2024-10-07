@@ -1,0 +1,22 @@
+name: Typebot.io
+createdAt: '2024-10-06T01:31:24.789Z'
+headlight: 💬 O Typebot é um poderoso criador de chatbot que você pode hospedar.
+source: github baptisteArno/typebot.io
+url: https://typebot.io/
+logo: /open-source/typebot-io/logo.png
+description: ''
+categories:
+  - Form Builder
+alterantiveTo:
+  - landbot
+  - typeform
+relatedProjects:
+  - remotely
+  - directus
+  - mirotalk
+  - cal-com
+  - countly
+tutorials:
+  - title: ''
+    link: ''
+images: /public/open-source/typebot-io/

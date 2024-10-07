@@ -1,0 +1,19 @@
+name: Appwrite
+createdAt: '2024-10-06T00:39:29.246Z'
+headlight: Construa como uma equipe de centenas_
+source: github appwrite/appwrite
+url: https://appwrite.io/
+logo: /open-source/appwrite/logo.png
+description: ''
+categories:
+  - Backend service
+alterantiveTo:
+  - firebase
+relatedProjects:
+  - vanilla
+  - popspace
+  - ghidra
+tutorials:
+  - title: ''
+    link: ''
+images: /public/open-source/appwrite/

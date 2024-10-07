@@ -1,0 +1,22 @@
+name: Kdenlive
+createdAt: '2024-10-06T00:57:20.068Z'
+headlight: Editor de vídeo gratuito e de código aberto, baseado no MLT Framework e no KDE Frameworks 5
+source: github KDE/kdenlive
+url: https://invent.kde.org/multimedia/kdenlive
+logo: /open-source/kdenlive/logo.png
+description: ''
+categories:
+  - Video
+alterantiveTo:
+  - adobe-premiere-pro
+  - davinci-resolve
+relatedProjects:
+  - nhost
+  - penpot
+  - vlc
+  - shuup
+  - ploomber
+tutorials:
+  - title: ''
+    link: ''
+images: /public/open-source/kdenlive/

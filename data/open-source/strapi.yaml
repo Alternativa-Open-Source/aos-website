@@ -1,0 +1,21 @@
+name: Strapi
+createdAt: '2024-10-06T01:24:26.557Z'
+headlight: 🚀 Strapi é o CMS headless de código aberto líder. É 100% JavaScript/TypeScript, totalmente personalizável e voltado para o desenvolvedor.
+source: github strapi/strapi
+url: https://strapi.io/
+logo: /open-source/strapi/logo.png
+description: ''
+categories:
+  - CMS
+alterantiveTo:
+  - contentful
+relatedProjects:
+  - gogs
+  - hedgedoc
+  - myrtille
+  - picocrypt
+  - supabase
+tutorials:
+  - title: ''
+    link: ''
+images: /public/open-source/strapi/

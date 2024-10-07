@@ -1,0 +1,21 @@
+name: Odoo
+createdAt: '2024-10-06T01:05:36.327Z'
+headlight: Odoo. Aplicativos de código aberto para expandir seus negócios.
+source: github odoo/odoo
+url: https://www.odoo.com/
+logo: /open-source/odoo/logo.png
+description: ''
+categories:
+  - CRM
+alterantiveTo:
+  - salesforce
+  - sap
+relatedProjects:
+  - freetube
+  - lmms
+  - core
+  - rowy
+tutorials:
+  - title: ''
+    link: ''
+images: /public/open-source/odoo/

@@ -1,0 +1,22 @@
+name: ONLYOFFICE
+createdAt: '2024-10-06T01:05:27.596Z'
+headlight: 'O ONLYOFFICE Docs é um pacote de escritório online colaborativo gratuito que inclui visualizadores e editores de textos, planilhas e apresentações, formulários e PDF, totalmente compatível com os formatos Office Open XML: .docx, .xlsx, .pptx e permite edição colaborativa em tempo real.'
+source: github ONLYOFFICE/DocumentServer
+url: https://www.onlyoffice.com/
+logo: /open-source/onlyoffice/logo.png
+description: ''
+categories:
+  - Documentation
+alterantiveTo:
+  - google-docs
+  - office-online
+relatedProjects:
+  - kitchenowl
+  - aptabase
+  - bundlejs
+  - prestashop
+  - jellyfin
+tutorials:
+  - title: ''
+    link: ''
+images: /public/open-source/onlyoffice/

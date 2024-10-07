@@ -1,0 +1,21 @@
+name: Cortex
+createdAt: '2024-10-06T00:47:19.039Z'
+headlight: Infraestrutura de produção para aprendizado de máquina em escala
+source: github cortexlabs/cortex
+url: https://www.cortex.dev/
+logo: /open-source/cortex/logo.png
+description: ''
+categories:
+  - ML Ops
+alterantiveTo:
+  - aws-sagemaker
+relatedProjects:
+  - forem
+  - piwigo
+  - netbird
+  - postal
+  - scoold
+tutorials:
+  - title: ''
+    link: ''
+images: /public/open-source/cortex/

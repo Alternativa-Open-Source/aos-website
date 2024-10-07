@@ -1,0 +1,21 @@
+name: Storj
+createdAt: '2024-10-06T01:24:23.203Z'
+headlight: Desenvolvimento contínuo do Storj v3. Armazenamento de objetos em nuvem descentralizado que é acessível, fácil de usar, privado e seguro.
+source: github storj/storj
+url: https://www.storj.io/
+logo: /open-source/storj/logo.png
+description: ''
+categories:
+  - Cloud Storage
+alterantiveTo:
+  - amazon-s3
+relatedProjects:
+  - crowdsec
+  - wallabag
+  - woocommerce
+  - crowd-dev
+  - peppermint
+tutorials:
+  - title: ''
+    link: ''
+images: /public/open-source/storj/

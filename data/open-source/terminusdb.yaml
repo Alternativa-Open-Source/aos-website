@@ -1,0 +1,20 @@
+name: TerminusDb
+createdAt: '2024-10-06T01:29:59.510Z'
+headlight: TerminusDB é um banco de dados distribuído com um modelo de colaboração
+source: github terminusdb/terminusdb
+url: https://terminusdb.com/
+logo: /open-source/terminusdb/logo.jpeg
+description: ''
+categories:
+  - Database
+alterantiveTo:
+  - tigergraph
+  - amazon-neptune
+relatedProjects:
+  - hitobito
+  - taiga
+  - godot
+tutorials:
+  - title: ''
+    link: ''
+images: /public/open-source/terminusdb/

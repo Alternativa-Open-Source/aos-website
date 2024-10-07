@@ -1,0 +1,22 @@
+name: Grafana
+createdAt: '2024-10-06T00:53:25.713Z'
+headlight: A plataforma aberta e componível de observabilidade e visualização de dados. Visualize métricas, logs e rastros de várias fontes, como Prometheus, Loki, Elasticsearch, InfluxDB, Postgres e muito mais.
+source: github grafana/grafana
+url: https://grafana.com/
+logo: /open-source/grafana/logo.png
+description: ''
+categories:
+  - Observability and monitoring
+alterantiveTo:
+  - datadog
+  - newrelic
+relatedProjects:
+  - flyimg
+  - netbird
+  - saleor-commerce
+  - nexrender
+  - thingsboard
+tutorials:
+  - title: ''
+    link: ''
+images: /public/open-source/grafana/

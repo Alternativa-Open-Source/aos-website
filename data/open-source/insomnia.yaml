@@ -1,0 +1,20 @@
+name: Insomnia
+createdAt: '2024-10-06T00:56:33.298Z'
+headlight: O cliente de API de código aberto e multiplataforma para GraphQL, REST, WebSockets, SSE e gRPC. Com armazenamento em nuvem, local e Git.
+source: github Kong/insomnia
+url: https://insomnia.rest/
+logo: /open-source/insomnia/logo.svg
+description: ''
+categories:
+  - API Platform
+alterantiveTo:
+  - postman
+relatedProjects:
+  - prestashop
+  - hanko
+  - owncloud
+  - invidious
+tutorials:
+  - title: ''
+    link: ''
+images: /public/open-source/insomnia/

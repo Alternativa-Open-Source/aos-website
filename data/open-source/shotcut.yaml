@@ -1,0 +1,22 @@
+name: Shotcut
+createdAt: '2024-10-06T01:23:17.405Z'
+headlight: editor de vídeo multiplataforma (Qt) e de código aberto (GPLv3)
+source: github mltframework/shotcut
+url: https://www.shotcut.org/
+logo: /open-source/shotcut/logo.png
+description: ''
+categories:
+  - Video
+alterantiveTo:
+  - adobe-premiere-pro
+  - davinci-resolve
+relatedProjects:
+  - invoiceninja
+  - strapi
+  - ploomber
+  - wire
+  - vendure
+tutorials:
+  - title: ''
+    link: ''
+images: /public/open-source/shotcut/

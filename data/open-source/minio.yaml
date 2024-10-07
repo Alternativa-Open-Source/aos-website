@@ -1,0 +1,21 @@
+name: minio
+createdAt: '2024-10-06T01:39:26.708Z'
+headlight: O Object Store para infraestrutura de dados de IA
+source: github minio/minio
+url: https://min.io
+logo: /open-source/minio/logo.svg
+description: ''
+categories:
+  - Deployment
+alterantiveTo:
+  - amazon-s3
+relatedProjects:
+  - open-web-analytics
+  - goatcounter
+  - matano
+  - parse-server
+  - pfsense
+tutorials:
+  - title: ''
+    link: ''
+images: /public/open-source/minio/

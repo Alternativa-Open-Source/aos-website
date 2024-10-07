@@ -1,0 +1,20 @@
+name: Erxes
+createdAt: '2024-10-06T00:49:24.113Z'
+headlight: Fonte disponível infraestrutura de gerenciamento de experiência. Pioneirismo no futuro das experiências com XOS (Experience Operating System). Alternativa Hubspot + Qualitics
+source: github erxes/erxes
+url: https://erxes.io/
+logo: /open-source/erxes/logo.jpeg
+description: ''
+categories:
+  - CRM
+alterantiveTo:
+  - hubspot
+relatedProjects:
+  - openscad
+  - featurebase
+  - shoutify
+  - brave-browser
+tutorials:
+  - title: ''
+    link: ''
+images: /public/open-source/erxes/

@@ -1,0 +1,23 @@
+name: StackStorm
+createdAt: '2024-10-06T01:24:15.639Z'
+headlight: StackStorm (também conhecido como "IFTTT para Ops") é uma automação orientada a eventos para auto-remediação, respostas a incidentes, solução de problemas, implantações e muito mais para DevOps e SREs. Inclui mecanismo de regras, fluxo de trabalho, 160 pacotes de integração com mais de 6000 ações (consulte https://exchange.stackstorm.org) e ChatOps. Instalador em https://docs.stackstorm.com/install/index.html
+source: github StackStorm/st2
+url: https://exchange.stackstorm.org/
+logo: /open-source/stackstorm/logo.png
+description: ''
+categories:
+  - Automation
+alterantiveTo:
+  - rundeck
+  - ansible-tower
+  - salt
+relatedProjects:
+  - flyimg
+  - isso
+  - forem
+  - glimesh
+  - zulip
+tutorials:
+  - title: ''
+    link: ''
+images: /public/open-source/stackstorm/

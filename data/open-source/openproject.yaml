@@ -1,0 +1,22 @@
+name: OpenProject
+createdAt: '2024-10-06T01:06:38.966Z'
+headlight: O OpenProject é o principal software de gerenciamento de projetos de código aberto.
+source: github opf/openproject
+url: https://www.openproject.org/
+logo: /open-source/openproject/logo.png
+description: ''
+categories:
+  - Project Management
+alterantiveTo:
+  - asana
+  - trello
+relatedProjects:
+  - rfbx
+  - brave-browser
+  - inlang
+  - dbeaver
+  - ghidra
+tutorials:
+  - title: ''
+    link: ''
+images: /public/open-source/openproject/

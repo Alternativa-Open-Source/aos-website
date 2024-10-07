@@ -1,0 +1,22 @@
+name: Hanko
+createdAt: '2024-10-06T00:54:07.466Z'
+headlight: Gerenciamento de autenticação e usuário para a era da chave de acesso
+source: github teamhanko/hanko
+url: https://www.hanko.io/
+logo: /open-source/hanko/logo.png
+description: ''
+categories:
+  - Auth & SSO
+alterantiveTo:
+  - auth0
+  - stytch
+relatedProjects:
+  - metabase
+  - focalboard
+  - saleor-commerce
+  - boxbilling
+  - lbry-sdk
+tutorials:
+  - title: ''
+    link: ''
+images: /public/open-source/hanko/

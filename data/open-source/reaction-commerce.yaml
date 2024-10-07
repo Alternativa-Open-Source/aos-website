@@ -1,0 +1,22 @@
+name: Reaction Commerce
+createdAt: '2024-10-06T01:16:32.791Z'
+headlight: Mailchimp Open Commerce é uma plataforma de comércio headless, API-first, construída usando Node.js, React, GraphQL. Implantada via Docker e Kubernetes.
+source: github reactioncommerce/reaction
+url: http://www.reactioncommerce.com/
+logo: /open-source/reaction-commerce/logo.svg
+description: ''
+categories:
+  - E-commerce
+alterantiveTo:
+  - shopify
+  - bigcommerce
+relatedProjects:
+  - paperless-ngx
+  - jina-ai
+  - signal-android
+  - dokku
+  - magento
+tutorials:
+  - title: ''
+    link: ''
+images: /public/open-source/reaction-commerce/

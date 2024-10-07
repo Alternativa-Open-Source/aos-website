@@ -1,0 +1,22 @@
+name: Karate
+createdAt: '2024-10-06T00:57:16.561Z'
+headlight: Automação de testes simplificada
+source: github karatelabs/karate
+url: https://karatelabs.github.io/karate/
+logo: /open-source/karate/logo.png
+description: ''
+categories:
+  - API Platform
+alterantiveTo:
+  - postman
+  - selenium
+relatedProjects:
+  - timescaledb
+  - fritzing
+  - automa
+  - directus
+  - speek
+tutorials:
+  - title: ''
+    link: ''
+images: /public/open-source/karate/

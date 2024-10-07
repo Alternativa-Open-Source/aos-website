@@ -1,0 +1,22 @@
+name: Corteza
+createdAt: '2024-10-06T00:47:21.481Z'
+headlight: Plataforma de baixo código
+source: github cortezaproject/corteza-server
+url: https://cortezaproject.org/
+logo: /open-source/corteza/logo.png
+description: ''
+categories:
+  - CRM
+alterantiveTo:
+  - salesforce
+  - sap
+relatedProjects:
+  - losslesscut
+  - rustdesk
+  - ploomber
+  - jellyfin
+  - nuclei
+tutorials:
+  - title: ''
+    link: ''
+images: /public/open-source/corteza/

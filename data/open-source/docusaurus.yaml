@@ -1,0 +1,21 @@
+name: Docusaurus
+createdAt: '2024-10-06T00:48:43.873Z'
+headlight: Sites de documentação de código aberto fáceis de manter.
+source: github facebook/docusaurus
+url: https://docusaurus.io/
+logo: /open-source/docusaurus/logo.svg
+description: ''
+categories:
+  - Documentation
+alterantiveTo:
+  - archbee
+relatedProjects:
+  - bitwarden
+  - pagure
+  - headscale
+  - corteza
+  - clipperz
+tutorials:
+  - title: ''
+    link: ''
+images: /public/open-source/docusaurus/

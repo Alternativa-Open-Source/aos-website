@@ -1,0 +1,21 @@
+name: SeMI's Weaviate
+createdAt: '2024-10-06T01:18:41.985Z'
+headlight: Weaviate é um banco de dados vetorial de código aberto que armazena objetos e vetores, permitindo combinar pesquisa vetorial com filtragem estruturada com a tolerância a falhas e escalabilidade de um banco de dados nativo da nuvem, tudo acessível por meio de GraphQL, REST e vários clientes de linguagem.
+source: github semi-technologies/weaviate
+url: https://www.semi.technology/
+logo: /open-source/semis-weaviate/logo.png
+description: ''
+categories:
+  - Enterprise Search
+alterantiveTo:
+  - google-vertex-ai
+  - algolia
+relatedProjects:
+  - stackstorm
+  - gotosocial
+  - opencart
+  - cube-js
+tutorials:
+  - title: ''
+    link: ''
+images: /public/open-source/semis-weaviate/

@@ -1,0 +1,23 @@
+name: Cinny
+createdAt: '2024-10-06T00:45:49.922Z'
+headlight: Mais um cliente da matrix
+source: github cinnyapp/cinny
+url: https://cinny.in/
+logo: /open-source/cinny/logo.png
+description: ''
+categories:
+  - Communication
+alterantiveTo:
+  - discord
+  - slack
+  - microsoft-teams
+relatedProjects:
+  - netbox
+  - mindsdb
+  - boost-note
+  - airbyte
+  - nhost
+tutorials:
+  - title: ''
+    link: ''
+images: /public/open-source/cinny/

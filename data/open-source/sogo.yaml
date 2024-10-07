@@ -1,0 +1,21 @@
+name: Sogo
+createdAt: '2024-10-06T01:23:54.855Z'
+headlight: SOGo é um conjunto de colaboração moderno muito rápido e escalável (groupware). Ele oferece calendário, gerenciamento de catálogo de endereços e um cliente Webmail completo, juntamente com compartilhamento de recursos e tratamento de permissões. Ele também faz uso de padrões documentados (IMAP, CalDAV, CardDAV, etc.) e, portanto, fornece conectividade nativa (sem plugins) para muitos clientes, como Microsoft Outlook, Apple iCal, iPhone, Mozilla Lightning e uma infinidade de dispositivos móveis.
+source: github inverse-inc/sogo
+url: https://www.sogo.nu/
+logo: /open-source/sogo/logo.svg
+description: ''
+categories:
+  - Scheduling
+alterantiveTo:
+  - microsoft-365
+relatedProjects:
+  - retroarcher-bundle
+  - classquiz
+  - mastodon
+  - quant-ux
+  - fosscord
+tutorials:
+  - title: ''
+    link: ''
+images: /public/open-source/sogo/

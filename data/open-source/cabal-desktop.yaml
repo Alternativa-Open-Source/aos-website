@@ -1,0 +1,22 @@
+name: Cabal-desktop
+createdAt: '2024-10-06T00:45:24.418Z'
+headlight: Cliente de desktop para Cabal, a plataforma de bate-papo p2p/descentralizada/local-first.
+source: github cabal-club/cabal-desktop
+url: https://cabal.chat/
+logo: /open-source/cabal-desktop/logo.png
+description: ''
+categories:
+  - Communication
+alterantiveTo:
+  - discord
+  - revoltchat
+  - element
+relatedProjects:
+  - session
+  - openscan
+  - memgraph
+  - quickwit
+tutorials:
+  - title: ''
+    link: ''
+images: /public/open-source/cabal-desktop/

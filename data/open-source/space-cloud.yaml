@@ -1,0 +1,21 @@
+name: Space Cloud
+createdAt: '2024-10-06T01:24:04.762Z'
+headlight: Firebase + Heroku de código aberto para desenvolver, dimensionar e proteger aplicativos sem servidor no Kubernetes
+source: github spacecloud-io/space-cloud
+url: https://space-cloud.io/
+logo: /open-source/space-cloud/logo.jpeg
+description: ''
+categories:
+  - Platform as a service
+alterantiveTo:
+  - heroku
+relatedProjects:
+  - xournalpp
+  - nexrender
+  - docusaurus
+  - solvespace
+  - shoutify
+tutorials:
+  - title: ''
+    link: ''
+images: /public/open-source/space-cloud/

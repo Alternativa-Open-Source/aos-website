@@ -1,0 +1,21 @@
+name: Organic Maps
+createdAt: '2024-10-06T01:07:17.811Z'
+headlight: 🍃 Organic Maps é um aplicativo de mapas offline gratuito para Android e iOS para viajantes, turistas, caminhantes e ciclistas. Ele usa dados do OpenStreetMap de crowdsourcing e é desenvolvido com amor pelos fundadores do MapsWithMe (MapsMe) e nossa comunidade. Sem anúncios, sem rastreamento, sem coleta de dados, sem crapware. Por favor, doe para apoiar o desenvolvimento!
+source: github organicmaps/organicmaps
+url: https://organicmaps.app/
+logo: /open-source/organic-maps/logo.png
+description: ''
+categories:
+  - Web Mapping Platform
+alterantiveTo:
+  - google-maps
+relatedProjects:
+  - prometheus
+  - kanboard
+  - raycast-extensions
+  - openpilot
+  - inlang
+tutorials:
+  - title: ''
+    link: ''
+images: /public/open-source/organic-maps/

@@ -1,0 +1,21 @@
+name: Invidious
+createdAt: '2024-10-06T00:56:37.047Z'
+headlight: Invidious é um front-end alternativo ao YouTube
+source: github iv-org/invidious
+url: https://invidious.io/
+logo: /open-source/invidious/logo.svg
+description: ''
+categories:
+  - Streaming
+alterantiveTo:
+  - youtube
+relatedProjects:
+  - growthbook
+  - coyim
+  - pyroscope
+  - mailspring
+  - activeworkflow
+tutorials:
+  - title: ''
+    link: ''
+images: /public/open-source/invidious/

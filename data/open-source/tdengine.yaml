@@ -1,0 +1,21 @@
+name: TDengine
+createdAt: '2024-10-06T01:29:46.742Z'
+headlight: O TDengine é um banco de dados de séries temporais nativo da nuvem, de alto desempenho e código aberto, otimizado para Internet das Coisas (IoT), carros conectados, IoT industrial e DevOps.
+source: github taosdata/TDengine
+url: https://tdengine.com/
+logo: /open-source/tdengine/logo.png
+description: ''
+categories:
+  - Database
+alterantiveTo:
+  - kdb
+relatedProjects:
+  - tsuru
+  - storj
+  - fonoster
+  - modrinth
+  - hedgedoc
+tutorials:
+  - title: ''
+    link: ''
+images: /public/open-source/tdengine/

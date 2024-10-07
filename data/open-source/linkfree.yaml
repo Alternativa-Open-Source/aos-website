@@ -1,0 +1,21 @@
+name: LinkFree
+createdAt: '2024-10-06T01:00:14.656Z'
+headlight: Conecte-se ao seu público com um único link. Exiba o conteúdo que você cria e seus projetos em um só lugar. Facilite para as pessoas encontrarem, seguirem e se inscreverem.
+source: github EddieHubCommunity/LinkFree
+url: http://linkfree.eddiehub.org/
+logo: /open-source/linkfree/logo.
+description: ''
+categories:
+  - Social Media
+alterantiveTo:
+  - linktree
+relatedProjects:
+  - netbird
+  - friendica
+  - padloc
+  - lago
+  - kontalk
+tutorials:
+  - title: ''
+    link: ''
+images: /public/open-source/linkfree/

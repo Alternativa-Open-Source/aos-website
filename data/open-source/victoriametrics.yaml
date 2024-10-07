@@ -1,0 +1,21 @@
+name: VictoriaMetrics
+createdAt: '2024-10-06T01:32:49.164Z'
+headlight: 'VictoriaMetrics: solução de monitoramento rápida e econômica e banco de dados de séries temporais'
+source: github VictoriaMetrics/VictoriaMetrics
+url: https://victoriametrics.com/
+logo: /open-source/victoriametrics/logo.png
+description: ''
+categories:
+  - Observability and monitoring
+alterantiveTo:
+  - datadog
+  - newrelic
+relatedProjects:
+  - rudderstack
+  - apostrophecms-3
+  - opnsense
+  - jenkins
+tutorials:
+  - title: ''
+    link: ''
+images: /public/open-source/victoriametrics/

@@ -1,0 +1,21 @@
+name: Temporal
+createdAt: '2024-10-06T01:29:53.040Z'
+headlight: Serviço temporário
+source: github temporalio/temporal
+url: https://temporal.io/
+logo: /open-source/temporal/logo.png
+description: ''
+categories:
+  - Automation
+alterantiveTo:
+  - zapier
+relatedProjects:
+  - passbolt
+  - nexrender
+  - univention-corporate-server
+  - orchest
+  - checkmk
+tutorials:
+  - title: ''
+    link: ''
+images: /public/open-source/temporal/

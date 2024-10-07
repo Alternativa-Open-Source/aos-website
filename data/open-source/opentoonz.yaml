@@ -1,0 +1,21 @@
+name: Opentoonz
+createdAt: '2024-10-06T01:07:01.460Z'
+headlight: OpenToonz - Um software de criação de animação 2D completo e de código aberto
+source: github opentoonz/opentoonz
+url: https://opentoonz.github.io/
+logo: /open-source/opentoonz/logo.png
+description: ''
+categories:
+  - Design
+alterantiveTo:
+  - adobe-animate
+  - pencil2d
+relatedProjects:
+  - flynn
+  - tsuru
+  - graylog
+  - activeworkflow
+tutorials:
+  - title: ''
+    link: ''
+images: /public/open-source/opentoonz/

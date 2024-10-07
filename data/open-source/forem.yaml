@@ -1,0 +1,22 @@
+name: Forem
+createdAt: '2024-10-06T00:51:54.551Z'
+headlight: Para capacitar a comunidade 🌱
+source: github forem/forem
+url: https://www.forem.com/
+logo: /open-source/forem/logo.png
+description: ''
+categories:
+  - Community
+alterantiveTo:
+  - circle
+  - tribe
+relatedProjects:
+  - lbry-sdk
+  - bookstack
+  - remotely
+  - remark42
+  - spree-commerce
+tutorials:
+  - title: ''
+    link: ''
+images: /public/open-source/forem/

@@ -1,0 +1,20 @@
+name: ClassQuiz
+createdAt: '2024-10-06T00:46:03.083Z'
+headlight: ClassQuiz é um aplicativo de teste como o Kahoot!, mas de código aberto.
+source: github mawoka-myblock/ClassQuiz
+url: https://classquiz.de/
+logo: /open-source/classquiz/logo.png
+description: ''
+categories:
+  - Gaming
+alterantiveTo:
+  - kahoot
+relatedProjects:
+  - terminusdb
+  - grafana
+  - jellyfin
+  - spree-commerce
+tutorials:
+  - title: ''
+    link: ''
+images: /public/open-source/classquiz/

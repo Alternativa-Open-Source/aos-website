@@ -1,0 +1,21 @@
+name: Thelia
+createdAt: '2024-10-06T01:30:05.742Z'
+headlight: Thelia é uma ferramenta de código aberto para criar sites de e-business e gerenciar conteúdo online. Repo contendo a nova versão principal (v2)
+source: github thelia/thelia
+url: https://thelia.net/
+logo: /open-source/thelia/logo.png
+description: ''
+categories:
+  - E-commerce
+alterantiveTo:
+  - shopify
+relatedProjects:
+  - orangehrm
+  - stackstorm
+  - docusaurus
+  - gitea
+  - superset
+tutorials:
+  - title: ''
+    link: ''
+images: /public/open-source/thelia/

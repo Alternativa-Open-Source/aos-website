@@ -1,0 +1,21 @@
+name: Flyimg
+createdAt: '2024-10-06T00:51:06.872Z'
+headlight: Aplicativo nativo da nuvem que redimensiona e corta imagens instantaneamente, entregando imagens otimizadas em formatos como AVIF, WebP, MozJPEG ou PNG usando o ImageMagick, com um sistema de cache eficiente.
+source: github flyimg/flyimg
+url: https://flyimg.io/
+logo: /open-source/flyimg/logo.
+description: ''
+categories:
+  - Design
+alterantiveTo:
+  - imgix
+relatedProjects:
+  - pagure
+  - openreplay
+  - featbit
+  - ploomber
+  - univention-corporate-server
+tutorials:
+  - title: ''
+    link: ''
+images: /public/open-source/flyimg/

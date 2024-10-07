@@ -1,0 +1,21 @@
+name: Snikket
+createdAt: '2024-10-06T01:23:52.733Z'
+headlight: Construtor de imagens para servidor Snikket
+source: github snikket-im/snikket-server
+url: https://snikket.org/service/
+logo: /open-source/snikket/logo.jpeg
+description: ''
+categories:
+  - Communication
+alterantiveTo:
+  - whatsapp
+relatedProjects:
+  - kindmetrics
+  - godot
+  - deepset
+  - apisix
+  - leantime
+tutorials:
+  - title: ''
+    link: ''
+images: /public/open-source/snikket/

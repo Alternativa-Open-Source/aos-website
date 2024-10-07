@@ -1,0 +1,21 @@
+name: Pirsch
+createdAt: '2024-10-06T01:13:19.470Z'
+headlight: Pirsch é uma solução de análise para Go, sem cookies, focada na privacidade e do lado do servidor.
+source: github pirsch-analytics/pirsch
+url: https://pirsch.io/
+logo: /open-source/pirsch/logo.png
+description: ''
+categories:
+  - Analytics
+alterantiveTo:
+  - google-analytics
+relatedProjects:
+  - saleor-commerce
+  - sozi
+  - armorpaint
+  - prestashop
+  - mdbook
+tutorials:
+  - title: ''
+    link: ''
+images: /public/open-source/pirsch/

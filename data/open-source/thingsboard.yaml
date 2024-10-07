@@ -1,0 +1,22 @@
+name: ThingsBoard
+createdAt: '2024-10-06T01:30:37.007Z'
+headlight: Plataforma de IoT de código aberto - Gerenciamento de dispositivos, coleta de dados, processamento e visualização.
+source: github thingsboard/thingsboard
+url: https://thingsboard.io/
+logo: /open-source/thingsboard/logo.png
+description: ''
+categories:
+  - Developer Tools
+alterantiveTo:
+  - google-cloud-iot-core
+  - datadog
+relatedProjects:
+  - linkace
+  - padloc
+  - ntfy-sh
+  - influxdb
+  - musescore
+tutorials:
+  - title: ''
+    link: ''
+images: /public/open-source/thingsboard/

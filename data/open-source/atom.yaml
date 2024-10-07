@@ -1,0 +1,21 @@
+name: Atom
+createdAt: '2024-10-06T00:39:53.640Z'
+headlight: ':atom: O editor de texto hackeavel'
+source: github atom/atom
+url: https://atom.io/
+logo: /open-source/atom/logo.png
+description: ''
+categories:
+  - Documentation
+alterantiveTo:
+  - visual-studio-code
+  - sublime-text
+relatedProjects:
+  - appwrite
+  - webstudio
+  - memgraph
+  - vlc
+tutorials:
+  - title: ''
+    link: ''
+images: /public/open-source/atom/

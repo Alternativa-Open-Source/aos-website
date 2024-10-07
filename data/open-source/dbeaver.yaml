@@ -1,0 +1,21 @@
+name: Dbeaver
+createdAt: '2024-10-06T00:48:24.744Z'
+headlight: Ferramenta de banco de dados universal gratuita e cliente SQL
+source: github dbeaver/dbeaver
+url: https://dbeaver.io/
+logo: /open-source/dbeaver/logo.png
+description: ''
+categories:
+  - Database
+alterantiveTo:
+  - toad
+relatedProjects:
+  - dub
+  - bitwarden
+  - thingsboard
+  - cabal-desktop
+  - responsively
+tutorials:
+  - title: ''
+    link: ''
+images: /public/open-source/dbeaver/

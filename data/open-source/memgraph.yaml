@@ -1,0 +1,22 @@
+name: Memgraph
+createdAt: '2024-10-06T01:02:16.408Z'
+headlight: Banco de dados gráfico de código aberto, criado para streaming de dados em tempo real, compatível com Neo4j.
+source: github memgraph/memgraph
+url: https://memgraph.com/
+logo: /open-source/memgraph/logo.jpeg
+description: ''
+categories:
+  - Database
+alterantiveTo:
+  - tigergraph
+  - amazon-neptune
+relatedProjects:
+  - boxyhq
+  - curiefense
+  - mautic
+  - kukkee
+  - crowd-dev
+tutorials:
+  - title: ''
+    link: ''
+images: /public/open-source/memgraph/

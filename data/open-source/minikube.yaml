@@ -1,0 +1,21 @@
+name: Minikube
+createdAt: '2024-10-06T01:03:22.689Z'
+headlight: Execute o Kubernetes localmente
+source: github kubernetes/minikube
+url: https://minikube.sigs.k8s.io/docs/
+logo: /open-source/minikube/logo.png
+description: ''
+categories:
+  - Internal Tool
+alterantiveTo:
+  - docker-desktop
+relatedProjects:
+  - cabal-desktop
+  - myrtille
+  - jina-ai
+  - pirsch
+  - apache-nifi
+tutorials:
+  - title: ''
+    link: ''
+images: /public/open-source/minikube/

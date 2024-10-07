@@ -1,0 +1,21 @@
+name: Budibase
+createdAt: '2024-10-06T00:45:03.773Z'
+headlight: Plataforma de baixo código para construir aplicativos de negócios e fluxos de trabalho em minutos. Suporta PostgreSQL, MySQL, MSSQL, MongoDB, Rest API, Docker, K8s e mais 🚀
+source: github Budibase/budibase
+url: https://budibase.com/
+logo: /open-source/budibase/logo.png
+description: ''
+categories:
+  - Internal Tool
+alterantiveTo:
+  - retool
+  - powerapps
+relatedProjects:
+  - wire
+  - gimp
+  - onlyoffice
+  - oso
+tutorials:
+  - title: ''
+    link: ''
+images: /public/open-source/budibase/

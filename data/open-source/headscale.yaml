@@ -1,0 +1,21 @@
+name: Headscale
+createdAt: '2024-10-06T00:54:11.027Z'
+headlight: Uma implementação de código aberto e auto-hospedada do servidor de controle Tailscale
+source: github juanfont/headscale
+url: https://headscale.net/
+logo: /open-source/headscale/logo.png
+description: ''
+categories:
+  - VPN
+alterantiveTo:
+  - zerotier
+relatedProjects:
+  - flax-engine
+  - kindmetrics
+  - wekan
+  - grouparoo
+  - gitlab
+tutorials:
+  - title: ''
+    link: ''
+images: /public/open-source/headscale/

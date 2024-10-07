@@ -1,0 +1,20 @@
+name: LightDash
+createdAt: '2024-10-06T01:00:00.749Z'
+headlight: BI de código aberto para equipes que se movem rapidamente ⚡️
+source: github lightdash/lightdash
+url: https://www.lightdash.com/
+logo: /open-source/lightdash/logo.jpeg
+description: ''
+categories:
+  - Metric store
+alterantiveTo:
+  - looker
+relatedProjects:
+  - boost-note
+  - questdb
+  - vuepress
+  - cube-js
+tutorials:
+  - title: ''
+    link: ''
+images: /public/open-source/lightdash/

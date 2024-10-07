@@ -1,0 +1,22 @@
+name: Pimcore
+createdAt: '2024-10-06T01:12:42.881Z'
+headlight: Estrutura principal para a plataforma de gerenciamento de dados e experiência de código aberto (PIM, MDM, CDP, DAM, DXP/CMS e comércio digital)
+source: github pimcore/pimcore
+url: http://www.pimcore.org/
+logo: /open-source/pimcore/logo.png
+description: ''
+categories:
+  - Observability and monitoring
+alterantiveTo:
+  - akeneo
+  - salsify
+  - informatica
+relatedProjects:
+  - chaskiq
+  - humhub
+  - neovim
+  - mirotalk-p2p
+tutorials:
+  - title: ''
+    link: ''
+images: /public/open-source/pimcore/

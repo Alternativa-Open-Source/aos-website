@@ -1,0 +1,23 @@
+name: Label Studio
+createdAt: '2024-10-06T00:58:30.792Z'
+headlight: Label Studio é uma ferramenta de rotulagem e anotação de dados multitipo com formato de saída padronizado
+source: github heartexlabs/label-studio
+url: https://labelstud.io/
+logo: /open-source/label-studio/logo.png
+description: ''
+categories:
+  - Internal Tool
+alterantiveTo:
+  - roboflow
+  - ml-kit
+  - azure
+relatedProjects:
+  - redmine
+  - commento
+  - zinc
+  - pocketbase
+  - padloc
+tutorials:
+  - title: ''
+    link: ''
+images: /public/open-source/label-studio/

@@ -1,0 +1,21 @@
+name: Cal.com
+createdAt: '2024-10-06T00:45:30.812Z'
+headlight: Infraestrutura de agendamento para absolutamente todos.
+source: github calcom/cal.com
+url: https://cal.com/
+logo: /open-source/cal-com/logo.png
+description: ''
+categories:
+  - Scheduling
+alterantiveTo:
+  - calendly
+relatedProjects:
+  - exoframe
+  - bitwarden
+  - bangle-io
+  - apache-guacamole
+  - darktable
+tutorials:
+  - title: ''
+    link: ''
+images: /public/open-source/cal-com/

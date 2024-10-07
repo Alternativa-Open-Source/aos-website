@@ -1,0 +1,22 @@
+name: Flynn
+createdAt: '2024-10-06T00:51:07.222Z'
+headlight: '[NÃO MANUTENÇÃO] Uma plataforma de código aberto de próxima geração como serviço (PaaS)'
+source: github flynn/flynn
+url: https://flynn.io/
+logo: /open-source/flynn/logo.png
+description: ''
+categories:
+  - Deployment
+alterantiveTo:
+  - heroku
+  - render
+relatedProjects:
+  - espocrm
+  - mpv
+  - ackee
+  - nuclei
+  - inlang
+tutorials:
+  - title: ''
+    link: ''
+images: /public/open-source/flynn/

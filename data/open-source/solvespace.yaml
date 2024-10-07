@@ -1,0 +1,23 @@
+name: Solvespace
+createdAt: '2024-10-06T01:23:57.825Z'
+headlight: CAD paramétrico 2D/3D
+source: github solvespace/solvespace
+url: https://solvespace.com/
+logo: /open-source/solvespace/logo.png
+description: ''
+categories:
+  - 3D Modelling
+alterantiveTo:
+  - autocad
+  - autodesk
+  - onshape
+  - sketchup
+relatedProjects:
+  - oso
+  - postal
+  - umami
+  - appbase
+tutorials:
+  - title: ''
+    link: ''
+images: /public/open-source/solvespace/

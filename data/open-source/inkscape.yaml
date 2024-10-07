@@ -1,0 +1,21 @@
+name: Inkscape
+createdAt: '2024-10-06T00:55:58.241Z'
+headlight: ''
+source: github inkscape/inkscape
+url: https://inkscape.org
+logo: /open-source/inkscape/logo.svg
+description: ''
+categories:
+  - Design
+alterantiveTo:
+  - adobe-illustrator
+relatedProjects:
+  - wundergraph
+  - apostrophecms-3
+  - bangle-io
+  - redmine
+  - linkace
+tutorials:
+  - title: ''
+    link: ''
+images: /public/open-source/inkscape/

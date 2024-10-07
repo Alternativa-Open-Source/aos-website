@@ -1,0 +1,21 @@
+name: Strut
+createdAt: '2024-10-06T01:24:33.021Z'
+headlight: Strut - Um editor de apresentações Impress.js e Bespoke.js
+source: github tantaman/Strut
+url: http://strut.io/
+logo: /open-source/strut/logo.
+description: ''
+categories:
+  - Design
+alterantiveTo:
+  - prezi
+relatedProjects:
+  - clearflask
+  - timescaledb
+  - session
+  - shopaholic
+  - modulz
+tutorials:
+  - title: ''
+    link: ''
+images: /public/open-source/strut/

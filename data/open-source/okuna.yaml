@@ -1,0 +1,21 @@
+name: Okuna
+createdAt: '2024-10-06T01:06:11.508Z'
+headlight: 🤖 API da rede social Okuna
+source: github OkunaOrg/okuna-api
+url: https://okuna.io
+logo: /open-source/okuna/logo.png
+description: ''
+categories:
+  - Social Media
+alterantiveTo:
+  - facebook
+relatedProjects:
+  - zulip
+  - flagsmith
+  - docusaurus
+  - linkfree
+  - listmonk
+tutorials:
+  - title: ''
+    link: ''
+images: /public/open-source/okuna/

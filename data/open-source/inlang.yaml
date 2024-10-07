@@ -1,0 +1,23 @@
+name: Inlang
+createdAt: '2024-10-06T00:56:30.013Z'
+headlight: ecossistema de globalização e backend de controle de mudanças
+source: github inlang/inlang
+url: https://github.com/inlang/inlang
+logo: /open-source/inlang/logo.png
+description: ''
+categories:
+  - Developer Tools
+alterantiveTo:
+  - lokalise
+  - poeditor
+  - transifex
+relatedProjects:
+  - phpbb
+  - laverna
+  - meshcentral
+  - mirotalk
+  - clickhouse
+tutorials:
+  - title: ''
+    link: ''
+images: /public/open-source/inlang/

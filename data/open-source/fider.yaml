@@ -1,0 +1,20 @@
+name: Fider
+createdAt: '2024-10-06T00:50:20.051Z'
+headlight: Plataforma aberta para coletar e priorizar feedback
+source: github getfider/fider
+url: https://getfider.com/
+logo: /open-source/fider/logo.png
+description: ''
+categories:
+  - Product Management
+alterantiveTo:
+  - canny
+relatedProjects:
+  - openpilot
+  - umami
+  - boost-note
+  - qgis
+tutorials:
+  - title: ''
+    link: ''
+images: /public/open-source/fider/

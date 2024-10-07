@@ -1,0 +1,21 @@
+name: Pixelorama
+createdAt: '2024-10-06T01:13:28.900Z'
+headlight: Um editor de sprites 2D gratuito e de código aberto, feito com o Godot Engine! Disponível no Windows, Linux, macOS e na Web!
+source: github Orama-Interactive/Pixelorama
+url: https://orama-interactive.itch.io/pixelorama
+logo: /open-source/pixelorama/logo.png
+description: ''
+categories:
+  - Design
+alterantiveTo:
+  - aseprite
+relatedProjects:
+  - clipperz
+  - nuclei
+  - akaunting
+  - graylog
+  - nextcloud
+tutorials:
+  - title: ''
+    link: ''
+images: /public/open-source/pixelorama/

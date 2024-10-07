@@ -1,0 +1,22 @@
+name: Mautic
+createdAt: '2024-10-06T01:01:34.919Z'
+headlight: 'Mautic: Software de automação de marketing de código aberto.'
+source: github mautic/mautic
+url: https://www.mautic.org/
+logo: /open-source/mautic/logo.png
+description: ''
+categories:
+  - Automation
+alterantiveTo:
+  - mailchimp
+  - activecampaign
+relatedProjects:
+  - astuto
+  - nuclei
+  - gatus
+  - quickwit
+  - nexrender
+tutorials:
+  - title: ''
+    link: ''
+images: /public/open-source/mautic/

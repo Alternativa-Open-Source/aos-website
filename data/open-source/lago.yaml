@@ -1,0 +1,21 @@
+name: Lago
+createdAt: '2024-10-06T00:58:36.151Z'
+headlight: Medição de código aberto e API de cobrança baseada em uso ⭐️ Rastreamento de consumo, gerenciamento de assinaturas, iterações de preços, orquestração de pagamentos e análise de receitas
+source: github getlago/lago
+url: https://www.getlago.com/
+logo: /open-source/lago/logo.png
+description: ''
+categories:
+  - Finances
+alterantiveTo:
+  - stripe-billing
+relatedProjects:
+  - helpy
+  - quickwit
+  - prestashop
+  - tdengine
+  - nexrender
+tutorials:
+  - title: ''
+    link: ''
+images: /public/open-source/lago/

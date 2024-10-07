@@ -1,0 +1,21 @@
+name: Mirotalk
+createdAt: '2024-10-06T01:03:29.193Z'
+headlight: 🏆 WebRTC - SFU - Videoconferências simples, seguras e escaláveis em tempo real de até 4k, compatíveis com todos os navegadores e plataformas.
+source: github miroslavpejic85/mirotalksfu
+url: https://sfu.mirotalk.com/
+logo: /open-source/mirotalk/logo.
+description: ''
+categories:
+  - Video
+alterantiveTo:
+  - zoom
+  - google-meet
+relatedProjects:
+  - apache-guacamole
+  - cachet
+  - raycast-extensions
+  - rustdesk
+tutorials:
+  - title: ''
+    link: ''
+images: /public/open-source/mirotalk/

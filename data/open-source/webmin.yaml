@@ -1,0 +1,21 @@
+name: Webmin
+createdAt: '2024-10-06T01:33:56.147Z'
+headlight: Painel de controle de gerenciamento de servidor baseado na web, poderoso e flexível
+source: github webmin/webmin
+url: http://www.webmin.com/
+logo: /open-source/webmin/logo.png
+description: ''
+categories:
+  - Developer Tools
+alterantiveTo:
+  - cpanel
+relatedProjects:
+  - influxdb
+  - invoiceninja
+  - astuto
+  - strut
+  - vscodium
+tutorials:
+  - title: ''
+    link: ''
+images: /public/open-source/webmin/

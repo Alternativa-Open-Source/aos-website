@@ -1,0 +1,21 @@
+name: OhMyForm
+createdAt: '2024-10-06T01:05:40.131Z'
+headlight: ✏️ Alternativa gratuita de código aberto para TypeForm, TellForm ou Google Forms ⛺
+source: github ohmyform/ohmyform
+url: https://ohmyform.com/
+logo: /open-source/ohmyform/logo.png
+description: ''
+categories:
+  - Form Builder
+alterantiveTo:
+  - typeform
+  - googleforms
+relatedProjects:
+  - openscad
+  - discourse
+  - typebot-io
+  - activeworkflow
+tutorials:
+  - title: ''
+    link: ''
+images: /public/open-source/ohmyform/

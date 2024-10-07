@@ -1,0 +1,23 @@
+name: PrestaShop
+createdAt: '2024-10-06T01:14:56.603Z'
+headlight: PrestaShop é a plataforma universal de software de código aberto para criar sua solução de comércio eletrônico.
+source: github prestashop/prestashop
+url: https://www.prestashop.com
+logo: /open-source/prestashop/logo.png
+description: ''
+categories:
+  - E-commerce
+alterantiveTo:
+  - shopify
+  - bigcommerce
+  - woocommerce
+relatedProjects:
+  - rrweb
+  - lmms
+  - openproject
+  - drone
+  - armorpaint
+tutorials:
+  - title: ''
+    link: ''
+images: /public/open-source/prestashop/

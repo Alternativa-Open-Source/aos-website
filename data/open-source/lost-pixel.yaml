@@ -1,0 +1,21 @@
+name: Lost Pixel
+createdAt: '2024-10-06T01:00:45.188Z'
+headlight: Teste visual holístico para seu front-end 🖼 Integração de primeira classe com Storybook, Ladle, Playwright e outras bibliotecas de front-end.
+source: github lost-pixel/lost-pixel
+url: https://lost-pixel.com/
+logo: /open-source/lost-pixel/logo.png
+description: ''
+categories:
+  - Developer Tools
+alterantiveTo:
+  - chromatic
+  - percy
+relatedProjects:
+  - shoutify
+  - blender
+  - modulz
+  - lowdefy
+tutorials:
+  - title: ''
+    link: ''
+images: /public/open-source/lost-pixel/

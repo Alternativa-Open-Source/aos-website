@@ -1,0 +1,22 @@
+name: LMMS
+createdAt: '2024-10-06T00:58:27.165Z'
+headlight: Software de produção musical multiplataforma
+source: github LMMS/lmms
+url: https://lmms.io/
+logo: /open-source/lmms/logo.png
+description: ''
+categories:
+  - Music
+alterantiveTo:
+  - fl-studio
+  - ableton
+relatedProjects:
+  - orangehrm
+  - matano
+  - kdenlive
+  - openscan
+  - mdbook
+tutorials:
+  - title: ''
+    link: ''
+images: /public/open-source/lmms/

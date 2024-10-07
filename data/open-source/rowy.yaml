@@ -1,0 +1,21 @@
+name: Rowy
+createdAt: '2024-10-06T01:18:06.412Z'
+headlight: Plataforma de backend low-code. Gerencie banco de dados em UI tipo planilha e crie fluxos de trabalho de funções de nuvem em JS/TS, tudo no seu navegador.
+source: github rowyio/rowy
+url: https://www.rowy.io/
+logo: /open-source/rowy/logo.jpeg
+description: ''
+categories:
+  - Database
+alterantiveTo:
+  - airtable
+relatedProjects:
+  - redmine
+  - etherpad
+  - olive-editor
+  - peertube
+  - friendica
+tutorials:
+  - title: ''
+    link: ''
+images: /public/open-source/rowy/

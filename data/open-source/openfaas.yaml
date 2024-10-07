@@ -1,0 +1,21 @@
+name: OpenFaas
+createdAt: '2024-10-06T01:06:27.800Z'
+headlight: OpenFaaS - Funções sem servidor simplificadas
+source: github openfaas/faas
+url: https://www.openfaas.com/
+logo: /open-source/openfaas/logo.png
+description: ''
+categories:
+  - Deployment
+alterantiveTo:
+  - heroku
+  - render
+relatedProjects:
+  - popspace
+  - vendure
+  - speek
+  - kuzzle
+tutorials:
+  - title: ''
+    link: ''
+images: /public/open-source/openfaas/

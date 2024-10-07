@@ -1,0 +1,21 @@
+name: Countly
+createdAt: '2024-10-06T00:47:24.417Z'
+headlight: Countly é uma plataforma de análise de produtos que ajuda equipes a monitorar, analisar e agir de acordo com as ações e o comportamento dos usuários em aplicativos móveis, web e desktop.
+source: github countly/countly-server
+url: https://count.ly
+logo: /open-source/countly/logo.jpeg
+description: ''
+categories:
+  - Analytics
+alterantiveTo:
+  - google-analytics
+relatedProjects:
+  - ackee
+  - growthbook
+  - firefly-iii
+  - keycloak
+  - bagisto
+tutorials:
+  - title: ''
+    link: ''
+images: /public/open-source/countly/

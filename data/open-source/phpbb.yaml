@@ -1,0 +1,22 @@
+name: phpBB
+createdAt: '2024-10-06T01:40:08.524Z'
+headlight: 'Desenvolvimento do phpBB: phpBB é um popular quadro de avisos de código aberto escrito em PHP. Este repositório também contém o histórico da versão 2.'
+source: github phpbb/phpbb
+url: https://www.phpbb.com/
+logo: /open-source/phpbb/logo.svg
+description: ''
+categories:
+  - Community
+alterantiveTo:
+  - tribe
+  - circle
+relatedProjects:
+  - ceph
+  - headscale
+  - ory
+  - lobsters-rails-project
+  - privatebin
+tutorials:
+  - title: ''
+    link: ''
+images: /public/open-source/phpbb/

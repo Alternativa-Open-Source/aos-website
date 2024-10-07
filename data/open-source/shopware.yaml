@@ -1,0 +1,20 @@
+name: Shopware
+createdAt: '2024-10-06T01:23:10.168Z'
+headlight: O Shopware 6 é uma plataforma de comércio aberta baseada no Symfony Framework e Vue e suportada por uma comunidade mundial e mais de 1.500 extensões de comunidade
+source: github shopware/platform
+url: https://www.shopware.com/
+logo: /open-source/shopware/logo.png
+description: ''
+categories:
+  - E-commerce
+alterantiveTo:
+  - shopify
+  - ecwid
+relatedProjects:
+  - ente-io
+  - twake
+  - retroarcher-bundle
+tutorials:
+  - title: ''
+    link: ''
+images: /public/open-source/shopware/

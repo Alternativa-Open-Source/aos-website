@@ -1,0 +1,21 @@
+name: ClearFlask
+createdAt: '2024-10-06T00:46:06.518Z'
+headlight: Ouça seus usuários durante o desenvolvimento do produto com ClearFlask
+source: github clearflask/clearflask
+url: https://clearflask.com/
+logo: /open-source/clearflask/logo.png
+description: ''
+categories:
+  - Product Management
+alterantiveTo:
+  - canny
+relatedProjects:
+  - speek
+  - ente-io
+  - nocodb
+  - modrinth
+  - jitsi
+tutorials:
+  - title: ''
+    link: ''
+images: /public/open-source/clearflask/

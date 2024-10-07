@@ -1,0 +1,23 @@
+name: FeatureBase
+createdAt: '2024-10-06T00:50:15.844Z'
+headlight: 'Um banco de dados analítico incrivelmente rápido, construído em bitmaps. Perfeito para aplicativos ML. Saiba mais em: http://docs.featurebase.com/. Inicie uma instância do Docker: https://hub.docker.com/r/featurebasedb/featurebase'
+source: github FeatureBaseDB/featurebase
+url: https://www.featurebase.com/
+logo: /open-source/featurebase/logo.png
+description: ''
+categories:
+  - Database
+alterantiveTo:
+  - imply
+  - pinot
+  - mongodb
+relatedProjects:
+  - kontalk
+  - gdevelop
+  - linkace
+  - clamav
+  - featbit
+tutorials:
+  - title: ''
+    link: ''
+images: /public/open-source/featurebase/

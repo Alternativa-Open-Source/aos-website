@@ -1,0 +1,22 @@
+name: Bagisto
+createdAt: '2024-10-06T00:44:14.875Z'
+headlight: Plataforma de comércio eletrônico Laravel gratuita e de código aberto
+source: github bagisto/bagisto
+url: https://bagisto.com
+logo: /open-source/bagisto/logo.png
+description: ''
+categories:
+  - E-commerce
+alterantiveTo:
+  - shopify
+  - bigcommerce
+relatedProjects:
+  - hestia
+  - bitwarden
+  - sulu
+  - featbit
+  - peppermint
+tutorials:
+  - title: ''
+    link: ''
+images: /public/open-source/bagisto/

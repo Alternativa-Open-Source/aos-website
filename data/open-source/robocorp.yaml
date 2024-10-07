@@ -1,0 +1,21 @@
+name: RoboCorp
+createdAt: '2024-10-06T01:17:55.802Z'
+headlight: Ambientes Python repetíveis, móveis e isolados para sua automação. 🚀
+source: github robocorp/rcc
+url: https://robocorp.com/
+logo: /open-source/robocorp/logo.png
+description: ''
+categories:
+  - Robotic Process Automation (RPA)
+alterantiveTo:
+  - uipath
+relatedProjects:
+  - schildichat
+  - kalker
+  - jina-ai
+  - linkace
+  - mindsdb
+tutorials:
+  - title: ''
+    link: ''
+images: /public/open-source/robocorp/

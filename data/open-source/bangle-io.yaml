@@ -1,0 +1,22 @@
+name: Bangle-io
+createdAt: '2024-10-06T00:44:20.677Z'
+headlight: Um aplicativo de anotações WYSIWYG somente na web que salva notas localmente em formato markdown.
+source: github bangle-io/bangle-io
+url: https://bangle.io/
+logo: /open-source/bangle-io/logo.png
+description: ''
+categories:
+  - Notetaking
+alterantiveTo:
+  - notion
+  - evernote
+  - google-docs
+relatedProjects:
+  - chatwoot
+  - godot
+  - apache-guacamole
+  - rudderstack
+tutorials:
+  - title: ''
+    link: ''
+images: /public/open-source/bangle-io/

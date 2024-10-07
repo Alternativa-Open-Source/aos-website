@@ -1,0 +1,21 @@
+name: Logseq
+createdAt: '2024-10-06T01:00:39.351Z'
+headlight: 'Uma plataforma de código aberto, com foco em privacidade, para gerenciamento de conhecimento e colaboração. Link para download: http://github.com/logseq/logseq/releases. roteiro: http://trello.com/b/8txSM12G/roadmap'
+source: github logseq/logseq
+url: https://logseq.com/
+logo: /open-source/logseq/logo.png
+description: ''
+categories:
+  - Notetaking
+alterantiveTo:
+  - roam-research
+relatedProjects:
+  - schildichat
+  - misskey
+  - opensearch
+  - wundergraph
+  - docusaurus
+tutorials:
+  - title: ''
+    link: ''
+images: /public/open-source/logseq/

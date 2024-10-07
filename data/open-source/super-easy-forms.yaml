@@ -1,0 +1,20 @@
+name: Super Easy Forms
+createdAt: '2024-10-06T01:25:00.452Z'
+headlight: A maneira mais fácil de gerar formulários para seu site estático
+source: github gkpty/super-easy-forms
+url: https://supereasyforms.com/
+logo: /open-source/super-easy-forms/logo.svg
+description: ''
+categories:
+  - Form Builder
+alterantiveTo:
+  - typeform
+relatedProjects:
+  - opencart
+  - fider
+  - passwordcockpit
+  - kuzzle
+tutorials:
+  - title: ''
+    link: ''
+images: /public/open-source/super-easy-forms/

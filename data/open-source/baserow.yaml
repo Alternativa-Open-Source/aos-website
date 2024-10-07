@@ -1,0 +1,22 @@
+name: Baserow
+createdAt: '2024-10-06T00:44:22.988Z'
+headlight: O repositório oficial é hospedado em https://gitlab.com/bramw/baserow. Baserow é uma ferramenta de banco de dados sem código de código aberto e alternativa ao Airtable.
+source: github bram2w/baserow
+url: https://baserow.io
+logo: /open-source/baserow/logo.png
+description: ''
+categories:
+  - Database
+alterantiveTo:
+  - airtable
+  - google-sheets
+relatedProjects:
+  - lowdefy
+  - rowy
+  - curiefense
+  - wire
+  - peertube
+tutorials:
+  - title: ''
+    link: ''
+images: /public/open-source/baserow/

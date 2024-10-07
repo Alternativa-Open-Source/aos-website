@@ -1,0 +1,21 @@
+name: Plasmic
+createdAt: '2024-10-06T01:13:38.227Z'
+headlight: Construtor visual para React. Crie apps, sites e conteúdo. Integre com sua base de código.
+source: github plasmicapp/plasmic
+url: https://www.plasmic.app/
+logo: /open-source/plasmic/logo.png
+description: ''
+categories:
+  - CMS
+alterantiveTo:
+  - contentful
+relatedProjects:
+  - boxbilling
+  - apache-nifi
+  - strut
+  - humhub
+  - kuzzle
+tutorials:
+  - title: ''
+    link: ''
+images: /public/open-source/plasmic/

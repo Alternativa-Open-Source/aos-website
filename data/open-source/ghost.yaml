@@ -1,0 +1,22 @@
+name: Ghost
+createdAt: '2024-10-06T00:52:28.196Z'
+headlight: Tecnologia independente para publicações modernas, associações, assinaturas e boletins informativos.
+source: github TryGhost/Ghost
+url: https://ghost.org/
+logo: /open-source/ghost/logo.png
+description: ''
+categories:
+  - Platform as a service
+alterantiveTo:
+  - medium
+  - substack
+relatedProjects:
+  - dgraph
+  - flagsmith
+  - lineage-os
+  - linkace
+  - bagisto
+tutorials:
+  - title: ''
+    link: ''
+images: /public/open-source/ghost/

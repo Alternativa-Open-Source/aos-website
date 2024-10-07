@@ -1,0 +1,22 @@
+name: Fritzing
+createdAt: '2024-10-06T00:52:12.619Z'
+headlight: Aplicativo de desktop com problemas
+source: github fritzing/fritzing-app
+url: https://fritzing.org/
+logo: /open-source/fritzing/logo.png
+description: ''
+categories:
+  - Community
+alterantiveTo:
+  - multisim
+  - proteus
+relatedProjects:
+  - bitwarden
+  - formbricks
+  - zinc
+  - owncloud
+  - xournalpp
+tutorials:
+  - title: ''
+    link: ''
+images: /public/open-source/fritzing/

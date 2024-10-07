@@ -1,0 +1,22 @@
+name: Automa
+createdAt: '2024-10-06T00:44:09.233Z'
+headlight: Uma extensão do navegador para automatizar seu navegador conectando blocos
+source: github AutomaApp/automa
+url: https://www.automa.site/
+logo: /open-source/automa/logo.png
+description: ''
+categories:
+  - Browser
+alterantiveTo:
+  - uipath
+  - zapier
+relatedProjects:
+  - taiga
+  - concrete
+  - shoutify
+  - karate
+  - open-web-analytics
+tutorials:
+  - title: ''
+    link: ''
+images: /public/open-source/automa/

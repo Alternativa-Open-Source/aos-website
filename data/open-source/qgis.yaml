@@ -1,0 +1,21 @@
+name: QGIS
+createdAt: '2024-10-06T01:15:12.407Z'
+headlight: QGIS é um sistema de informação geográfica (GIS) gratuito, de código aberto e multiplataforma (lin/win/mac)
+source: github qgis/QGIS
+url: https://qgis.org/en/site/
+logo: /open-source/qgis/logo.png
+description: ''
+categories:
+  - Customer Data
+alterantiveTo:
+  - arcgis
+relatedProjects:
+  - graphite-docs
+  - erxes
+  - open-web-analytics
+  - minio
+  - responsively
+tutorials:
+  - title: ''
+    link: ''
+images: /public/open-source/qgis/

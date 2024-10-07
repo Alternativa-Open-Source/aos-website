@@ -1,0 +1,22 @@
+name: Keila
+createdAt: '2024-10-06T00:57:25.998Z'
+headlight: Ferramenta de boletim informativo de código aberto.
+source: github pentacent/keila
+url: https://www.keila.io/
+logo: /open-source/keila/logo.svg
+description: ''
+categories:
+  - Email marketing
+alterantiveTo:
+  - mailchimp
+  - sendinblue
+relatedProjects:
+  - boost-note
+  - raycast-extensions
+  - avideo
+  - commento
+  - opensearch
+tutorials:
+  - title: ''
+    link: ''
+images: /public/open-source/keila/

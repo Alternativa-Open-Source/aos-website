@@ -1,0 +1,23 @@
+name: Ant-Media-Server
+createdAt: '2024-10-06T00:33:25.139Z'
+headlight: O Ant Media Server é um software de mecanismo de transmissão ao vivo que fornece transmissão adaptável de latência ultrabaixa usando a tecnologia WebRTC com latência de ~0,5 segundos. O Ant Media Server é autoescalável e pode ser executado no local ou na nuvem.
+source: github ant-media/Ant-Media-Server
+url: https://antmedia.io/
+logo: /open-source/ant-media-server/logo.png
+description: ''
+categories:
+  - Streaming
+alterantiveTo:
+  - agora
+  - wowza
+  - twilio
+relatedProjects:
+  - gravitl
+  - schildichat
+  - kukkee
+  - jellyfin
+  - hestia
+tutorials:
+  - title: ''
+    link: ''
+images: /public/open-source/ant-media-server/

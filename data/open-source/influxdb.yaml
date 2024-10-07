@@ -1,0 +1,21 @@
+name: InfluxDB
+createdAt: '2024-10-06T00:55:53.507Z'
+headlight: Armazenamento de dados escalável para métricas, eventos e análises em tempo real
+source: github influxdata/influxdb
+url: https://www.influxdata.com/
+logo: /open-source/influxdb/logo.jpeg
+description: ''
+categories:
+  - Database
+alterantiveTo:
+  - kdb
+relatedProjects:
+  - tsuru
+  - taiga
+  - terminusdb
+  - obs-studio
+  - thelia
+tutorials:
+  - title: ''
+    link: ''
+images: /public/open-source/influxdb/

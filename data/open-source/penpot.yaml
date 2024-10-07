@@ -1,0 +1,21 @@
+name: Penpot
+createdAt: '2024-10-06T01:11:59.555Z'
+headlight: Penpot - A plataforma de design e prototipagem de código aberto
+source: github penpot/penpot
+url: https://penpot.app/
+logo: /open-source/penpot/logo.png
+description: ''
+categories:
+  - Design
+alterantiveTo:
+  - figma
+relatedProjects:
+  - zitadel
+  - dgraph
+  - friendica
+  - insomnia
+  - wundergraph
+tutorials:
+  - title: ''
+    link: ''
+images: /public/open-source/penpot/

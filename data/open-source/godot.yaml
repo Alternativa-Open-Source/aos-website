@@ -1,0 +1,22 @@
+name: Godot
+createdAt: '2024-10-06T00:53:19.937Z'
+headlight: Godot Engine – Motor de jogo multiplataforma 2D e 3D
+source: github godotengine/godot
+url: https://godotengine.org/
+logo: /open-source/godot/logo.png
+description: ''
+categories:
+  - Gaming
+alterantiveTo:
+  - unreal-engine-ue4
+  - unity3d
+relatedProjects:
+  - anki
+  - boxyhq
+  - natron
+  - invidious
+  - rocket-chat
+tutorials:
+  - title: ''
+    link: ''
+images: /public/open-source/godot/

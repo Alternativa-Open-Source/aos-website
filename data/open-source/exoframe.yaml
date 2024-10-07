@@ -1,0 +1,22 @@
+name: Exoframe
+createdAt: '2024-10-06T00:49:36.968Z'
+headlight: Exoframe é uma ferramenta auto-hospedada que permite implantações simples de um comando usando o Docker
+source: github exoframejs/exoframe
+url: https://exoframejs.github.io/exoframe/
+logo: /open-source/exoframe/logo.png
+description: ''
+categories:
+  - Developer Tools
+alterantiveTo:
+  - vercel
+  - heroku
+relatedProjects:
+  - crowdsec
+  - gimp
+  - hestia
+  - retroarcher-bundle
+  - lago
+tutorials:
+  - title: ''
+    link: ''
+images: /public/open-source/exoframe/

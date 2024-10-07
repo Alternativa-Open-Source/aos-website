@@ -1,0 +1,20 @@
+name: GIMP
+createdAt: '2024-10-06T00:52:20.081Z'
+headlight: Espelho somente leitura de https://gitlab.gnome.org/GNOME/gimp
+source: github GNOME/gimp
+url: https://github.com/GNOME/gimp
+logo: /open-source/gimp/logo.png
+description: ''
+categories:
+  - Design
+alterantiveTo:
+  - photoshop
+relatedProjects:
+  - nodetube
+  - modulz
+  - crowdsec
+  - dub
+tutorials:
+  - title: ''
+    link: ''
+images: /public/open-source/gimp/

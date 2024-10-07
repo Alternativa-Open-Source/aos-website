@@ -1,0 +1,21 @@
+name: Goaccess
+createdAt: '2024-10-06T00:52:47.063Z'
+headlight: GoAccess é um analisador de web log em tempo real e visualizador interativo que roda em um terminal em sistemas *nix ou através do seu navegador.
+source: github allinurl/goaccess
+url: https://goaccess.io/
+logo: /open-source/goaccess/logo.png
+description: ''
+categories:
+  - Analytics
+alterantiveTo:
+  - google-analytics
+relatedProjects:
+  - responsively
+  - images-weservnl
+  - inlang
+  - wallabag
+  - uptime-kuma
+tutorials:
+  - title: ''
+    link: ''
+images: /public/open-source/goaccess/

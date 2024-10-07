@@ -1,0 +1,22 @@
+name: rfbx
+createdAt: '2024-10-06T01:40:46.494Z'
+headlight: Motor/Framework de jogo leve em C++17 com editor WYSIWYG. Ligações experimentais em C#.
+source: github rbfx/rbfx
+url: '#'
+logo: /open-source/rfbx/logo.
+description: ''
+categories:
+  - Gaming
+alterantiveTo:
+  - unreal-engine-ue4
+  - unity3d
+relatedProjects:
+  - signoz
+  - typebot-io
+  - lowdefy
+  - label-studio
+  - zammad
+tutorials:
+  - title: ''
+    link: ''
+images: /public/open-source/rfbx/

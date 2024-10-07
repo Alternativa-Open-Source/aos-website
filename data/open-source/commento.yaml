@@ -1,0 +1,20 @@
+name: Commento
+createdAt: '2024-10-06T00:47:10.505Z'
+headlight: Uma plataforma de comentários rápida e sem inchaço (espelho do Github)
+source: github adtac/commento
+url: https://commento.io/
+logo: /open-source/commento/logo.jpeg
+description: ''
+categories:
+  - Communication
+alterantiveTo:
+  - disqus
+relatedProjects:
+  - jam
+  - jenkins
+  - prefect
+  - quant-ux
+tutorials:
+  - title: ''
+    link: ''
+images: /public/open-source/commento/

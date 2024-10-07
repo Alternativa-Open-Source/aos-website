@@ -1,0 +1,22 @@
+name: Flarum
+createdAt: '2024-10-06T00:50:45.157Z'
+headlight: Software de fórum simples para criar grandes comunidades.
+source: github flarum/framework
+url: https://flarum.org/
+logo: /open-source/flarum/logo.png
+description: ''
+categories:
+  - Community
+alterantiveTo:
+  - tribe
+  - circle
+relatedProjects:
+  - traefik
+  - rallly
+  - openscad
+  - jitsu
+  - graphite-docs
+tutorials:
+  - title: ''
+    link: ''
+images: /public/open-source/flarum/

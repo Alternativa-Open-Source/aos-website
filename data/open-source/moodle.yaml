@@ -1,0 +1,21 @@
+name: Moodle
+createdAt: '2024-10-06T01:03:41.417Z'
+headlight: Moodle - a plataforma de aprendizagem de código aberto do mundo
+source: github moodle/moodle
+url: https://moodle.org/
+logo: /open-source/moodle/logo.png
+description: ''
+categories:
+  - Platform as a service
+alterantiveTo:
+  - blackboard
+relatedProjects:
+  - pirsch
+  - peertube
+  - peppermint
+  - pocketbase
+  - redmine
+tutorials:
+  - title: ''
+    link: ''
+images: /public/open-source/moodle/

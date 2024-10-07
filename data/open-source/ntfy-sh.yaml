@@ -1,0 +1,22 @@
+name: Ntfy.sh
+createdAt: '2024-10-06T01:05:13.392Z'
+headlight: Envie notificações push para seu telefone ou desktop usando PUT/POST
+source: github binwiederhier/ntfy
+url: https://ntfy.sh/
+logo: /open-source/ntfy-sh/logo.png
+description: ''
+categories:
+  - Communication
+alterantiveTo:
+  - pushbullet
+  - pushover
+relatedProjects:
+  - activeworkflow
+  - cloudogu-ecosystem
+  - ghost
+  - solvespace
+  - authpass
+tutorials:
+  - title: ''
+    link: ''
+images: /public/open-source/ntfy-sh/

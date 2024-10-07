@@ -1,0 +1,20 @@
+name: Taiga
+createdAt: '2024-10-06T01:29:50.288Z'
+headlight: Plataforma de gerenciamento de projetos Agile. Construído em cima de Django e AngularJS
+source: github taigaio/taiga-back
+url: https://taiga.io/
+logo: /open-source/taiga/logo.png
+description: ''
+categories:
+  - Product Management
+alterantiveTo:
+  - trello
+relatedProjects:
+  - ploomber
+  - openbb-terminal
+  - onlyoffice
+  - aptabase
+tutorials:
+  - title: ''
+    link: ''
+images: /public/open-source/taiga/

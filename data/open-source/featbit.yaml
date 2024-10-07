@@ -1,0 +1,21 @@
+name: FeatBit
+createdAt: '2024-10-06T00:49:42.972Z'
+headlight: Um serviço de sinalizadores de recursos escrito em .NET
+source: github featbit/featbit
+url: https://github.com/featbit/featbit
+logo: /open-source/featbit/logo.png
+description: ''
+categories:
+  - Developer Tools
+alterantiveTo:
+  - launchdarkly
+relatedProjects:
+  - dendron
+  - huginn
+  - boxyhq
+  - meshcentral
+  - beekeeper-studio
+tutorials:
+  - title: ''
+    link: ''
+images: /public/open-source/featbit/

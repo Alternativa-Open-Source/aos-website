@@ -1,0 +1,22 @@
+name: ArangoDB
+createdAt: '2024-10-06T00:39:36.745Z'
+headlight: 🥑 ArangoDB é um banco de dados multimodelo nativo com modelos de dados flexíveis para documentos, gráficos e valores-chave. Crie aplicativos de alto desempenho usando uma linguagem de consulta conveniente semelhante a SQL ou extensões JavaScript.
+source: github arangodb/arangodb
+url: https://www.arangodb.com/
+logo: /open-source/arangodb/logo.png
+description: ''
+categories:
+  - Database
+alterantiveTo:
+  - tigergraph
+  - amazon-neptune
+relatedProjects:
+  - postgres
+  - nexrender
+  - rfbx
+  - modulz
+  - tina
+tutorials:
+  - title: ''
+    link: ''
+images: /public/open-source/arangodb/

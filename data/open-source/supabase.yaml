@@ -1,21 +1,21 @@
 name: Supabase
-createdAt: '2024-10-05T06:26:20.010Z'
+createdAt: '2024-10-06T01:24:57.032Z'
 headlight: A alternativa de código aberto ao Firebase.
 source: github supabase/supabase
 url: https://supabase.io/
-logo: /logos/supabase/logo.svg
+logo: /open-source/supabase/logo.svg
 description: ''
 categories:
   - Backend service
 alterantiveTo:
   - firebase
 relatedProjects:
-  - vendure
-  - wallabag
-  - label-studio
-  - briefing
-  - supabase
+  - graphite-docs
+  - neovim
+  - akaunting
+  - fosscord
+  - nhost
 tutorials:
   - title: ''
     link: ''
-images: /public/logos/supabase/
+images: /public/open-source/supabase/

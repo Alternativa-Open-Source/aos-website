@@ -1,0 +1,21 @@
+name: Vesta
+createdAt: '2024-10-06T01:32:47.249Z'
+headlight: Painel de controle VESTA
+source: github serghey-rodin/vesta
+url: https://vestacp.com/
+logo: /open-source/vesta/logo.jpeg
+description: ''
+categories:
+  - Developer Tools
+alterantiveTo:
+  - cpanel
+relatedProjects:
+  - growthbook
+  - grouparoo
+  - lesspass
+  - ohmyform
+  - mattermost
+tutorials:
+  - title: ''
+    link: ''
+images: /public/open-source/vesta/

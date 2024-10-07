@@ -1,0 +1,23 @@
+name: Tolgee
+createdAt: '2024-10-06T01:31:01.354Z'
+headlight: Plataforma de localização baseada na web, amigável para desenvolvedores e tradutores
+source: github tolgee/server
+url: https://tolgee.io/
+logo: /open-source/tolgee/logo.jpeg
+description: ''
+categories:
+  - Developer Tools
+alterantiveTo:
+  - lokalise
+  - crowdin
+  - phrase
+relatedProjects:
+  - listmonk
+  - cachet
+  - appbase
+  - passwordcockpit
+  - snikket
+tutorials:
+  - title: ''
+    link: ''
+images: /public/open-source/tolgee/

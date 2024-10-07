@@ -1,0 +1,21 @@
+name: Element
+createdAt: '2024-10-06T00:49:12.968Z'
+headlight: Um cliente de colaboração Matrix brilhante para a web.
+source: github vector-im/element-web
+url: https://element.io/
+logo: /open-source/element/logo.svg
+description: ''
+categories:
+  - Communication
+alterantiveTo:
+  - slack
+  - microsoft-teams
+  - discord
+relatedProjects:
+  - netbird
+  - movim
+  - raycast-extensions
+tutorials:
+  - title: ''
+    link: ''
+images: /public/open-source/element/

@@ -1,0 +1,21 @@
+name: Anki
+createdAt: '2024-10-06T00:33:22.468Z'
+headlight: Componentes de backend e web compartilhados do Anki e o frontend Qt
+source: github ankitects/anki
+url: https://apps.ankiweb.net/
+logo: /open-source/anki/logo.png
+description: ''
+categories:
+  - Notetaking
+alterantiveTo:
+  - quizlet
+relatedProjects:
+  - espocrm
+  - shotcut
+  - ghidra
+  - kontalk
+  - temporal
+tutorials:
+  - title: ''
+    link: ''
+images: /public/open-source/anki/

@@ -1,0 +1,21 @@
+name: Verdaccio
+createdAt: '2024-10-06T01:32:43.520Z'
+headlight: 📦🔐 Um registro de proxy privado Node.js leve
+source: github verdaccio/verdaccio
+url: https://www.verdaccio.org/
+logo: /open-source/verdaccio/logo.svg
+description: ''
+categories:
+  - Developer Tools
+alterantiveTo:
+  - npm
+relatedProjects:
+  - spree-commerce
+  - odoo
+  - inkscape
+  - robocorp
+  - prometheus
+tutorials:
+  - title: ''
+    link: ''
+images: /public/open-source/verdaccio/

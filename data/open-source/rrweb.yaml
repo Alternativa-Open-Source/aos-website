@@ -1,0 +1,22 @@
+name: RRweb
+createdAt: '2024-10-06T01:16:03.046Z'
+headlight: gravar e reproduzir a web
+source: github rrweb-io/rrweb
+url: https://www.rrweb.io/
+logo: /open-source/rrweb/logo.png
+description: ''
+categories:
+  - Video
+alterantiveTo:
+  - hotjar
+  - fullstory
+  - logrocket
+relatedProjects:
+  - metabase
+  - filestash
+  - sonic
+  - drawio
+tutorials:
+  - title: ''
+    link: ''
+images: /public/open-source/rrweb/

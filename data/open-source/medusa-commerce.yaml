@@ -1,0 +1,22 @@
+name: Medusa Commerce
+createdAt: '2024-10-06T01:01:41.214Z'
+headlight: Blocos de construção para o comércio digital
+source: github medusajs/medusa
+url: https://www.medusa-commerce.com
+logo: /open-source/medusa-commerce/logo.png
+description: ''
+categories:
+  - E-commerce
+alterantiveTo:
+  - shopify
+  - bigcommerce
+relatedProjects:
+  - prometheus
+  - astuto
+  - dbeaver
+  - neo4j
+  - mixxx
+tutorials:
+  - title: ''
+    link: ''
+images: /public/open-source/medusa-commerce/

@@ -1,9 +1,9 @@
 name: OBS Studio
-createdAt: '2024-10-05T06:27:25.774Z'
+createdAt: '2024-10-06T01:05:24.997Z'
 headlight: OBS Studio - Software gratuito e de código aberto para transmissão ao vivo e gravação de tela
 source: github obsproject/obs-studio
 url: https://obsproject.com/
-logo: /logos/obs-studio/logo.png
+logo: /open-source/obs-studio/logo.png
 description: ''
 categories:
   - Video
@@ -18,4 +18,4 @@ relatedProjects:
 tutorials:
   - title: ''
     link: ''
-images: /public/logos/obs-studio/
+images: /public/open-source/obs-studio/

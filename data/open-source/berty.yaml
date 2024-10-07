@@ -1,0 +1,25 @@
+name: Berty
+createdAt: '2024-10-06T00:44:31.467Z'
+headlight: Berty é um aplicativo de mensagens ponto a ponto seguro que funciona com ou sem acesso à Internet, dados de celular ou confiança na rede
+source: github berty/berty
+url: https://berty.tech/
+logo: /open-source/berty/logo.png
+description: ''
+categories:
+  - Communication
+alterantiveTo:
+  - whatsapp
+  - telegram
+  - threema
+  - session
+  - coyim
+relatedProjects:
+  - plasmic
+  - openoffice
+  - erpnext
+  - mirotalk-p2p
+  - checkmk
+tutorials:
+  - title: ''
+    link: ''
+images: /public/open-source/berty/

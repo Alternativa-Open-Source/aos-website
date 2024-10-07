@@ -1,0 +1,21 @@
+name: Apache nifi
+createdAt: '2024-10-06T00:34:02.458Z'
+headlight: Apache NiFi
+source: github apache/nifi
+url: https://nifi.apache.org/
+logo: /open-source/apache-nifi/logo.png
+description: ''
+categories:
+  - Automation
+alterantiveTo:
+  - stackstrom
+  - n8n
+relatedProjects:
+  - zettlr
+  - onlyoffice
+  - freeplane
+  - goaccess
+tutorials:
+  - title: ''
+    link: ''
+images: /public/open-source/apache-nifi/

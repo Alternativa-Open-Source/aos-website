@@ -1,0 +1,23 @@
+name: OpenScan
+createdAt: '2024-10-06T01:06:49.089Z'
+headlight: Um aplicativo de scanner de documentos que respeita a privacidade
+source: github Ethereal-Developers-Inc/OpenScan
+url: https://play.google.com/store/apps/details?id=com.ethereal.openscan&hl=en&gl=US
+logo: /open-source/openscan/logo.png
+description: ''
+categories:
+  - Internal Tool
+alterantiveTo:
+  - adobe-scan
+  - microsoft-lens
+  - camscanner
+relatedProjects:
+  - core
+  - openproject
+  - fosscord
+  - orchest
+  - countly
+tutorials:
+  - title: ''
+    link: ''
+images: /public/open-source/openscan/

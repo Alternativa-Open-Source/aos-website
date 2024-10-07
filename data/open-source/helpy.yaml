@@ -1,0 +1,21 @@
+name: Helpy
+createdAt: '2024-10-06T00:54:48.362Z'
+headlight: Helpy é um aplicativo de suporte ao cliente de helpdesk moderno e de código aberto. Os recursos incluem base de conhecimento, discussões da comunidade e tickets de suporte integrados com e-mail.
+source: github helpyio/helpy
+url: https://helpy.io/
+logo: /open-source/helpy/logo.png
+description: ''
+categories:
+  - Communication
+alterantiveTo:
+  - zendesk
+relatedProjects:
+  - gdevelop
+  - lost-pixel
+  - nuclei
+  - growthbook
+  - pagure
+tutorials:
+  - title: ''
+    link: ''
+images: /public/open-source/helpy/

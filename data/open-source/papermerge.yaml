@@ -1,0 +1,22 @@
+name: Papermerge
+createdAt: '2024-10-06T01:11:43.913Z'
+headlight: Sistema de gerenciamento de documentos de código aberto para arquivos digitais (documentos digitalizados)
+source: github ciur/papermerge
+url: https://www.papermerge.com/
+logo: /open-source/papermerge/logo.svg
+description: ''
+categories:
+  - Documentation
+alterantiveTo:
+  - docuware
+  - elo-office
+relatedProjects:
+  - seafile
+  - laverna
+  - redmine
+  - passwordcockpit
+  - offen
+tutorials:
+  - title: ''
+    link: ''
+images: /public/open-source/papermerge/

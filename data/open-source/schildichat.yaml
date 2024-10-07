@@ -1,0 +1,22 @@
+name: SchildiChat
+createdAt: '2024-10-06T01:18:33.932Z'
+headlight: Cliente Matrix / Element Web/Desktop fork
+source: github SchildiChat/schildichat-desktop
+url: https://schildi.chat/
+logo: /open-source/schildichat/logo.svg
+description: ''
+categories:
+  - Communication
+alterantiveTo:
+  - whatsapp
+  - discord
+relatedProjects:
+  - jellyfin
+  - parse-server
+  - ohmyform
+  - sturdy
+  - lowdefy
+tutorials:
+  - title: ''
+    link: ''
+images: /public/open-source/schildichat/

@@ -1,0 +1,21 @@
+name: AppBase
+createdAt: '2024-10-06T00:34:20.587Z'
+headlight: Pesquisar componentes de IU para React e Vue
+source: github appbaseio/reactivesearch
+url: https://www.appbase.io/
+logo: /open-source/appbase/logo.png
+description: ''
+categories:
+  - Enterprise Search
+alterantiveTo:
+  - algolia
+relatedProjects:
+  - soundux
+  - lokinet
+  - notesnook
+  - victoriametrics
+  - curiefense
+tutorials:
+  - title: ''
+    link: ''
+images: /public/open-source/appbase/

@@ -1,0 +1,21 @@
+name: LosslessCut
+createdAt: '2024-10-06T01:00:44.031Z'
+headlight: O canivete suíço da edição de vídeo/áudio sem perdas
+source: github mifi/lossless-cut
+url: '#'
+logo: /open-source/losslesscut/logo.svg
+description: ''
+categories:
+  - Video
+alterantiveTo:
+  - adobe-premiere-pro
+relatedProjects:
+  - rustdesk
+  - boxbilling
+  - papercups
+  - firefly-iii
+  - dagster
+tutorials:
+  - title: ''
+    link: ''
+images: /public/open-source/losslesscut/

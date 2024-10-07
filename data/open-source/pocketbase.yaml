@@ -1,0 +1,24 @@
+name: Pocketbase
+createdAt: '2024-10-06T01:13:45.712Z'
+headlight: Backend em tempo real de código aberto em 1 arquivo
+source: github pocketbase/pocketbase
+url: https://pocketbase.io/
+logo: /open-source/pocketbase/logo.png
+description: ''
+categories:
+  - Backend service
+alterantiveTo:
+  - firebase
+  - appwrite
+  - nhost
+  - supabase
+relatedProjects:
+  - robocorp
+  - anki
+  - hitobito
+  - element
+  - nextcloud
+tutorials:
+  - title: ''
+    link: ''
+images: /public/open-source/pocketbase/

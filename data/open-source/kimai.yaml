@@ -1,0 +1,21 @@
+name: Kimai
+createdAt: '2024-10-06T00:57:31.332Z'
+headlight: 'Kimai é um aplicativo de controle de tempo multiusuário baseado na web. Funciona muito bem para todos: freelancers, empresas, organizações - todos podem controlar seus tempos, gerar relatórios, criar faturas e fazer muito mais. Versão SaaS disponível em https://www.kimai.cloud'
+source: github kevinpapst/kimai2
+url: https://www.kimai.org/
+logo: /open-source/kimai/logo.png
+description: ''
+categories:
+  - Internal Tool
+alterantiveTo:
+  - toggl-track
+relatedProjects:
+  - storj
+  - clearflask
+  - wire
+  - magento
+  - ente-io
+tutorials:
+  - title: ''
+    link: ''
+images: /public/open-source/kimai/

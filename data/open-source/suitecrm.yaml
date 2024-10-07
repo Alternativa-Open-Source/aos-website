@@ -1,0 +1,22 @@
+name: SuiteCRM
+createdAt: '2024-10-06T01:24:35.538Z'
+headlight: SuiteCRM - CRM de código aberto para o mundo
+source: github salesagility/SuiteCRM
+url: https://www.suitecrm.com/
+logo: /open-source/suitecrm/logo.png
+description: ''
+categories:
+  - CRM
+alterantiveTo:
+  - salesforce
+  - sap
+relatedProjects:
+  - nodetube
+  - appflowy
+  - minikube
+  - arangodb
+  - homebridge
+tutorials:
+  - title: ''
+    link: ''
+images: /public/open-source/suitecrm/

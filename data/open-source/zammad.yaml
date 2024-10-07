@@ -1,0 +1,21 @@
+name: Zammad
+createdAt: '2024-10-06T01:38:38.937Z'
+headlight: Zammad é um sistema de suporte ao cliente/helpdesk de código aberto baseado na web
+source: github zammad/zammad
+url: https://www.zammad.com/
+logo: /open-source/zammad/logo.png
+description: ''
+categories:
+  - Communication
+alterantiveTo:
+  - zendesk
+relatedProjects:
+  - fusio
+  - vanilla
+  - metabase
+  - passbolt
+  - nuclear
+tutorials:
+  - title: ''
+    link: ''
+images: /public/open-source/zammad/

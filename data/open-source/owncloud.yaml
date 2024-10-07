@@ -1,0 +1,21 @@
+name: OwnCloud
+createdAt: '2024-10-06T01:11:26.068Z'
+headlight: ':cloud: núcleo do servidor web ownCloud (arquivos, DAV, etc.)'
+source: github owncloud/core
+url: https://owncloud.org/
+logo: /open-source/owncloud/logo.png
+description: ''
+categories:
+  - Cloud
+alterantiveTo:
+  - google-drive
+relatedProjects:
+  - ohmyform
+  - piwigo
+  - authpass
+  - automa
+  - directus
+tutorials:
+  - title: ''
+    link: ''
+images: /public/open-source/owncloud/

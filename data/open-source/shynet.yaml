@@ -1,0 +1,21 @@
+name: Shynet
+createdAt: '2024-10-06T01:23:38.322Z'
+headlight: Análise da web moderna, detalhada e que respeita a privacidade, que funciona sem cookies ou JS.
+source: github milesmcc/shynet
+url: https://github.com/milesmcc/shynet
+logo: /open-source/shynet/logo.png
+description: ''
+categories:
+  - Analytics
+alterantiveTo:
+  - google-analytics
+relatedProjects:
+  - cloudogu-ecosystem
+  - gatus
+  - nuclear
+  - phpbb
+  - mirotalk
+tutorials:
+  - title: ''
+    link: ''
+images: /public/open-source/shynet/

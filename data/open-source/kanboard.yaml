@@ -1,0 +1,20 @@
+name: Kanboard
+createdAt: '2024-10-06T00:57:12.548Z'
+headlight: Software de gerenciamento de projetos Kanban
+source: github kanboard/kanboard
+url: https://kanboard.org/
+logo: /open-source/kanboard/logo.png
+description: ''
+categories:
+  - Product Management
+alterantiveTo:
+  - trello
+relatedProjects:
+  - neo4j
+  - jellyfin
+  - ant-media-server
+  - rustdesk
+tutorials:
+  - title: ''
+    link: ''
+images: /public/open-source/kanboard/

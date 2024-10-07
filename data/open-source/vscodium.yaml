@@ -1,0 +1,22 @@
+name: Vscodium
+createdAt: '2024-10-06T01:33:13.521Z'
+headlight: lançamentos binários do VS Code sem marca/telemetria/licenciamento da MS
+source: github VSCodium/vscodium
+url: https://vscodium.com/
+logo: /open-source/vscodium/logo.png
+description: ''
+categories:
+  - Developer Tools
+alterantiveTo:
+  - sublime-text
+  - vscode-binaries
+relatedProjects:
+  - chatwoot
+  - postal
+  - papercups
+  - vlc
+  - aptabase
+tutorials:
+  - title: ''
+    link: ''
+images: /public/open-source/vscodium/

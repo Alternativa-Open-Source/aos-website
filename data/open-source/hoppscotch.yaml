@@ -1,0 +1,19 @@
+name: Hoppscotch
+createdAt: '2024-10-06T00:55:04.085Z'
+headlight: 👽 Ecossistema de desenvolvimento de API de código aberto - https://hoppscotch.io
+source: github hoppscotch/hoppscotch
+url: https://hoppscotch.io/
+logo: /open-source/hoppscotch/logo.png
+description: ''
+categories:
+  - API Platform
+alterantiveTo:
+  - postman
+relatedProjects:
+  - tuleap
+  - lightdash
+  - space-cloud
+tutorials:
+  - title: ''
+    link: ''
+images: /public/open-source/hoppscotch/

@@ -1,0 +1,22 @@
+name: Erpnext
+createdAt: '2024-10-06T00:49:18.627Z'
+headlight: Planejamento de Recursos Empresariais (ERP) gratuito e de código aberto
+source: github frappe/erpnext
+url: https://erpnext.com/
+logo: /open-source/erpnext/logo.png
+description: ''
+categories:
+  - CRM
+alterantiveTo:
+  - salesforce
+  - sap
+relatedProjects:
+  - mirotalk
+  - unigraph
+  - twake
+  - writefreely
+  - grist
+tutorials:
+  - title: ''
+    link: ''
+images: /public/open-source/erpnext/

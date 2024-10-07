@@ -1,0 +1,21 @@
+name: Fonoster
+createdAt: '2024-10-06T00:51:42.180Z'
+headlight: 🚀 A alternativa de código aberto ao Twilio.
+source: github fonoster/fonoster
+url: https://fonoster.com/
+logo: /open-source/fonoster/logo.png
+description: ''
+categories:
+  - Communication
+alterantiveTo:
+  - twilio
+relatedProjects:
+  - cryptpad
+  - mattermost
+  - rfbx
+  - lost-pixel
+  - sturdy
+tutorials:
+  - title: ''
+    link: ''
+images: /public/open-source/fonoster/

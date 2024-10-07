@@ -1,0 +1,21 @@
+name: Webstudio
+createdAt: '2024-10-06T01:34:01.384Z'
+headlight: 🖌 Webstudio Visual Builder
+source: github webstudio-is/webstudio-designer
+url: https://webstudio.is/
+logo: /open-source/webstudio/logo.jpeg
+description: ''
+categories:
+  - CMS
+alterantiveTo:
+  - webflow
+relatedProjects:
+  - nvda
+  - open-web-analytics
+  - sendportal
+  - kanboard
+  - typesense
+tutorials:
+  - title: ''
+    link: ''
+images: /public/open-source/webstudio/

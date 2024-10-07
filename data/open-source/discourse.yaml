@@ -1,0 +1,22 @@
+name: Discourse
+createdAt: '2024-10-06T00:48:41.468Z'
+headlight: Uma plataforma para discussão comunitária. Livre, aberta, simples.
+source: github discourse/discourse
+url: https://www.discourse.org/
+logo: /open-source/discourse/logo.png
+description: ''
+categories:
+  - Community
+alterantiveTo:
+  - tribe
+  - circle
+relatedProjects:
+  - fosscord
+  - vue-storefront
+  - zulip
+  - bitwarden
+  - goatcounter
+tutorials:
+  - title: ''
+    link: ''
+images: /public/open-source/discourse/

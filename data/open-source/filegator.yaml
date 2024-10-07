@@ -1,0 +1,21 @@
+name: Filegator
+createdAt: '2024-10-06T00:50:31.322Z'
+headlight: Poderoso gerenciador de arquivos multiusuário
+source: github filegator/filegator
+url: https://filegator.io/
+logo: /open-source/filegator/logo.png
+description: ''
+categories:
+  - Project Management
+alterantiveTo:
+  - wetransfer
+relatedProjects:
+  - linkace
+  - zinc
+  - flipt
+  - thelia
+  - thingsboard
+tutorials:
+  - title: ''
+    link: ''
+images: /public/open-source/filegator/

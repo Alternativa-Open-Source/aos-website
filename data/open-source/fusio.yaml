@@ -1,0 +1,21 @@
+name: Fusio
+createdAt: '2024-10-06T00:52:14.460Z'
+headlight: Plataforma de gerenciamento de API de código aberto
+source: github apioo/fusio
+url: https://www.fusio-project.org/
+logo: /open-source/fusio/logo.png
+description: ''
+categories:
+  - Backend service
+alterantiveTo:
+  - firebase
+relatedProjects:
+  - linkace
+  - dolicloud
+  - milkman
+  - civicrm
+  - plasmic
+tutorials:
+  - title: ''
+    link: ''
+images: /public/open-source/fusio/

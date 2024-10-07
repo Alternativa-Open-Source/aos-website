@@ -1,0 +1,20 @@
+name: Remotely
+createdAt: '2024-10-06T01:17:06.915Z'
+headlight: Uma solução de controle remoto e script remoto, criada com .NET 8, Blazor e SignalR.
+source: github Jay-Rad/Remotely
+url: https://remotely.one/
+logo: /open-source/remotely/logo.png
+description: ''
+categories:
+  - Remote Desktop
+alterantiveTo:
+  - teamviewer
+relatedProjects:
+  - silex
+  - windmill
+  - peppermint
+  - jina-ai
+tutorials:
+  - title: ''
+    link: ''
+images: /public/open-source/remotely/

@@ -1,0 +1,20 @@
+name: Dragonfly
+createdAt: '2024-10-06T00:48:56.281Z'
+headlight: Um substituto moderno para Redis e Memcached
+source: github dragonflydb/dragonfly
+url: https://dragonflydb.io/
+logo: /open-source/dragonfly/logo.png
+description: ''
+categories:
+  - Database
+alterantiveTo:
+  - redis
+  - memcached
+relatedProjects:
+  - concrete
+  - padloc
+  - listmonk
+tutorials:
+  - title: ''
+    link: ''
+images: /public/open-source/dragonfly/

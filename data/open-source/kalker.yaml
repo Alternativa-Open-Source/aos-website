@@ -1,0 +1,21 @@
+name: Kalker
+createdAt: '2024-10-06T00:57:09.954Z'
+headlight: Kalker/kalk é uma calculadora com sintaxe matemática que suporta variáveis e funções definidas pelo usuário, números complexos e estimativa de derivadas e integrais
+source: github PaddiM8/kalker
+url: https://kalker.xyz/
+logo: /open-source/kalker/logo.png
+description: ''
+categories:
+  - Analytics
+alterantiveTo:
+  - wolframalpha
+relatedProjects:
+  - erpnext
+  - boost-note
+  - invidious
+  - seafile
+  - mirotalk-p2p
+tutorials:
+  - title: ''
+    link: ''
+images: /public/open-source/kalker/

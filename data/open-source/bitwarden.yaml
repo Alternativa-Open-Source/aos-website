@@ -1,0 +1,22 @@
+name: Bitwarden
+createdAt: '2024-10-06T00:44:41.236Z'
+headlight: A infraestrutura principal de backend (API, banco de dados, Docker, etc.).
+source: github bitwarden/server
+url: https://bitwarden.com
+logo: /open-source/bitwarden/logo.svg
+description: ''
+categories:
+  - Password Managers
+alterantiveTo:
+  - 1password
+  - lastpass
+relatedProjects:
+  - chaskiq
+  - berty
+  - gimp
+  - apisix
+  - rallly
+tutorials:
+  - title: ''
+    link: ''
+images: /public/open-source/bitwarden/

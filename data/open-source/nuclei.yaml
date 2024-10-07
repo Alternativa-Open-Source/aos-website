@@ -1,0 +1,20 @@
+name: Nuclei
+createdAt: '2024-10-06T01:05:19.424Z'
+headlight: Scanner de vulnerabilidades rápido e personalizável baseado em DSL simples baseado em YAML.
+source: github projectdiscovery/nuclei
+url: https://nuclei.projectdiscovery.io/
+logo: /open-source/nuclei/logo.jpeg
+description: ''
+categories:
+  - Cybersecurity
+alterantiveTo:
+  - tenable-nessus
+relatedProjects:
+  - myrtille
+  - cinny
+  - verdaccio
+  - atom
+tutorials:
+  - title: ''
+    link: ''
+images: /public/open-source/nuclei/

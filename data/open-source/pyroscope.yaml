@@ -1,0 +1,21 @@
+name: Pyroscope
+createdAt: '2024-10-06T01:15:07.338Z'
+headlight: Plataforma de criação de perfil contínua. Depure problemas de desempenho até uma única linha de código
+source: github pyroscope-io/pyroscope
+url: https://pyroscope.io/
+logo: /open-source/pyroscope/logo.png
+description: ''
+categories:
+  - Developer Tools
+alterantiveTo:
+  - google-cloud
+relatedProjects:
+  - wekan
+  - organic-maps
+  - shoutify
+  - mailspring
+  - wire
+tutorials:
+  - title: ''
+    link: ''
+images: /public/open-source/pyroscope/

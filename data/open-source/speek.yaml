@@ -1,0 +1,23 @@
+name: Speek
+createdAt: '2024-10-06T01:24:09.189Z'
+headlight: Mensageiro focado na privacidade que não confia em ninguém com sua identidade, sua lista de contatos ou suas comunicações
+source: github Speek-App/Speek
+url: https://speek.network/
+logo: /open-source/speek/logo.png
+description: ''
+categories:
+  - Communication
+alterantiveTo:
+  - whatsapp
+  - telegram
+  - signal
+relatedProjects:
+  - bangle-io
+  - dgraph
+  - bigbluebutton
+  - space-cloud
+  - automa
+tutorials:
+  - title: ''
+    link: ''
+images: /public/open-source/speek/

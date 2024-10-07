@@ -1,0 +1,21 @@
+name: refinery
+createdAt: '2024-10-06T01:40:39.877Z'
+headlight: A escolha de código aberto do cientista de dados para escalar, avaliar e manter dados de linguagem natural. Trate os dados de treinamento como um artefato de software.
+source: github code-kern-ai/refinery
+url: https://www.kern.ai/
+logo: /open-source/refinery/logo.png
+description: ''
+categories:
+  - Developer Tools
+alterantiveTo:
+  - snorkel-ai
+relatedProjects:
+  - nuclei
+  - meshcentral
+  - orangehrm
+  - crowdsec
+  - losslesscut
+tutorials:
+  - title: ''
+    link: ''
+images: /public/open-source/refinery/

@@ -1,0 +1,23 @@
+name: Rocket.Chat
+createdAt: '2024-10-06T01:17:59.760Z'
+headlight: A plataforma de comunicação que coloca a proteção de dados em primeiro lugar.
+source: github RocketChat/Rocket.Chat
+url: https://rocket.chat/
+logo: /open-source/rocket-chat/logo.png
+description: ''
+categories:
+  - Communication
+alterantiveTo:
+  - slack
+  - microsoft-teams
+  - discord
+relatedProjects:
+  - isso
+  - losslesscut
+  - pipedream
+  - minio
+  - kimai
+tutorials:
+  - title: ''
+    link: ''
+images: /public/open-source/rocket-chat/

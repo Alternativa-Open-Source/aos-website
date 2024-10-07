@@ -1,0 +1,22 @@
+name: Caprover
+createdAt: '2024-10-06T00:45:34.227Z'
+headlight: PaaS escalável (Docker+nginx automatizado) - também conhecido como Heroku em esteróides
+source: github CapRover/CapRover
+url: https://CapRover.com
+logo: /open-source/caprover/logo.png
+description: ''
+categories:
+  - Deployment
+alterantiveTo:
+  - heroku
+  - render
+relatedProjects:
+  - netbox
+  - nopcommerce
+  - twake
+  - ory
+  - posthog
+tutorials:
+  - title: ''
+    link: ''
+images: /public/open-source/caprover/

@@ -1,0 +1,21 @@
+name: Cube.js
+createdAt: '2024-10-06T00:47:39.327Z'
+headlight: 📊 Cube — A Camada Semântica para Construir Aplicações de Dados
+source: github cube-js/cube.js
+url: https://cube.dev/
+logo: /open-source/cube-js/logo.png
+description: ''
+categories:
+  - Metric store
+alterantiveTo:
+  - looker
+relatedProjects:
+  - metabase
+  - appbase
+  - armorpaint
+  - dokku
+  - pocketbase
+tutorials:
+  - title: ''
+    link: ''
+images: /public/open-source/cube-js/

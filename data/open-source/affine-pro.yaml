@@ -1,0 +1,21 @@
+name: Affine.pro
+createdAt: '2024-10-06T00:29:10.463Z'
+headlight: Pode haver mais do que Notion e Miro. AFFiNE (pronuncia-se [ə‘fain]) é uma base de conhecimento de última geração que reúne planejamento, classificação e criação. Privacidade em primeiro lugar, código aberto, personalizável e pronto para uso.
+source: github toeverything/AFFiNE
+url: https://affine.pro/
+logo: /open-source/affine-pro/logo.jpeg
+description: ''
+categories:
+  - Project Management
+alterantiveTo:
+  - notion
+relatedProjects:
+  - aegis
+  - wundergraph
+  - strut
+  - nodetube
+  - curiefense
+tutorials:
+  - title: ''
+    link: ''
+images: /public/open-source/affine-pro/

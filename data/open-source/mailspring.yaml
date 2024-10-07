@@ -1,0 +1,21 @@
+name: Mailspring
+createdAt: '2024-10-06T01:01:18.403Z'
+headlight: ':love_letter: Um cliente de e-mail bonito, rápido e totalmente de código aberto para Mac, Windows e Linux.'
+source: github Foundry376/Mailspring
+url: https://getmailspring.com/
+logo: /open-source/mailspring/logo.png
+description: ''
+categories:
+  - Utilities
+alterantiveTo:
+  - gmail
+relatedProjects:
+  - linkfree
+  - modrinth
+  - label-studio
+  - wordle-global
+  - rocket-chat
+tutorials:
+  - title: ''
+    link: ''
+images: /public/open-source/mailspring/

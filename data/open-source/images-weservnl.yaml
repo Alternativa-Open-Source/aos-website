@@ -1,0 +1,20 @@
+name: Images.weserv.nl
+createdAt: '2024-10-06T00:55:51.691Z'
+headlight: Código-fonte de wsrv.nl (anteriormente images.weserv.nl), para ser usado em seu(s) próprio(s) servidor(es).
+source: github weserv/images
+url: https://images.weserv.nl/
+logo: /open-source/images-weservnl/logo.png
+description: ''
+categories:
+  - Design
+alterantiveTo:
+  - imgix
+relatedProjects:
+  - supabase
+  - krayin
+  - meilisearch
+  - clamav
+tutorials:
+  - title: ''
+    link: ''
+images: /public/open-source/images-weservnl/

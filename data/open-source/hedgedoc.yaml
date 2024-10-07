@@ -1,0 +1,22 @@
+name: Hedgedoc
+createdAt: '2024-10-06T00:54:42.635Z'
+headlight: HedgeDoc - As ideias crescem melhor juntas
+source: github hedgedoc/hedgedoc
+url: https://hedgedoc.org/
+logo: /open-source/hedgedoc/logo.svg
+description: ''
+categories:
+  - Documentation
+alterantiveTo:
+  - google-docs
+  - office-online
+relatedProjects:
+  - bitwarden
+  - laverna
+  - krita
+  - wordle-global
+  - sigle
+tutorials:
+  - title: ''
+    link: ''
+images: /public/open-source/hedgedoc/

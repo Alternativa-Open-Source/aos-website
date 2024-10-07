@@ -1,0 +1,23 @@
+name: Twake
+createdAt: '2024-10-06T01:31:22.042Z'
+headlight: Twake é uma plataforma de colaboração segura e de código aberto para melhorar a produtividade organizacional.
+source: github linagora/Twake
+url: https://twake.app/
+logo: /open-source/twake/logo.png
+description: ''
+categories:
+  - Communication
+alterantiveTo:
+  - slack
+  - microsoft-teams
+  - discord
+relatedProjects:
+  - parse-server
+  - magento
+  - strapi
+  - dendron
+  - jam
+tutorials:
+  - title: ''
+    link: ''
+images: /public/open-source/twake/

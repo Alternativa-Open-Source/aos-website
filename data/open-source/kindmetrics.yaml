@@ -1,0 +1,21 @@
+name: Kindmetrics
+createdAt: '2024-10-06T00:57:34.158Z'
+headlight: Métricas analíticas gentis para seu site
+source: github kindmetrics/kindmetrics
+url: https://kindmetrics.io
+logo: /open-source/kindmetrics/logo.png
+description: ''
+categories:
+  - Analytics
+alterantiveTo:
+  - google-analytics
+relatedProjects:
+  - saleor-commerce
+  - orangehrm
+  - openscan
+  - grafana
+  - retroarcher-bundle
+tutorials:
+  - title: ''
+    link: ''
+images: /public/open-source/kindmetrics/

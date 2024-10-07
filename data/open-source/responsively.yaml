@@ -1,0 +1,21 @@
+name: Responsively
+createdAt: '2024-10-06T01:17:38.521Z'
+headlight: Um navegador web modificado que ajuda no desenvolvimento web responsivo. Uma ferramenta de desenvolvimento essencial para desenvolvedores web.
+source: github responsively-org/responsively-app
+url: https://responsively.app/
+logo: /open-source/responsively/logo.png
+description: ''
+categories:
+  - Developer Tools
+alterantiveTo:
+  - polypane
+relatedProjects:
+  - affine-pro
+  - paperless-ngx
+  - reaction-commerce
+  - nuclei
+  - krayin
+tutorials:
+  - title: ''
+    link: ''
+images: /public/open-source/responsively/

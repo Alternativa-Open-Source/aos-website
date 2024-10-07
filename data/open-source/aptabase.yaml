@@ -1,0 +1,21 @@
+name: Aptabase
+createdAt: '2024-10-06T00:39:32.622Z'
+headlight: ✨ Análise simples, de código aberto e com foco na privacidade para aplicativos móveis, de desktop e da Web
+source: github aptabase/aptabase
+url: https://github.com/aptabase/aptabase
+logo: /open-source/aptabase/logo.jpeg
+description: ''
+categories:
+  - Analytics
+alterantiveTo:
+  - firebase-analytics
+relatedProjects:
+  - heidisql
+  - clickhouse
+  - vesta
+  - shoutify
+  - etherpad
+tutorials:
+  - title: ''
+    link: ''
+images: /public/open-source/aptabase/

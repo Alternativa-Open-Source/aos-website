@@ -1,0 +1,20 @@
+name: Plausible Analytics
+createdAt: '2024-10-06T01:13:41.161Z'
+headlight: Alternativa de análise da web simples, de código aberto, leve (< 1 KB) e amigável à privacidade ao Google Analytics.
+source: github plausible/analytics
+url: https://plausible.io/
+logo: /open-source/plausible-analytics/logo.jpeg
+description: ''
+categories:
+  - Analytics
+alterantiveTo:
+  - google-analytics
+relatedProjects:
+  - fider
+  - hedgedoc
+  - drawio
+  - thingsboard
+tutorials:
+  - title: ''
+    link: ''
+images: /public/open-source/plausible-analytics/

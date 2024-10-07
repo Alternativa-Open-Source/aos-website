@@ -1,0 +1,22 @@
+name: Cloudogu EcoSystem
+createdAt: '2024-10-06T00:46:51.485Z'
+headlight: O Cloudogu Ecosystem é uma plataforma aberta, que permite que você escolha como e onde sua equipe cria um ótimo software. Cada serviço ou ferramenta é entregue como um Dōgu, um contêiner Docker, que pode ser facilmente integrado ao seu ambiente apenas puxando-o do nosso registro.
+source: github cloudogu/ecosystem
+url: https://cloudogu.com/
+logo: /open-source/cloudogu-ecosystem/logo.png
+description: ''
+categories:
+  - Developer Tools
+alterantiveTo:
+  - github
+  - bitbucket
+relatedProjects:
+  - rocket-chat
+  - hitobito
+  - curiefense
+  - musescore
+  - featbit
+tutorials:
+  - title: ''
+    link: ''
+images: /public/open-source/cloudogu-ecosystem/

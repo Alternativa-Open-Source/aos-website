@@ -1,0 +1,23 @@
+name: Grist
+createdAt: '2024-10-06T00:53:48.665Z'
+headlight: Grist é a evolução das planilhas.
+source: github gristlabs/grist-core
+url: https://www.getgrist.com/
+logo: /open-source/grist/logo.png
+description: ''
+categories:
+  - Database
+alterantiveTo:
+  - airtable
+  - google-sheets
+  - excel
+relatedProjects:
+  - clipperz
+  - vue-storefront
+  - grapheneos
+  - session
+  - portmaster
+tutorials:
+  - title: ''
+    link: ''
+images: /public/open-source/grist/

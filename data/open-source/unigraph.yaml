@@ -1,0 +1,22 @@
+name: Unigraph
+createdAt: '2024-10-06T01:31:39.361Z'
+headlight: Um gráfico de conhecimento local e universal, um mecanismo de busca pessoal e um espaço de trabalho para sua vida.
+source: github unigraph-dev/unigraph-dev
+url: https://unigraph.dev/
+logo: /open-source/unigraph/logo.png
+description: ''
+categories:
+  - Platform as a service
+alterantiveTo:
+  - roam-research
+  - logseq
+relatedProjects:
+  - passwordcockpit
+  - bangle-io
+  - kanboard
+  - typesense
+  - supabase
+tutorials:
+  - title: ''
+    link: ''
+images: /public/open-source/unigraph/

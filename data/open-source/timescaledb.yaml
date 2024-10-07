@@ -1,0 +1,21 @@
+name: TimescaleDB
+createdAt: '2024-10-06T01:30:40.886Z'
+headlight: Um banco de dados SQL de séries temporais de código aberto otimizado para ingestão rápida e consultas complexas. Empacotado como uma extensão PostgreSQL.
+source: github timescale/timescaledb
+url: https://www.timescale.com/
+logo: /open-source/timescaledb/logo.png
+description: ''
+categories:
+  - Database
+alterantiveTo:
+  - kdb
+relatedProjects:
+  - clearflask
+  - nuclei
+  - libreoffice
+  - semis-weaviate
+  - cube-js
+tutorials:
+  - title: ''
+    link: ''
+images: /public/open-source/timescaledb/

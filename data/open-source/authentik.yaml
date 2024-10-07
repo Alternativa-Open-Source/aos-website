@@ -1,0 +1,21 @@
+name: Authentik
+createdAt: '2024-10-06T00:44:05.098Z'
+headlight: A cola de autenticação que você precisa.
+source: github goauthentik/authentik
+url: https://github.com/goauthentik/authentik
+logo: /open-source/authentik/logo.png
+description: ''
+categories:
+  - Auth & SSO
+alterantiveTo:
+  - auth0
+  - okta
+relatedProjects:
+  - strut
+  - gatus
+  - docusaurus
+  - tsuru
+tutorials:
+  - title: ''
+    link: ''
+images: /public/open-source/authentik/

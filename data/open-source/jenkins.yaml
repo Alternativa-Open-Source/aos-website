@@ -1,0 +1,21 @@
+name: Jenkins
+createdAt: '2024-10-06T00:56:54.475Z'
+headlight: Servidor de automação Jenkins
+source: github jenkinsci/jenkins
+url: https://www.jenkins.io/
+logo: /open-source/jenkins/logo.png
+description: ''
+categories:
+  - Automation
+alterantiveTo:
+  - azure-devops
+relatedProjects:
+  - peppermint
+  - erpnext
+  - fider
+  - papermerge
+  - postal
+tutorials:
+  - title: ''
+    link: ''
+images: /public/open-source/jenkins/

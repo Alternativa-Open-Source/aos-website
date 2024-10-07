@@ -1,0 +1,21 @@
+name: Isso
+createdAt: '2024-10-06T00:56:44.134Z'
+headlight: uma alternativa ao Disqus
+source: github posativ/isso
+url: https://posativ.org/isso/
+logo: /open-source/isso/logo.svg
+description: ''
+categories:
+  - Communication
+alterantiveTo:
+  - disqus
+relatedProjects:
+  - clamav
+  - blender
+  - wordle-global
+  - sentry
+  - pyroscope
+tutorials:
+  - title: ''
+    link: ''
+images: /public/open-source/isso/

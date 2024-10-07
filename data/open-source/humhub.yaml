@@ -1,0 +1,21 @@
+name: HumHub
+createdAt: '2024-10-06T00:55:44.196Z'
+headlight: HumHub é uma Rede Social Empresarial Open Source. Fácil de instalar, intuitiva de usar e extensível com inúmeros módulos disponíveis gratuitamente.
+source: github humhub/humhub
+url: https://www.humhub.com/en
+logo: /open-source/humhub/logo.png
+description: ''
+categories:
+  - Social Media
+alterantiveTo:
+  - hcl-connections
+relatedProjects:
+  - cloudquery
+  - activitywatch
+  - lmms
+  - vlc
+  - umami
+tutorials:
+  - title: ''
+    link: ''
+images: /public/open-source/humhub/

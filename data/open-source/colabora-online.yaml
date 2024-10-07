@@ -1,0 +1,22 @@
+name: Colabora Online
+createdAt: '2024-10-06T00:47:03.752Z'
+headlight: Collabora Online é um pacote de escritório online colaborativo baseado na tecnologia LibreOffice. Esta também é a fonte para os aplicativos Collabora Office para iOS e Android.
+source: github CollaboraOnline/online
+url: https://www.collabora.com/code
+logo: /open-source/colabora-online/logo.svg
+description: ''
+categories:
+  - Documentation
+alterantiveTo:
+  - google-docs
+  - office-online
+relatedProjects:
+  - deepset
+  - classquiz
+  - restyaboard
+  - silex
+  - rrweb
+tutorials:
+  - title: ''
+    link: ''
+images: /public/open-source/colabora-online/

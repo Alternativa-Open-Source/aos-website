@@ -1,0 +1,21 @@
+name: Nuclear
+createdAt: '2024-10-06T01:05:16.844Z'
+headlight: Reprodutor de streaming de música que encontra músicas gratuitas para você
+source: github nukeop/nuclear
+url: https://nuclear.js.org/
+logo: /open-source/nuclear/logo.png
+description: ''
+categories:
+  - Music
+alterantiveTo:
+  - spotify
+relatedProjects:
+  - lokinet
+  - mixxx
+  - drawio
+  - mdbook
+  - supabase
+tutorials:
+  - title: ''
+    link: ''
+images: /public/open-source/nuclear/

@@ -1,0 +1,21 @@
+name: GrowthBook
+createdAt: '2024-10-06T00:54:04.606Z'
+headlight: Plataforma de sinalização de recursos de código aberto e teste A/B
+source: github growthbook/growthbook
+url: https://www.growthbook.io/
+logo: /open-source/growthbook/logo.png
+description: ''
+categories:
+  - Developer Tools
+alterantiveTo:
+  - launchdarkly
+relatedProjects:
+  - inlang
+  - heidisql
+  - keepassxc
+  - mautic
+  - zettlr
+tutorials:
+  - title: ''
+    link: ''
+images: /public/open-source/growthbook/

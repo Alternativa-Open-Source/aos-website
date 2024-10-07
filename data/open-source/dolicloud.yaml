@@ -1,0 +1,24 @@
+name: DoliCloud
+createdAt: '2024-10-06T00:48:51.599Z'
+headlight: O Dolibarr ERP CRM é um pacote de software moderno para gerenciar as atividades da sua empresa ou fundação (contatos, fornecedores, faturas, pedidos, estoques, agenda, contabilidade, ...). É um aplicativo Web de código aberto (escrito em PHP) projetado para empresas de qualquer tamanho, fundações e freelancers.
+source: github Dolibarr/dolibarr
+url: https://www.dolicloud.com/
+logo: /open-source/dolicloud/logo.png
+description: ''
+categories:
+  - ERP
+alterantiveTo:
+  - oracle-fusion-erp-cloud
+  - odoo
+  - microsoft-dynamics
+  - salesforce
+relatedProjects:
+  - freetube
+  - rustdesk
+  - dolicloud
+  - wiki-js
+  - clamav
+tutorials:
+  - title: ''
+    link: ''
+images: /public/open-source/dolicloud/

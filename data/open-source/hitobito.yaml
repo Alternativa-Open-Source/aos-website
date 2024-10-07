@@ -1,0 +1,23 @@
+name: Hitobito
+createdAt: '2024-10-06T00:54:57.144Z'
+headlight: Um aplicativo web para gerenciar hierarquias de grupos complexas com membros, eventos e muito mais.
+source: github hitobito/hitobito
+url: https://hitobito.com/
+logo: /open-source/hitobito/logo.jpeg
+description: ''
+categories:
+  - CRM
+alterantiveTo:
+  - salesforce
+  - microsoft-dynamics
+  - clubdesk
+  - fairgate
+relatedProjects:
+  - cabal-desktop
+  - fief
+  - flarum
+  - lesspass
+tutorials:
+  - title: ''
+    link: ''
+images: /public/open-source/hitobito/

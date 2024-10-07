@@ -1,0 +1,21 @@
+name: Microweber
+createdAt: '2024-10-06T01:03:08.233Z'
+headlight: Construtor de sites e CMS de arrastar e soltar com comércio eletrônico
+source: github microweber/microweber
+url: https://microweber.org/
+logo: /open-source/microweber/logo.jpeg
+description: ''
+categories:
+  - CMS
+alterantiveTo:
+  - wix
+relatedProjects:
+  - mattermost
+  - nodetube
+  - parse-server
+  - ballerine
+  - signal-android
+tutorials:
+  - title: ''
+    link: ''
+images: /public/open-source/microweber/

@@ -1,0 +1,24 @@
+name: Movim
+createdAt: '2024-10-06T01:03:44.890Z'
+headlight: Movim - Plataforma social descentralizada
+source: github movim/movim
+url: https://movim.eu/
+logo: /open-source/movim/logo.png
+description: ''
+categories:
+  - Communication
+alterantiveTo:
+  - facebook
+  - discord
+  - twitter
+  - slack
+relatedProjects:
+  - listmonk
+  - cryptpad
+  - typesense
+  - matomo
+  - freeplane
+tutorials:
+  - title: ''
+    link: ''
+images: /public/open-source/movim/

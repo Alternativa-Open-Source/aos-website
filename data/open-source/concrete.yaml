@@ -1,0 +1,21 @@
+name: Concrete
+createdAt: '2024-10-06T00:47:12.807Z'
+headlight: Repositório oficial para desenvolvimento do Concrete CMS
+source: github concrete5/concrete5
+url: https://www.concretecms.com/
+logo: /open-source/concrete/logo.jpeg
+description: ''
+categories:
+  - CMS
+alterantiveTo:
+  - contentful
+relatedProjects:
+  - fider
+  - minio
+  - moodle
+  - cryptomator
+  - neovim
+tutorials:
+  - title: ''
+    link: ''
+images: /public/open-source/concrete/

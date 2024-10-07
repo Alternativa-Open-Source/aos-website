@@ -1,0 +1,21 @@
+name: Builder
+createdAt: '2024-10-06T00:45:11.286Z'
+headlight: Arraste e solte CMS headless para React, Vue, Svelte, Qwik e mais
+source: github BuilderIO/builder
+url: https://www.builder.io/
+logo: /open-source/builder/logo.png
+description: ''
+categories:
+  - CMS
+alterantiveTo:
+  - contentful
+relatedProjects:
+  - janusgraph
+  - rallly
+  - colabora-online
+  - huginn
+  - dub
+tutorials:
+  - title: ''
+    link: ''
+images: /public/open-source/builder/

@@ -1,0 +1,21 @@
+name: Zinc
+createdAt: '2024-10-06T01:38:51.046Z'
+headlight: ZincSearch . Uma alternativa leve ao Elasticsearch que requer recursos mínimos, escrita em Go.
+source: github prabhatsharma/zinc
+url: https://zincsearch.com/
+logo: /open-source/zinc/logo.png
+description: ''
+categories:
+  - Enterprise Search
+alterantiveTo:
+  - algolia
+relatedProjects:
+  - janusgraph
+  - vlc
+  - onlyoffice
+  - label-studio
+  - picocrypt
+tutorials:
+  - title: ''
+    link: ''
+images: /public/open-source/zinc/

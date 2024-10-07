@@ -1,0 +1,21 @@
+name: FlagSmith
+createdAt: '2024-10-06T00:50:41.556Z'
+headlight: Serviço de sinalização de recursos de código aberto e configuração remota. Hospede no local ou use nossa versão hospedada em https://flagsmith.com/
+source: github Flagsmith/flagsmith
+url: https://www.flagsmith.com/
+logo: /open-source/flagsmith/logo.png
+description: ''
+categories:
+  - Developer Tools
+alterantiveTo:
+  - launchdarkly
+relatedProjects:
+  - influxdb
+  - apache-nifi
+  - automa
+  - file-centipede
+  - umami
+tutorials:
+  - title: ''
+    link: ''
+images: /public/open-source/flagsmith/

@@ -1,0 +1,21 @@
+name: Clickvote
+createdAt: '2024-10-06T00:46:16.872Z'
+headlight: Adicione votos positivos, curtidas e avaliações a qualquer contexto ⭐️
+source: github clickvote/clickvote
+url: https://clickvote.dev/
+logo: /open-source/clickvote/logo.png
+description: ''
+categories:
+  - Developer Tools
+alterantiveTo:
+  - lyket-dev
+relatedProjects:
+  - supertokens
+  - lesspass
+  - dgraph
+  - pimcore
+  - dolicloud
+tutorials:
+  - title: ''
+    link: ''
+images: /public/open-source/clickvote/

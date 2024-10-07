@@ -1,0 +1,20 @@
+name: Ente.io
+createdAt: '2024-10-06T00:49:16.036Z'
+headlight: 3Aplicativos móveis para Ente Photos, aplicativo de armazenamento de fotos criptografado de ponta a ponta e focado na privacidade. https://ente.io
+source: github ente-io/frame
+url: https://ente.io/
+logo: /open-source/ente-io/logo.png
+description: ''
+categories:
+  - Visual Database
+alterantiveTo:
+  - google-photos
+relatedProjects:
+  - matano
+  - godot
+  - crowdsec
+  - hitobito
+tutorials:
+  - title: ''
+    link: ''
+images: /public/open-source/ente-io/

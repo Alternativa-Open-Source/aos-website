@@ -1,0 +1,21 @@
+name: NocoDB
+createdAt: '2024-10-06T01:04:55.866Z'
+headlight: 🔥 🔥 🔥 Alternativa de código aberto para Airtable
+source: github nocodb/nocodb
+url: https://www.nocodb.com
+logo: /open-source/nocodb/logo.jpeg
+description: ''
+categories:
+  - Database
+alterantiveTo:
+  - airtable
+relatedProjects:
+  - cryptpad
+  - anki
+  - joplin
+  - semgrep
+  - directus
+tutorials:
+  - title: ''
+    link: ''
+images: /public/open-source/nocodb/

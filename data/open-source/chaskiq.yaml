@@ -1,0 +1,20 @@
+name: chaskiq
+createdAt: '2024-10-06T01:39:09.302Z'
+headlight: Uma plataforma completa de chat ao vivo, suporte e marketing, alternativa ao Intercom, Drift, Crisp, etc. da cience.com
+source: github chaskiq/chaskiq
+url: https://chaskiq.io/
+logo: /open-source/chaskiq/logo.png
+description: ''
+categories:
+  - Communication
+alterantiveTo:
+  - intercom
+relatedProjects:
+  - parse-server
+  - semis-weaviate
+  - gravitl
+  - apisix
+tutorials:
+  - title: ''
+    link: ''
+images: /public/open-source/chaskiq/

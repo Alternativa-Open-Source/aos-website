@@ -1,0 +1,22 @@
+name: Dokku
+createdAt: '2024-10-06T00:48:49.359Z'
+headlight: Um PaaS com tecnologia Docker que ajuda você a criar e gerenciar o ciclo de vida dos aplicativos
+source: github dokku/dokku
+url: http://dokku.viewdocs.io/dokku/
+logo: /open-source/dokku/logo.png
+description: ''
+categories:
+  - Deployment
+alterantiveTo:
+  - heroku
+  - render
+relatedProjects:
+  - moodle
+  - podman
+  - kitchenowl
+  - ghidra
+  - bangle-io
+tutorials:
+  - title: ''
+    link: ''
+images: /public/open-source/dokku/

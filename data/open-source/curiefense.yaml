@@ -1,0 +1,21 @@
+name: Curiefense
+createdAt: '2024-10-06T00:47:43.953Z'
+headlight: Curiefense é uma plataforma unificada e de código aberto que protege aplicativos nativos da nuvem.
+source: github curiefense/curiefense
+url: https://linktr.ee/curiefense
+logo: /open-source/curiefense/logo.png
+description: ''
+categories:
+  - Cybersecurity
+alterantiveTo:
+  - aws-waf
+relatedProjects:
+  - saleor-commerce
+  - erpnext
+  - darktable
+  - firefly-iii
+  - uvdesk
+tutorials:
+  - title: ''
+    link: ''
+images: /public/open-source/curiefense/

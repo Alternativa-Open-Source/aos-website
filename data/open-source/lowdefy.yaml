@@ -1,0 +1,21 @@
+name: Lowdefy
+createdAt: '2024-10-06T01:00:47.873Z'
+headlight: A pilha de configuração da web para aplicativos empresariais - crie ferramentas internas, portais de clientes, aplicativos da web, painéis de administração, painéis, sites e aplicativos CRUD com YAML ou JSON.
+source: github lowdefy/lowdefy
+url: https://lowdefy.com/
+logo: /open-source/lowdefy/logo.png
+description: ''
+categories:
+  - Internal Tool
+alterantiveTo:
+  - retool
+relatedProjects:
+  - friendica
+  - grafana
+  - huginn
+  - timescaledb
+  - typebot-io
+tutorials:
+  - title: ''
+    link: ''
+images: /public/open-source/lowdefy/

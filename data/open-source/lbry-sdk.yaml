@@ -1,0 +1,21 @@
+name: LBRY SDK
+createdAt: '2024-10-06T00:58:22.944Z'
+headlight: O SDK LBRY para criar aplicativos de conteúdo digital descentralizados, resistentes à censura e monetizados.
+source: github lbryio/lbry-sdk
+url: https://lbry.com/
+logo: /open-source/lbry-sdk/logo.png
+description: ''
+categories:
+  - Video
+alterantiveTo:
+  - youtube
+relatedProjects:
+  - deepset
+  - victoriametrics
+  - zinc
+  - dokku
+  - qovery
+tutorials:
+  - title: ''
+    link: ''
+images: /public/open-source/lbry-sdk/

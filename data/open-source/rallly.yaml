@@ -1,0 +1,21 @@
+name: Rallly
+createdAt: '2024-10-06T01:16:24.418Z'
+headlight: O Rally é uma ferramenta de agendamento e colaboração de código aberto projetada para facilitar a organização de eventos e reuniões.
+source: github lukevella/rallly
+url: https://rallly.co/
+logo: /open-source/rallly/logo.png
+description: ''
+categories:
+  - Scheduling
+alterantiveTo:
+  - doodle
+relatedProjects:
+  - featbit
+  - flax-engine
+  - shopaholic
+  - posthog
+  - postgres
+tutorials:
+  - title: ''
+    link: ''
+images: /public/open-source/rallly/

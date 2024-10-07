@@ -1,0 +1,21 @@
+name: Orangehrm
+createdAt: '2024-10-06T01:07:09.409Z'
+headlight: OrangeHRM é um sistema abrangente de gestão de recursos humanos (HRM) que captura todas as funcionalidades essenciais necessárias para qualquer empresa.
+source: github orangehrm/orangehrm
+url: https://www.orangehrm.com/
+logo: /open-source/orangehrm/logo.jpeg
+description: ''
+categories:
+  - Project Management
+alterantiveTo:
+  - oracle-peoplesoft
+relatedProjects:
+  - freecad
+  - oso
+  - signoz
+  - popspace
+  - nextcloud
+tutorials:
+  - title: ''
+    link: ''
+images: /public/open-source/orangehrm/

@@ -1,0 +1,21 @@
+name: Dagster
+createdAt: '2024-10-06T00:47:48.256Z'
+headlight: Uma plataforma de orquestração para o desenvolvimento, produção e observação de ativos de dados.
+source: github dagster-io/dagster
+url: https://dagster.io/
+logo: /open-source/dagster/logo.png
+description: ''
+categories:
+  - ELT/ETL
+alterantiveTo:
+  - fivetran
+relatedProjects:
+  - mirotalk
+  - jam
+  - modrinth
+  - bigbluebutton
+  - restyaboard
+tutorials:
+  - title: ''
+    link: ''
+images: /public/open-source/dagster/

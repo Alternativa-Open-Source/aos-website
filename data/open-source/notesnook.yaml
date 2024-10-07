@@ -1,0 +1,21 @@
+name: Notesnook
+createdAt: '2024-10-06T01:05:03.873Z'
+headlight: Uma alternativa ao Evernote para anotações totalmente de código aberto e criptografada de ponta a ponta.
+source: github streetwriters/notesnook
+url: https://notesnook.com/
+logo: /open-source/notesnook/logo.svg
+description: ''
+categories:
+  - Notetaking
+alterantiveTo:
+  - evernote
+relatedProjects:
+  - orchest
+  - logseq
+  - modrinth
+  - grapheneos
+  - qovery
+tutorials:
+  - title: ''
+    link: ''
+images: /public/open-source/notesnook/

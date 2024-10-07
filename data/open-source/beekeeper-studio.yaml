@@ -1,0 +1,21 @@
+name: Beekeeper Studio
+createdAt: '2024-10-06T00:44:26.891Z'
+headlight: Cliente SQL moderno e fácil de usar para MySQL, Postgres, SQLite, SQL Server e muito mais. Linux, MacOS e Windows.
+source: github beekeeper-studio/beekeeper-studio
+url: https://www.beekeeperstudio.io/
+logo: /open-source/beekeeper-studio/logo.png
+description: ''
+categories:
+  - Developer Tools
+alterantiveTo:
+  - tableplus
+relatedProjects:
+  - parse-server
+  - nopcommerce
+  - brave-browser
+  - phpbb
+  - lightdash
+tutorials:
+  - title: ''
+    link: ''
+images: /public/open-source/beekeeper-studio/

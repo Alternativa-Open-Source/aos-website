@@ -1,0 +1,21 @@
+name: Rustdesk
+createdAt: '2024-10-06T01:18:15.948Z'
+headlight: Uma área de trabalho remota de código aberto e alternativa ao TeamViewer.
+source: github rustdesk/rustdesk
+url: https://rustdesk.com/
+logo: /open-source/rustdesk/logo.png
+description: ''
+categories:
+  - Remote Desktop
+alterantiveTo:
+  - teamviewer
+relatedProjects:
+  - chatwoot
+  - logchimp
+  - vesta
+  - cryptpad
+  - dbeaver
+tutorials:
+  - title: ''
+    link: ''
+images: /public/open-source/rustdesk/

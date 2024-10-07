@@ -1,0 +1,22 @@
+name: Dyrector
+createdAt: '2024-10-06T00:49:10.188Z'
+headlight: dyrector.io é uma plataforma de entrega e implantação contínua auto-hospedada com gerenciamento de versões.
+source: github dyrector-io/dyrectorio
+url: https://dyrector.io/
+logo: /open-source/dyrector/logo.jpeg
+description: ''
+categories:
+  - Deployment
+alterantiveTo:
+  - heroku
+  - render
+relatedProjects:
+  - clickhouse
+  - clearflask
+  - flowchart-fun
+  - univention-corporate-server
+  - cloudquery
+tutorials:
+  - title: ''
+    link: ''
+images: /public/open-source/dyrector/

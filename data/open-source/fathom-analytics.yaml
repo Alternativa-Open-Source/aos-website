@@ -1,0 +1,21 @@
+name: Fathom Analytics
+createdAt: '2024-10-06T00:49:38.912Z'
+headlight: Fathom Lite. Análise de site simples e focada em privacidade. Construído com Golang e Preact.
+source: github usefathom/fathom
+url: https://usefathom.com/
+logo: /open-source/fathom-analytics/logo.jpeg
+description: ''
+categories:
+  - Analytics
+alterantiveTo:
+  - google-analytics
+relatedProjects:
+  - karate
+  - freecad
+  - pipedream
+  - vesta
+  - vendure
+tutorials:
+  - title: ''
+    link: ''
+images: /public/open-source/fathom-analytics/

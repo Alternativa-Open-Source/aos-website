@@ -1,0 +1,22 @@
+name: ActiveWorkflow
+createdAt: '2024-10-06T00:29:02.172Z'
+headlight: Fluxos de trabalho poliglotas sem sair do conforto do seu conjunto de tecnologia.
+source: github automaticmode/active_workflow
+url: https://github.com/automaticmode/active_workflow
+logo: /open-source/activeworkflow/logo.svg
+description: ''
+categories:
+  - Automation
+alterantiveTo:
+  - zapier
+  - make
+relatedProjects:
+  - n8n
+  - paperless-ngx
+  - fosscord
+  - neo4j
+  - matomo
+tutorials:
+  - title: ''
+    link: ''
+images: /public/open-source/activeworkflow/

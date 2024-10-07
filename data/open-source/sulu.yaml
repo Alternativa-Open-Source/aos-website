@@ -1,0 +1,21 @@
+name: Sulu
+createdAt: '2024-10-06T01:24:50.663Z'
+headlight: Estrutura central que implementa a funcionalidade do sistema de gerenciamento de conteúdo Sulu
+source: github sulu/sulu
+url: https://sulu.io/
+logo: /open-source/sulu/logo.png
+description: ''
+categories:
+  - CMS
+alterantiveTo:
+  - contentful
+relatedProjects:
+  - heidisql
+  - prestashop
+  - docusaurus
+  - lightdash
+  - unigraph
+tutorials:
+  - title: ''
+    link: ''
+images: /public/open-source/sulu/

@@ -1,0 +1,21 @@
+name: Modulz
+createdAt: '2024-10-06T01:03:38.499Z'
+headlight: Radix Primitives é uma biblioteca de componentes de UI de código aberto para construir sistemas de design e aplicativos web acessíveis e de alta qualidade. Mantido por @workos.
+source: github radix-ui/primitives
+url: https://www.modulz.app/
+logo: /open-source/modulz/logo.png
+description: ''
+categories:
+  - Design
+alterantiveTo:
+  - figma
+relatedProjects:
+  - wekan
+  - buttercup
+  - mailspring
+  - zillizs-towhee
+  - reaction-commerce
+tutorials:
+  - title: ''
+    link: ''
+images: /public/open-source/modulz/

@@ -1,0 +1,22 @@
+name: EtherPad
+createdAt: '2024-10-06T00:49:34.883Z'
+headlight: 'Etherpad: Um editor de documentos colaborativo moderno e em tempo real.'
+source: github ether/etherpad-lite
+url: https://etherpad.org/
+logo: /open-source/etherpad/logo.jpeg
+description: ''
+categories:
+  - Documentation
+alterantiveTo:
+  - google-docs
+  - typora
+relatedProjects:
+  - moodle
+  - argos-ci
+  - label-studio
+  - trilium-notes
+  - jellyfin
+tutorials:
+  - title: ''
+    link: ''
+images: /public/open-source/etherpad/

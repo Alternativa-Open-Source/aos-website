@@ -1,0 +1,22 @@
+name: Laverna
+createdAt: '2024-10-06T00:58:40.147Z'
+headlight: Laverna é um aplicativo de anotações em JavaScript com editor Markdown e suporte a criptografia. Considere-o como uma alternativa de código aberto ao Evernote.
+source: github Laverna/laverna
+url: https://laverna.cc/index.html
+logo: /open-source/laverna/logo.png
+description: ''
+categories:
+  - Notetaking
+alterantiveTo:
+  - typora
+  - evernote
+relatedProjects:
+  - krita
+  - coolify
+  - countly
+  - avideo
+  - etherpad
+tutorials:
+  - title: ''
+    link: ''
+images: /public/open-source/laverna/

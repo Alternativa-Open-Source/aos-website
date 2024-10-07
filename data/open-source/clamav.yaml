@@ -1,0 +1,21 @@
+name: Clamav
+createdAt: '2024-10-06T00:46:00.749Z'
+headlight: 'ClamAV - A documentação está aqui: https://docs.clamav.net'
+source: github Cisco-Talos/clamav
+url: https://www.clamav.net/
+logo: /open-source/clamav/logo.webp
+description: ''
+categories:
+  - Cybersecurity
+alterantiveTo:
+  - mcafee
+relatedProjects:
+  - filegator
+  - netdata
+  - qgis
+  - glimesh
+  - notesnook
+tutorials:
+  - title: ''
+    link: ''
+images: /public/open-source/clamav/

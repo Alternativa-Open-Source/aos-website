@@ -1,0 +1,21 @@
+name: Buildbot
+createdAt: '2024-10-06T00:45:07.578Z'
+headlight: Estrutura de teste de integração contínua baseada em Python; suas solicitações de pull são mais que bem-vindas!
+source: github buildbot/buildbot
+url: https://www.buildbot.net/
+logo: /open-source/buildbot/logo.png
+description: ''
+categories:
+  - Scheduling
+alterantiveTo:
+  - azure-devops
+relatedProjects:
+  - zettlr
+  - obs-studio
+  - vscodium
+  - helpy
+  - gitea
+tutorials:
+  - title: ''
+    link: ''
+images: /public/open-source/buildbot/

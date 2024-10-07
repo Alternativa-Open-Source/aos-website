@@ -1,0 +1,21 @@
+name: Sandstorm
+createdAt: '2024-10-06T01:18:31.085Z'
+headlight: Sandstorm é um conjunto de produtividade web auto-hospedável. Ele é implementado como um gerenciador de pacotes de aplicativos web com segurança reforçada.
+source: github sandstorm-io/sandstorm
+url: https://sandstorm.io/
+logo: /open-source/sandstorm/logo.png
+description: ''
+categories:
+  - Database
+alterantiveTo:
+  - google-drive
+relatedProjects:
+  - minikube
+  - freeplane
+  - appbase
+  - buildbot
+  - nexrender
+tutorials:
+  - title: ''
+    link: ''
+images: /public/open-source/sandstorm/

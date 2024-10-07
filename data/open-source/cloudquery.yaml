@@ -1,0 +1,23 @@
+name: Cloudquery
+createdAt: '2024-10-06T00:46:54.238Z'
+headlight: A plataforma de integração de dados de alto desempenho e código aberto criada para desenvolvedores.
+source: github cloudquery/cloudquery
+url: https://www.cloudquery.io/
+logo: /open-source/cloudquery/logo.jpeg
+description: ''
+categories:
+  - Cybersecurity
+alterantiveTo:
+  - aws-config
+  - gcp-cloud-asset-inventory
+  - aws-guardduty
+relatedProjects:
+  - reaction-commerce
+  - jina-ai
+  - passbolt
+  - tolgee
+  - buttercup
+tutorials:
+  - title: ''
+    link: ''
+images: /public/open-source/cloudquery/

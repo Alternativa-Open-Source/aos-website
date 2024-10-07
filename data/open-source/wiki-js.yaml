@@ -1,0 +1,23 @@
+name: Wiki.js
+createdAt: '2024-10-06T01:34:05.272Z'
+headlight: Wiki.js | Um aplicativo wiki moderno e poderoso construído em Node.js
+source: github Requarks/wiki
+url: https://js.wiki/
+logo: /open-source/wiki-js/logo.svg
+description: ''
+categories:
+  - Documentation
+alterantiveTo:
+  - markup
+  - cms
+  - documentation
+relatedProjects:
+  - humhub
+  - session
+  - windmill
+  - jellyfin
+  - forem
+tutorials:
+  - title: ''
+    link: ''
+images: /public/open-source/wiki-js/

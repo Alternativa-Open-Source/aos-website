@@ -1,0 +1,22 @@
+name: Supertokens
+createdAt: '2024-10-06T01:25:35.082Z'
+headlight: Alternativa de código aberto para Auth0 / Firebase Auth / AWS Cognito
+source: github supertokens/supertokens-core
+url: https://supertokens.com/
+logo: /open-source/supertokens/logo.png
+description: ''
+categories:
+  - Auth & SSO
+alterantiveTo:
+  - okta
+  - auth0
+relatedProjects:
+  - openam
+  - lightdash
+  - postal
+  - dagster
+  - refinery
+tutorials:
+  - title: ''
+    link: ''
+images: /public/open-source/supertokens/

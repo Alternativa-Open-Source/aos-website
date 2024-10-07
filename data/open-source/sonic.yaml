@@ -1,0 +1,21 @@
+name: Sonic
+createdAt: '2024-10-06T01:24:00.379Z'
+headlight: 🦔 Backend de pesquisa rápido, leve e sem esquema. Uma alternativa ao Elasticsearch que roda em alguns MBs de RAM.
+source: github valeriansaliou/sonic
+url: https://crates.io/crates/sonic-server
+logo: /open-source/sonic/logo.
+description: ''
+categories:
+  - Enterprise Search
+alterantiveTo:
+  - elasticsearch
+relatedProjects:
+  - rrweb
+  - qovery
+  - cabal-desktop
+  - bleachbit
+  - trilium-notes
+tutorials:
+  - title: ''
+    link: ''
+images: /public/open-source/sonic/

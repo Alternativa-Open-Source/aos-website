@@ -1,0 +1,21 @@
+name: umami
+createdAt: '2024-10-06T01:40:47.051Z'
+headlight: Umami é uma alternativa simples, rápida e focada na privacidade ao Google Analytics.
+source: github mikecao/umami
+url: https://umami.is
+logo: /open-source/umami/logo.svg
+description: ''
+categories:
+  - Analytics
+alterantiveTo:
+  - google-analytics
+relatedProjects:
+  - mattermost
+  - superset
+  - drone
+  - rustdesk
+  - featurebase
+tutorials:
+  - title: ''
+    link: ''
+images: /public/open-source/umami/

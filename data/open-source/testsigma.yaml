@@ -1,0 +1,20 @@
+name: Testsigma
+createdAt: '2024-10-06T01:30:02.569Z'
+headlight: Uma poderosa plataforma de automação de testes de código aberto para Web Apps, Mobile Apps e APIs. Crie testes de ponta a ponta estáveis e confiáveis na velocidade do DevOps.
+source: github testsigmahq/testsigma
+url: https://testsigma.com/
+logo: /open-source/testsigma/logo.png
+description: ''
+categories:
+  - Automation
+alterantiveTo:
+  - selenium
+relatedProjects:
+  - paperless-ngx
+  - space-cloud
+  - arangodb
+  - krayin
+tutorials:
+  - title: ''
+    link: ''
+images: /public/open-source/testsigma/

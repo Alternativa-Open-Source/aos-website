@@ -1,0 +1,21 @@
+name: Darktable
+createdAt: '2024-10-06T00:47:53.316Z'
+headlight: O darktable é um aplicativo de fluxo de trabalho de fotografia de código aberto e desenvolvedor raw
+source: github darktable-org/darktable
+url: https://www.darktable.org/
+logo: /open-source/darktable/logo.png
+description: ''
+categories:
+  - Design
+alterantiveTo:
+  - adobe-lightroom
+relatedProjects:
+  - label-studio
+  - goaccess
+  - supertokens
+  - sendportal
+  - pimcore
+tutorials:
+  - title: ''
+    link: ''
+images: /public/open-source/darktable/

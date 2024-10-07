@@ -1,0 +1,21 @@
+name: MeshCentral
+createdAt: '2024-10-06T01:02:19.843Z'
+headlight: Um site completo de monitoramento e gerenciamento remoto baseado na web. Uma vez configurado, você pode instalar agentes e executar sessão de desktop remoto para dispositivos na rede local ou pela Internet.
+source: github Ylianst/MeshCentral
+url: https://www.meshcommander.com/meshcentral2
+logo: /open-source/meshcentral/logo.png
+description: ''
+categories:
+  - Remote Desktop
+alterantiveTo:
+  - teamviewer
+relatedProjects:
+  - wundergraph
+  - meilisearch
+  - dyrector
+  - nexrender
+  - wallabag
+tutorials:
+  - title: ''
+    link: ''
+images: /public/open-source/meshcentral/

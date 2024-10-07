@@ -1,0 +1,21 @@
+name: Saleor Commerce
+createdAt: '2024-10-06T01:18:20.723Z'
+headlight: 'Saleor Core: API de comércio headless, componível e de alto desempenho.'
+source: github saleor/saleor
+url: https://saleor.io/
+logo: /open-source/saleor-commerce/logo.png
+description: ''
+categories:
+  - E-commerce
+alterantiveTo:
+  - shopify
+  - bigcommerce
+relatedProjects:
+  - matomo
+  - picocrypt
+  - stackstorm
+  - activitywatch
+tutorials:
+  - title: ''
+    link: ''
+images: /public/open-source/saleor-commerce/

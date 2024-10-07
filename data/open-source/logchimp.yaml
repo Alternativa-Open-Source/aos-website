@@ -1,0 +1,21 @@
+name: LogChimp
+createdAt: '2024-10-06T01:00:22.112Z'
+headlight: Acompanhe o feedback dos seus clientes para criar produtos melhores com o LogChimp. ⭐️ Marque uma estrela para apoiar nosso trabalho!
+source: github logchimp/logchimp
+url: https://logchimp.codecarrot.net/
+logo: /open-source/logchimp/logo.png
+description: ''
+categories:
+  - Product Management
+alterantiveTo:
+  - canny
+relatedProjects:
+  - olive-editor
+  - clickvote
+  - vscodium
+  - owncloud
+  - nopcommerce
+tutorials:
+  - title: ''
+    link: ''
+images: /public/open-source/logchimp/

@@ -1,0 +1,21 @@
+name: Gatus
+createdAt: '2024-10-06T00:52:23.398Z'
+headlight: ⛑ Página de status automatizada orientada ao desenvolvedor
+source: github TwiN/gatus
+url: https://gatus.io/
+logo: /open-source/gatus/logo.svg
+description: ''
+categories:
+  - Developer Tools
+alterantiveTo:
+  - uptime-robot
+relatedProjects:
+  - helpy
+  - retroarcher-bundle
+  - semgrep
+  - inkscape
+  - firezone
+tutorials:
+  - title: ''
+    link: ''
+images: /public/open-source/gatus/

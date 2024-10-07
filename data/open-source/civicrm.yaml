@@ -1,0 +1,23 @@
+name: CiviCRM
+createdAt: '2024-10-06T00:45:52.223Z'
+headlight: CiviCRM (Aplicação e Framework Básico)
+source: github civicrm/civicrm-core
+url: https://github.com/civicrm/civicrm-core
+logo: /open-source/civicrm/logo.png
+description: ''
+categories:
+  - CRM
+alterantiveTo:
+  - salesforce
+  - sap
+  - hubspot
+relatedProjects:
+  - peerpad
+  - fosscord
+  - blender
+  - suitecrm
+  - baserow
+tutorials:
+  - title: ''
+    link: ''
+images: /public/open-source/civicrm/

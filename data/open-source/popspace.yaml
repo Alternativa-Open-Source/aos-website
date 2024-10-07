@@ -1,0 +1,21 @@
+name: PopSpace
+createdAt: '2024-10-06T01:14:19.251Z'
+headlight: Fonte abrangente para PopSpace, espaços virtuais para todos
+source: github with-labs/popspace
+url: https://popspace.io/
+logo: /open-source/popspace/logo.svg
+description: ''
+categories:
+  - Virtual Space
+alterantiveTo:
+  - gather
+relatedProjects:
+  - session
+  - boost-note
+  - schildichat
+  - semgrep
+  - silex
+tutorials:
+  - title: ''
+    link: ''
+images: /public/open-source/popspace/

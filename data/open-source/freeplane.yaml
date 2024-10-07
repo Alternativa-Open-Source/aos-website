@@ -1,0 +1,22 @@
+name: Freeplane
+createdAt: '2024-10-06T00:52:09.382Z'
+headlight: Aplicação para Mind Mapping, Knowledge Management, Project Management. Desenvolva, organize e comunique suas ideias e conhecimento da forma mais eficaz.
+source: github freeplane/freeplane
+url: https://www.freeplane.org/
+logo: /open-source/freeplane/logo.
+description: ''
+categories:
+  - Notetaking
+alterantiveTo:
+  - miro
+  - xmind
+relatedProjects:
+  - formbricks
+  - traefik
+  - zinc
+  - bagisto
+  - revolt
+tutorials:
+  - title: ''
+    link: ''
+images: /public/open-source/freeplane/

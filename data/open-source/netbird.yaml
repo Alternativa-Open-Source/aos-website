@@ -1,0 +1,21 @@
+name: Netbird
+createdAt: '2024-10-06T01:04:31.488Z'
+headlight: Conecte seus dispositivos em uma única rede mesh privada segura baseada em WireGuard® com SSO/MFA e controles de acesso simples.
+source: github netbirdio/netbird
+url: https://netbird.io/
+logo: /open-source/netbird/logo.jpeg
+description: ''
+categories:
+  - VPN
+alterantiveTo:
+  - tailscale
+  - nordvpn
+relatedProjects:
+  - shuup
+  - chatwoot
+  - crowdsec
+  - gdevelop
+tutorials:
+  - title: ''
+    link: ''
+images: /public/open-source/netbird/

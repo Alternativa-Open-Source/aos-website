@@ -1,0 +1,21 @@
+name: Mixxx
+createdAt: '2024-10-06T01:03:32.587Z'
+headlight: O Mixxx é um software de DJ gratuito que oferece tudo o que você precisa para fazer mixagens ao vivo.
+source: github mixxxdj/mixxx
+url: https://mixxx.org/
+logo: /open-source/mixxx/logo.png
+description: ''
+categories:
+  - Music
+alterantiveTo:
+  - traktor-pro-3
+relatedProjects:
+  - portmaster
+  - openscad
+  - myrtille
+  - mailspring
+  - nextcloud
+tutorials:
+  - title: ''
+    link: ''
+images: /public/open-source/mixxx/

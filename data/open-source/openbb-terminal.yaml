@@ -1,0 +1,21 @@
+name: OpenBB Terminal
+createdAt: '2024-10-06T01:06:24.233Z'
+headlight: Pesquisa de investimentos para todos, em qualquer lugar.
+source: github OpenBB-finance/OpenBBTerminal
+url: https://openbb.co/
+logo: /open-source/openbb-terminal/logo.png
+description: ''
+categories:
+  - Finances
+alterantiveTo:
+  - bloomberg-terminal
+relatedProjects:
+  - passwordcockpit
+  - picocrypt
+  - papercups
+  - testsigma
+  - lokinet
+tutorials:
+  - title: ''
+    link: ''
+images: /public/open-source/openbb-terminal/

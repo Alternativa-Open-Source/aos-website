@@ -1,0 +1,20 @@
+name: RetroArcher.bundle
+createdAt: '2024-10-06T01:17:51.410Z'
+headlight: Plugin de metadados RetroArcher para Plex.
+source: github RetroArcher/RetroArcher.bundle
+url: https://retroarcher.github.io/
+logo: /open-source/retroarcher-bundle/logo.png
+description: ''
+categories:
+  - Gaming
+alterantiveTo:
+  - plex
+relatedProjects:
+  - dbeaver
+  - schildichat
+  - oso
+  - prestashop
+tutorials:
+  - title: ''
+    link: ''
+images: /public/open-source/retroarcher-bundle/

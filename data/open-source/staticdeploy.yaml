@@ -1,0 +1,21 @@
+name: StaticDeploy
+createdAt: '2024-10-06T01:24:20.994Z'
+headlight: Plataforma de código aberto para implantação de aplicativos estáticos
+source: github staticdeploy/staticdeploy
+url: https://staticdeploy.io/
+logo: /open-source/staticdeploy/logo.svg
+description: ''
+categories:
+  - Deployment
+alterantiveTo:
+  - netlify
+relatedProjects:
+  - concrete
+  - yourls
+  - cortex
+  - isso
+  - losslesscut
+tutorials:
+  - title: ''
+    link: ''
+images: /public/open-source/staticdeploy/

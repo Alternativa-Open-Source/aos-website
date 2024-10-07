@@ -1,0 +1,21 @@
+name: KeyCloak
+createdAt: '2024-10-06T00:57:28.804Z'
+headlight: Gerenciamento de Identidade e Acesso de Código Aberto para Aplicações e Serviços Modernos
+source: github keycloak/keycloak
+url: https://www.keycloak.org
+logo: /open-source/keycloak/logo.png
+description: ''
+categories:
+  - Auth & SSO
+alterantiveTo:
+  - auth0
+relatedProjects:
+  - listmonk
+  - shoutify
+  - opnsense
+  - flynn
+  - flagsmith
+tutorials:
+  - title: ''
+    link: ''
+images: /public/open-source/keycloak/

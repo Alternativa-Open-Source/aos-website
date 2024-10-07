@@ -1,0 +1,23 @@
+name: ClickHouse
+createdAt: '2024-10-06T00:46:12.846Z'
+headlight: ClickHouse® é um DBMS de análise gratuito para big data
+source: github ClickHouse/ClickHouse
+url: https://clickhouse.com/
+logo: /open-source/clickhouse/logo.png
+description: ''
+categories:
+  - Analytics
+alterantiveTo:
+  - amazon-redshift
+  - bigquery-ml
+  - snowflake
+relatedProjects:
+  - semgrep
+  - appbase
+  - supertokens
+  - open-web-analytics
+  - growthbook
+tutorials:
+  - title: ''
+    link: ''
+images: /public/open-source/clickhouse/

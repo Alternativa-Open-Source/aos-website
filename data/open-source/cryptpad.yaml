@@ -1,0 +1,22 @@
+name: CryptPad
+createdAt: '2024-10-06T00:47:34.659Z'
+headlight: Pacote de escritório colaborativo, criptografado de ponta a ponta e de código aberto.
+source: github xwiki-labs/cryptpad
+url: https://cryptpad.fr/
+logo: /open-source/cryptpad/logo.svg
+description: ''
+categories:
+  - Cloud
+alterantiveTo:
+  - google-docs
+  - office-online
+relatedProjects:
+  - responsively
+  - drawio
+  - docusaurus
+  - manticoresearch
+  - appwrite
+tutorials:
+  - title: ''
+    link: ''
+images: /public/open-source/cryptpad/

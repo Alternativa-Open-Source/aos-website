@@ -1,0 +1,22 @@
+name: Padloc
+createdAt: '2024-10-06T01:11:29.835Z'
+headlight: Um gerenciador de senhas moderno e de código aberto para indivíduos e equipes.
+source: github padloc/padloc
+url: https://padloc.app/
+logo: /open-source/padloc/logo.png
+description: ''
+categories:
+  - Password Managers
+alterantiveTo:
+  - 1password
+  - lastpass
+relatedProjects:
+  - piwigo
+  - xournalpp
+  - crowd-dev
+  - nuclear
+  - testsigma
+tutorials:
+  - title: ''
+    link: ''
+images: /public/open-source/padloc/

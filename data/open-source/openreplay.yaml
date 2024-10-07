@@ -1,0 +1,22 @@
+name: OpenReplay
+createdAt: '2024-10-06T01:06:41.343Z'
+headlight: Ferramenta de análise e replay de sessão que você pode hospedar por si mesmo. Ideal para reproduzir problemas, co-navegar com usuários e otimizar seu produto.
+source: github openreplay/openreplay
+url: https://openreplay.com/
+logo: /open-source/openreplay/logo.png
+description: ''
+categories:
+  - Product Management
+alterantiveTo:
+  - fullstory
+  - logrocket
+relatedProjects:
+  - freecad
+  - ant-media-server
+  - taiga
+  - jellyfin
+  - nextcloud
+tutorials:
+  - title: ''
+    link: ''
+images: /public/open-source/openreplay/

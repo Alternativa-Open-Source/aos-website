@@ -1,0 +1,21 @@
+name: Planka
+createdAt: '2024-10-06T01:13:35.229Z'
+headlight: O quadro kanban em tempo real para grupos de trabalho criado com React e Redux.
+source: github plankanban/planka
+url: https://planka.app/
+logo: /open-source/planka/logo.png
+description: ''
+categories:
+  - Notetaking
+alterantiveTo:
+  - trello
+relatedProjects:
+  - sentry
+  - redash
+  - myrtille
+  - laverna
+  - audiobookshelf
+tutorials:
+  - title: ''
+    link: ''
+images: /public/open-source/planka/

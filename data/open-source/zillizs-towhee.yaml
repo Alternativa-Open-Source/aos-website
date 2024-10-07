@@ -1,0 +1,20 @@
+name: Zilliz's Towhee
+createdAt: '2024-10-06T01:38:47.338Z'
+headlight: Towhee é uma estrutura dedicada a tornar os pipelines de processamento de dados neurais simples e rápidos.
+source: github towhee-io/towhee
+url: https://towhee.io/
+logo: /open-source/zillizs-towhee/logo.png
+description: ''
+categories:
+  - ML Ops
+alterantiveTo:
+  - aws-sagemaker
+relatedProjects:
+  - linkace
+  - vendure
+  - illa
+  - cabal-desktop
+tutorials:
+  - title: ''
+    link: ''
+images: /public/open-source/zillizs-towhee/

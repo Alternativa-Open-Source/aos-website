@@ -1,0 +1,23 @@
+name: Joplin
+createdAt: '2024-10-06T00:57:06.979Z'
+headlight: Joplin - o aplicativo seguro para anotações e tarefas com recursos de sincronização para Windows, macOS, Linux, Android e iOS.
+source: github laurent22/joplin
+url: https://joplinapp.org/
+logo: /open-source/joplin/logo.jpeg
+description: ''
+categories:
+  - Notetaking
+alterantiveTo:
+  - evernote
+  - onenote
+  - roam-research
+  - microsoft-onenote
+relatedProjects:
+  - civicrm
+  - lineage-os
+  - inlang
+  - magento
+tutorials:
+  - title: ''
+    link: ''
+images: /public/open-source/joplin/

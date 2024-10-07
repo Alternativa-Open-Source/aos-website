@@ -1,0 +1,22 @@
+name: Vendure
+createdAt: '2024-10-06T01:32:40.874Z'
+headlight: Uma plataforma de comércio GraphQL sem interface para a web moderna
+source: github vendure-ecommerce/vendure
+url: https://www.vendure.io/
+logo: /open-source/vendure/logo.png
+description: ''
+categories:
+  - E-commerce
+alterantiveTo:
+  - shopify
+  - ecwid
+relatedProjects:
+  - wallabag
+  - modrinth
+  - modulz
+  - nuclear
+  - kukkee
+tutorials:
+  - title: ''
+    link: ''
+images: /public/open-source/vendure/

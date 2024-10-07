@@ -1,0 +1,21 @@
+name: Cryptomator
+createdAt: '2024-10-06T00:47:36.491Z'
+headlight: Criptografia transparente multiplataforma do lado do cliente dos seus arquivos na nuvem
+source: github cryptomator/cryptomator
+url: https://cryptomator.org/
+logo: /open-source/cryptomator/logo.png
+description: ''
+categories:
+  - Cybersecurity
+alterantiveTo:
+  - boxcryptor
+relatedProjects:
+  - lightdash
+  - docusaurus
+  - testsigma
+  - nuclei
+  - saleor-commerce
+tutorials:
+  - title: ''
+    link: ''
+images: /public/open-source/cryptomator/

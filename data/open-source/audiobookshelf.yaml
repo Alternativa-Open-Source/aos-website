@@ -1,0 +1,20 @@
+name: Audiobookshelf
+createdAt: '2024-10-06T00:39:58.601Z'
+headlight: Servidor de audiolivros e podcasts auto-hospedado
+source: github advplyr/audiobookshelf
+url: https://www.audiobookshelf.org/
+logo: /open-source/audiobookshelf/logo.png
+description: ''
+categories:
+  - Music
+alterantiveTo:
+  - ampache
+relatedProjects:
+  - rudderstack
+  - opentoonz
+  - wiki-js
+  - myrtille
+tutorials:
+  - title: ''
+    link: ''
+images: /public/open-source/audiobookshelf/

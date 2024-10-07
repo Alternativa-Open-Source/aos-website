@@ -1,0 +1,20 @@
+name: Argos CI
+createdAt: '2024-10-06T00:39:42.629Z'
+headlight: Testes visuais para aplicativos web modernos. Revise as mudanças visuais no seu fluxo de trabalho de desenvolvimento.
+source: github argos-ci/argos
+url: https://argos-ci.com/
+logo: /open-source/argos-ci/logo.png
+description: ''
+categories:
+  - Developer Tools
+alterantiveTo:
+  - percy
+relatedProjects:
+  - logseq
+  - fusio
+  - apache-nifi
+  - janusgraph
+tutorials:
+  - title: ''
+    link: ''
+images: /public/open-source/argos-ci/

@@ -1,0 +1,20 @@
+name: Magento
+createdAt: '2024-10-06T01:01:17.272Z'
+headlight: 'Antes de fazer qualquer Envio(s), você deve assinar um Contrato de Licença do Adobe Contributor, disponível aqui em: https://opensource.adobe.com/cla.html. Todos os Envios que você fizer para a Adobe Inc. e suas afiliadas, cessionárias e subsidiárias (coletivamente “Adobe”) estão sujeitos aos termos do Contrato de Licença do Adobe Contributor.'
+source: github magento/magento2
+url: https://business.adobe.com/products/magento/magento-commerce.html
+logo: /open-source/magento/logo.png
+description: ''
+categories:
+  - E-commerce
+alterantiveTo:
+  - shopify
+  - bigcommerce
+relatedProjects:
+  - netbird
+  - shopware
+  - ory
+tutorials:
+  - title: ''
+    link: ''
+images: /public/open-source/magento/

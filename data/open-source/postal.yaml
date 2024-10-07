@@ -1,0 +1,22 @@
+name: Postal
+createdAt: '2024-10-06T01:14:42.934Z'
+headlight: ✉️ Uma plataforma de entrega de e-mail de código aberto com todos os recursos para e-mails recebidos e enviados
+source: github postalserver/postal
+url: https://docs.postalserver.io/
+logo: /open-source/postal/logo.svg
+description: ''
+categories:
+  - Email marketing
+alterantiveTo:
+  - mailchimp
+  - sendinblue
+relatedProjects:
+  - strapi
+  - zinc
+  - picocrypt
+  - logseq
+  - checkmk
+tutorials:
+  - title: ''
+    link: ''
+images: /public/open-source/postal/

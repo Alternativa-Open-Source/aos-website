@@ -1,0 +1,24 @@
+name: Core
+createdAt: '2024-10-06T00:47:16.624Z'
+headlight: ':house_with_garden: Automação residencial de código aberto que coloca o controle local e a privacidade em primeiro lugar.'
+source: github home-assistant/core
+url: https://www.home-assistant.io/
+logo: /open-source/core/logo.png
+description: ''
+categories:
+  - Automation
+alterantiveTo:
+  - ifttt
+  - openhab
+  - alexa
+  - google-home
+relatedProjects:
+  - kalker
+  - minikube
+  - webmin
+  - xournalpp
+  - kimai
+tutorials:
+  - title: ''
+    link: ''
+images: /public/open-source/core/

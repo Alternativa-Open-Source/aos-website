@@ -1,0 +1,24 @@
+name: Coyim
+createdAt: '2024-10-06T00:47:27.761Z'
+headlight: coyim - um cliente de bate-papo seguro e protegido
+source: github coyim/coyim
+url: https://coy.im/
+logo: /open-source/coyim/logo.png
+description: ''
+categories:
+  - Communication
+alterantiveTo:
+  - whatsapp
+  - telegram
+  - threema
+  - session
+  - berty
+relatedProjects:
+  - karate
+  - microweber
+  - restyaboard
+  - retroarcher-bundle
+tutorials:
+  - title: ''
+    link: ''
+images: /public/open-source/coyim/

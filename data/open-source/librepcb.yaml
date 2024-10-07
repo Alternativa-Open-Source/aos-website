@@ -1,0 +1,22 @@
+name: LibrePCB
+createdAt: '2024-10-06T00:59:56.165Z'
+headlight: Um pacote EDA poderoso, inovador e intuitivo para todos!
+source: github LibrePCB/LibrePCB
+url: https://librepcb.org/
+logo: /open-source/librepcb/logo.png
+description: ''
+categories:
+  - Community
+alterantiveTo:
+  - multisim
+  - proteus
+relatedProjects:
+  - element
+  - vesta
+  - wire
+  - okuna
+  - budibase
+tutorials:
+  - title: ''
+    link: ''
+images: /public/open-source/librepcb/

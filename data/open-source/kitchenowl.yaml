@@ -1,0 +1,22 @@
+name: KitchenOwl
+createdAt: '2024-10-06T00:57:35.228Z'
+headlight: KitchenOwl é um gerenciador de receitas e lista de compras auto-hospedado. O backend é feito com Flask e o frontend com Flutter. Adicione itens facilmente à sua lista de compras antes de ir às compras. Você também pode criar receitas e adicionar itens com base no que deseja cozinhar.
+source: github TomBursch/kitchenowl
+url: https://tombursch.github.io/kitchenowl/
+logo: /open-source/kitchenowl/logo.png
+description: ''
+categories:
+  - Food
+alterantiveTo:
+  - hungry
+  - bring
+relatedProjects:
+  - padloc
+  - sendportal
+  - mastodon
+  - vendure
+  - chaskiq
+tutorials:
+  - title: ''
+    link: ''
+images: /public/open-source/kitchenowl/

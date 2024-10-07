@@ -1,0 +1,21 @@
+name: Gravitl
+createdAt: '2024-10-06T00:53:34.465Z'
+headlight: Netmaker cria redes com WireGuard. Netmaker automatiza redes virtuais rápidas, seguras e distribuídas.
+source: github gravitl/netmaker
+url: https://gravitl.com/
+logo: /open-source/gravitl/logo.png
+description: ''
+categories:
+  - VPN
+alterantiveTo:
+  - taliscale
+relatedProjects:
+  - victoriametrics
+  - graphite-docs
+  - postal
+  - docusaurus
+  - headscale
+tutorials:
+  - title: ''
+    link: ''
+images: /public/open-source/gravitl/

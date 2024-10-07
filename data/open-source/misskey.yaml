@@ -1,0 +1,21 @@
+name: Misskey
+createdAt: '2024-10-06T01:03:29.577Z'
+headlight: 🌎 Uma plataforma de microblog interplanetária 🚀
+source: github misskey-dev/misskey
+url: https://join.misskey.page/en-US/
+logo: /open-source/misskey/logo.png
+description: ''
+categories:
+  - Blogging
+alterantiveTo:
+  - twitter
+relatedProjects:
+  - sendportal
+  - appflowy
+  - librepcb
+  - humhub
+  - invoiceninja
+tutorials:
+  - title: ''
+    link: ''
+images: /public/open-source/misskey/

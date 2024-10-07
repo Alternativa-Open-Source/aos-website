@@ -1,0 +1,20 @@
+name: MdBook
+createdAt: '2024-10-06T01:01:38.669Z'
+headlight: Crie um livro a partir de arquivos markdown. Como o Gitbook, mas implementado em Rust
+source: github rust-lang/mdBook
+url: https://rust-lang.github.io/mdBook/
+logo: /open-source/mdbook/logo.png
+description: ''
+categories:
+  - Notetaking
+alterantiveTo:
+  - gitbook
+relatedProjects:
+  - libreoffice
+  - opensearch
+  - mdbook
+  - mirotalk
+tutorials:
+  - title: ''
+    link: ''
+images: /public/open-source/mdbook/

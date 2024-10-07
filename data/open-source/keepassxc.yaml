@@ -1,0 +1,22 @@
+name: KeePassXC
+createdAt: '2024-10-06T00:57:23.395Z'
+headlight: KeePassXC é uma porta multiplataforma conduzida pela comunidade do aplicativo Windows “Keepass Password Safe”.
+source: github keepassxreboot/keepassxc
+url: https://keepassxc.org/
+logo: /open-source/keepassxc/logo.svg
+description: ''
+categories:
+  - Password Managers
+alterantiveTo:
+  - 1password
+  - lastpass
+relatedProjects:
+  - colabora-online
+  - apostrophecms-3
+  - cachet
+  - bangle-io
+  - prefect
+tutorials:
+  - title: ''
+    link: ''
+images: /public/open-source/keepassxc/

@@ -1,0 +1,21 @@
+name: WriteFreely
+createdAt: '2024-10-06T01:34:29.243Z'
+headlight: Uma plataforma de publicação limpa, baseada em Markdown, feita para escritores. Escrevam juntos e construam uma comunidade.
+source: github writeas/writefreely
+url: https://writefreely.org/
+logo: /open-source/writefreely/logo.png
+description: ''
+categories:
+  - Blogging
+alterantiveTo:
+  - medium
+relatedProjects:
+  - webmin
+  - vuepress
+  - manticoresearch
+  - caprover
+  - friendica
+tutorials:
+  - title: ''
+    link: ''
+images: /public/open-source/writefreely/

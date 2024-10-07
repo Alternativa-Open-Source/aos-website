@@ -1,0 +1,22 @@
+name: BigBlueButton
+createdAt: '2024-10-06T00:44:34.854Z'
+headlight: Sistema completo de webconferência de código aberto.
+source: github bigbluebutton/bigbluebutton
+url: https://bigbluebutton.org/
+logo: /open-source/bigbluebutton/logo.png
+description: ''
+categories:
+  - Communication
+alterantiveTo:
+  - zoom
+  - skype
+relatedProjects:
+  - padloc
+  - uptime-kuma
+  - redash
+  - freecad
+  - posthog
+tutorials:
+  - title: ''
+    link: ''
+images: /public/open-source/bigbluebutton/

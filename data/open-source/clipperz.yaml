@@ -1,0 +1,21 @@
+name: Clipperz
+createdAt: '2024-10-06T00:46:20.054Z'
+headlight: Clipperz é um cofre online e gerenciador de senhas que não sabe nada sobre você e seus dados. Tudo o que você envia é criptografado localmente pelo seu navegador antes de ser carregado no Clipperz. A chave de criptografia é uma frase-senha conhecida apenas por você e o Clipperz nunca poderia acessar seus dados. O Clipperz é construído sobre algoritmos de criptografia abertos, comprovados e confiáveis.
+source: github clipperz/password-manager
+url: https://clipperz.is/
+logo: /open-source/clipperz/logo.png
+description: ''
+categories:
+  - Password Managers
+alterantiveTo:
+  - 1password
+  - lastpass
+relatedProjects:
+  - berty
+  - janusgraph
+  - apostrophecms-3
+  - authpass
+tutorials:
+  - title: ''
+    link: ''
+images: /public/open-source/clipperz/

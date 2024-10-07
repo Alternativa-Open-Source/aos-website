@@ -1,0 +1,19 @@
+name: Kontalk
+createdAt: '2024-10-06T00:57:37.329Z'
+headlight: Cliente oficial do Kontalk para Android
+source: github kontalk/androidclient
+url: https://www.kontalk.org/
+logo: /open-source/kontalk/logo.jpeg
+description: ''
+categories:
+  - Communication
+alterantiveTo:
+  - whatsapp
+relatedProjects:
+  - dgraph
+  - bitwarden
+  - qovery
+tutorials:
+  - title: ''
+    link: ''
+images: /public/open-source/kontalk/

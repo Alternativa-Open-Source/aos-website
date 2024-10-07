@@ -1,0 +1,21 @@
+name: Huginn
+createdAt: '2024-10-06T00:55:07.562Z'
+headlight: Crie agentes que monitoram e agem em seu nome. Seus agentes estão de prontidão!
+source: github huginn/huginn
+url: https://github.com/huginn/huginn
+logo: /open-source/huginn/logo.png
+description: ''
+categories:
+  - Automation
+alterantiveTo:
+  - zapier
+  - make
+relatedProjects:
+  - pyroscope
+  - clickhouse
+  - invoiceninja
+  - matano
+tutorials:
+  - title: ''
+    link: ''
+images: /public/open-source/huginn/

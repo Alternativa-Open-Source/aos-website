@@ -1,0 +1,20 @@
+name: Prometheus
+createdAt: '2024-10-06T01:15:03.796Z'
+headlight: O sistema de monitoramento Prometheus e o banco de dados de séries temporais.
+source: github prometheus/prometheus
+url: https://prometheus.io/
+logo: /open-source/prometheus/logo.png
+description: ''
+categories:
+  - Database
+alterantiveTo:
+  - datadog
+relatedProjects:
+  - cube-js
+  - vscodium
+  - fider
+  - boxyhq
+tutorials:
+  - title: ''
+    link: ''
+images: /public/open-source/prometheus/

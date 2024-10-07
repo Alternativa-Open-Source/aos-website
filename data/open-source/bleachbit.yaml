@@ -1,0 +1,21 @@
+name: BleachBit
+createdAt: '2024-10-06T00:44:44.809Z'
+headlight: Limpador de sistema BleachBit para Windows e Linux
+source: github bleachbit/bleachbit
+url: https://www.bleachbit.org/
+logo: /open-source/bleachbit/logo.png
+description: ''
+categories:
+  - Internal Tool
+alterantiveTo:
+  - ccleaner
+relatedProjects:
+  - stackstorm
+  - kdenlive
+  - storj
+  - retroarcher-bundle
+  - friendica
+tutorials:
+  - title: ''
+    link: ''
+images: /public/open-source/bleachbit/

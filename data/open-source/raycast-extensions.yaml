@@ -1,0 +1,20 @@
+name: Raycast Extensions
+createdAt: '2024-10-06T01:16:28.832Z'
+headlight: Tudo o que você precisa para estender o Raycast.
+source: github raycast/extensions
+url: https://developers.raycast.com/
+logo: /open-source/raycast-extensions/logo.png
+description: ''
+categories:
+  - Developer Tools
+alterantiveTo:
+  - alfred
+relatedProjects:
+  - rowy
+  - verdaccio
+  - cube-js
+  - meilisearch
+tutorials:
+  - title: ''
+    link: ''
+images: /public/open-source/raycast-extensions/

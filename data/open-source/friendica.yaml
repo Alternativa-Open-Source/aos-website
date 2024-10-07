@@ -1,0 +1,21 @@
+name: Friendica
+createdAt: '2024-10-06T00:52:09.839Z'
+headlight: Plataforma de Comunicações Friendica
+source: github friendica/friendica
+url: https://friendi.ca/
+logo: /open-source/friendica/logo.png
+description: ''
+categories:
+  - Social Media
+alterantiveTo:
+  - facebook
+relatedProjects:
+  - zitadel
+  - huginn
+  - openfaas
+  - paperless-ngx
+  - akaunting
+tutorials:
+  - title: ''
+    link: ''
+images: /public/open-source/friendica/

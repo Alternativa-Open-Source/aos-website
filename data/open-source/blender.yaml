@@ -1,0 +1,22 @@
+name: Blender
+createdAt: '2024-10-06T00:44:48.227Z'
+headlight: Espelho oficial do Blender
+source: github blender/blender
+url: https://www.blender.org/
+logo: /open-source/blender/logo.png
+description: ''
+categories:
+  - Video
+alterantiveTo:
+  - maya
+  - 3ds-max
+  - adobe-substance
+relatedProjects:
+  - vlc
+  - piped
+  - helpy
+  - kanboard
+tutorials:
+  - title: ''
+    link: ''
+images: /public/open-source/blender/

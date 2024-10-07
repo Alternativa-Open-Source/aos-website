@@ -1,0 +1,22 @@
+name: Sendportal
+createdAt: '2024-10-06T01:22:25.872Z'
+headlight: Email marketing auto-hospedado de código aberto. Gerencie seus próprios boletins informativos por uma fração do custo.
+source: github mettle/sendportal
+url: https://sendportal.io/
+logo: /open-source/sendportal/logo.png
+description: ''
+categories:
+  - Email marketing
+alterantiveTo:
+  - mailchimp
+  - sendinblue
+relatedProjects:
+  - restyaboard
+  - openoffice
+  - kimai
+  - okuna
+  - crowd-dev
+tutorials:
+  - title: ''
+    link: ''
+images: /public/open-source/sendportal/

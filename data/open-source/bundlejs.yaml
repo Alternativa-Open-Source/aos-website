@@ -1,0 +1,24 @@
+name: Bundlejs
+createdAt: '2024-10-06T00:45:19.897Z'
+headlight: Uma ferramenta online para agrupar e minimizar rapidamente seus projetos, enquanto visualiza o tamanho do pacote gzip/brotli compactado, tudo executado localmente no seu navegador.
+source: github okikio/bundle
+url: https://bundle.js.org/
+logo: /open-source/bundlejs/logo.png
+description: ''
+categories:
+  - Developer Tools
+alterantiveTo:
+  - bundlephobia
+  - webpack
+  - esbuild
+  - rollup
+relatedProjects:
+  - victoriametrics
+  - strapi
+  - ckan
+  - shotcut
+  - espocrm
+tutorials:
+  - title: ''
+    link: ''
+images: /public/open-source/bundlejs/

@@ -1,0 +1,21 @@
+name: OpenOffice
+createdAt: '2024-10-06T01:06:38.601Z'
+headlight: Apache OpenOffice
+source: github apache/openoffice
+url: https://www.openoffice.org/
+logo: /open-source/openoffice/logo.
+description: ''
+categories:
+  - Documentation
+alterantiveTo:
+  - microsoft-office
+relatedProjects:
+  - shoutify
+  - timescaledb
+  - space-cloud
+  - ant-media-server
+  - dyrector
+tutorials:
+  - title: ''
+    link: ''
+images: /public/open-source/openoffice/

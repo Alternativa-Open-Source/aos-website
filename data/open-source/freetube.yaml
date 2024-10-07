@@ -1,0 +1,21 @@
+name: FreeTube
+createdAt: '2024-10-06T00:52:07.132Z'
+headlight: Um aplicativo de código aberto do YouTube para privacidade
+source: github FreeTubeApp/FreeTube
+url: https://freetubeapp.io/
+logo: /open-source/freetube/logo.png
+description: ''
+categories:
+  - Video
+alterantiveTo:
+  - youtube
+relatedProjects:
+  - firezone
+  - revolt
+  - chaskiq
+  - activeworkflow
+  - formbricks
+tutorials:
+  - title: ''
+    link: ''
+images: /public/open-source/freetube/

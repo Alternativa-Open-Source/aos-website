@@ -1,0 +1,21 @@
+name: Univention Corporate Server
+createdAt: '2024-10-06T01:31:40.810Z'
+headlight: Servidor Corporativo Univention
+source: github univention/univention-corporate-server
+url: https://www.univention.com/
+logo: /open-source/univention-corporate-server/logo.svg
+description: ''
+categories:
+  - Cloud
+alterantiveTo:
+  - microsoft-active-directory
+relatedProjects:
+  - wordle-global
+  - typebot-io
+  - openam
+  - sulu
+  - dolicloud
+tutorials:
+  - title: ''
+    link: ''
+images: /public/open-source/univention-corporate-server/

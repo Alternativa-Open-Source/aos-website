@@ -1,0 +1,21 @@
+name: Scoold
+createdAt: '2024-10-06T01:18:37.028Z'
+headlight: Um clone do Stack Overflow para equipes (auto-hospedadas ou hospedadas)
+source: github Erudika/scoold
+url: https://scoold.com/
+logo: /open-source/scoold/logo.png
+description: ''
+categories:
+  - Project Management
+alterantiveTo:
+  - stack-overflow
+relatedProjects:
+  - lowdefy
+  - peppermint
+  - nopcommerce
+  - vscodium
+  - keepassxc
+tutorials:
+  - title: ''
+    link: ''
+images: /public/open-source/scoold/

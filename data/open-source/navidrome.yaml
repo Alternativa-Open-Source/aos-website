@@ -1,0 +1,20 @@
+name: Navidrome
+createdAt: '2024-10-06T01:04:24.310Z'
+headlight: 🎧☁️ Servidor de música moderno e streamer compatível com Subsonic/Airsonic
+source: github navidrome/navidrome
+url: https://www.navidrome.org/
+logo: /open-source/navidrome/logo.png
+description: ''
+categories:
+  - Music
+alterantiveTo:
+  - spotify
+relatedProjects:
+  - wiki-js
+  - invidious
+  - etherpad
+  - kitchenowl
+tutorials:
+  - title: ''
+    link: ''
+images: /public/open-source/navidrome/

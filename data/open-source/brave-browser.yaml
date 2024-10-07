@@ -1,0 +1,23 @@
+name: Brave Browser
+createdAt: '2024-10-06T00:45:00.875Z'
+headlight: Navegador Brave de próxima geração para Android, Linux, macOS, Windows.
+source: github brave/brave-browser
+url: https://brave.com/
+logo: /open-source/brave-browser/logo.png
+description: ''
+categories:
+  - Browser
+alterantiveTo:
+  - google-chrome
+  - microsoft-edge
+  - safari
+relatedProjects:
+  - darktable
+  - sumrat-pdf-reader
+  - keila
+  - prometheus
+  - hanko
+tutorials:
+  - title: ''
+    link: ''
+images: /public/open-source/brave-browser/

@@ -1,0 +1,23 @@
+name: Dgraph
+createdAt: '2024-10-06T00:48:32.563Z'
+headlight: O banco de dados de alto desempenho para aplicativos modernos
+source: github dgraph-io/dgraph
+url: https://dgraph.io/
+logo: /open-source/dgraph/logo.png
+description: ''
+categories:
+  - Database
+alterantiveTo:
+  - neo4j
+  - tigergraph
+  - amazon-neptune
+relatedProjects:
+  - pocketbase
+  - session
+  - timescaledb
+  - armorpaint
+  - cloudquery
+tutorials:
+  - title: ''
+    link: ''
+images: /public/open-source/dgraph/

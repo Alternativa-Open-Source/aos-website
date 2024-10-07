@@ -1,0 +1,20 @@
+name: Pipedream
+createdAt: '2024-10-06T01:13:16.221Z'
+headlight: Conecte APIs, notavelmente rápido. Gratuito para desenvolvedores.
+source: github PipedreamHQ/pipedream
+url: https://pipedream.com/
+logo: /open-source/pipedream/logo.png
+description: ''
+categories:
+  - Automation
+alterantiveTo:
+  - zapier
+  - make
+relatedProjects:
+  - rfbx
+  - libreoffice
+  - magento
+tutorials:
+  - title: ''
+    link: ''
+images: /public/open-source/pipedream/

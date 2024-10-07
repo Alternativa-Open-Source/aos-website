@@ -1,0 +1,21 @@
+name: Sigle
+createdAt: '2024-10-06T01:23:41.843Z'
+headlight: Plataforma de escrita Web3 de código aberto para escritores Web3
+source: github pradel/sigle
+url: https://www.sigle.io/
+logo: /open-source/sigle/logo.png
+description: ''
+categories:
+  - Blogging
+alterantiveTo:
+  - medium
+relatedProjects:
+  - opentoonz
+  - dagster
+  - quickwit
+  - meilisearch
+  - movim
+tutorials:
+  - title: ''
+    link: ''
+images: /public/open-source/sigle/

@@ -1,0 +1,22 @@
+name: Opnsense
+createdAt: '2024-10-06T01:07:06.464Z'
+headlight: OPNsense GUI, API e backend de sistemas
+source: github opnsense/core
+url: https://opnsense.org/
+logo: /open-source/opnsense/logo.png
+description: ''
+categories:
+  - Cybersecurity
+alterantiveTo:
+  - sophos-firewall
+  - unifi-security-gateway
+relatedProjects:
+  - rowy
+  - freeplane
+  - cryptpad
+  - automa
+  - cinny
+tutorials:
+  - title: ''
+    link: ''
+images: /public/open-source/opnsense/
