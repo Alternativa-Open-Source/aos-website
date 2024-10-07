@@ -1,4 +1,4 @@
-import { slugify } from "@/utils/slugify";
+import { slugify } from "@/utils/textUtils";
 import { readFileOrNull, saveFile } from "./file-functions";
 
 const FOLDER = "data/cache/repository-data/";
@@ -45,7 +45,7 @@ const getGitHubRepoData = async (projectId) => {
   const response = await fetch(url, params);
   if (!response.ok) {
     console.error(await response.json());
-    throw new Error("Failed to fetch data");
+    throw new Error(`Failed to fetch data ${url}`);
   }
 
   const data = await response.json();

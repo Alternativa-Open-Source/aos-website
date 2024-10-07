@@ -15,7 +15,6 @@ describe("repository-data", () => {
 
   it("should fetch github supabase/supabase", async () => {
     const data = await getRepoData("github supabase/supabase");
-    console.log(data);
 
     expect(data.license).toBe("Apache License 2.0");
     expect(data.language).toBe("TypeScript");

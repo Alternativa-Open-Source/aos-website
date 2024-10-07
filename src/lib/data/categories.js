@@ -1,4 +1,4 @@
-import { slugify } from "@/utils/slugify";
+import { slugify } from "@/utils/textUtils";
 import { readOpenSourceFilesAndRepoData } from "./open-source";
 import { readFile, saveFile } from "../file-functions";
 

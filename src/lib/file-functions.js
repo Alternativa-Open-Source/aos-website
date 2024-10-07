@@ -6,9 +6,7 @@ export const listFiles = async (dataFolder) => {
   const projectRoot = process.cwd();
 
   const folder = path.join(projectRoot, dataFolder);
-  const files = await fs.promises.readdir(folder);
-
-  return files.filter((file) => file.endsWith(".yaml"));
+  return await fs.promises.readdir(folder);
 };
 
 export const fileExists = async (folder, file) => {

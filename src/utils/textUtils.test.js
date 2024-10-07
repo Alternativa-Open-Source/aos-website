@@ -1,4 +1,4 @@
-import { slugify } from "@/utils/slugify";
+import { replaceAccentMarks, slugify } from "@/utils/textUtils";
 
 describe("slugify", () => {
   it("should convert a string to lowercase and replace spaces with hyphens", () => {
@@ -36,4 +36,14 @@ describe("slugify", () => {
   it("should not remove valid characters", () => {
     expect(slugify("Next.js is awesome")).toBe("next-js-is-awesome");
   });
+
+  it("should remove accent marks", () => {
+    expect(slugify("api-Tesťãô")).toBe("api-testao");
+  });
 });
+
+describe("replaceAccentMarks", () => {
+  it("should replace ", () => {
+    expect(replaceAccentMarks("ÀéîôüçÑ-Romeo&Juliet")).toBe("AeioucN-Romeo e Juliet");
+  });
+})
