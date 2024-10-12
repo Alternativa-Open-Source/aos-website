@@ -2,8 +2,8 @@ name: Dokku
 createdAt: '2024-10-06T00:48:49.359Z'
 headlight: Um PaaS com tecnologia Docker que ajuda você a criar e gerenciar o ciclo de vida dos aplicativos
 source: github dokku/dokku
-url: http://dokku.viewdocs.io/dokku/
-logo: /open-source/dokku/logo.png
+url: https://dokku.com/
+logo: /open-source-img/dokku/logo.png
 description: ''
 categories:
   - Deployment
@@ -19,4 +19,4 @@ relatedProjects:
 tutorials:
   - title: ''
     link: ''
-images: /public/open-source/dokku/
+images: /public/open-source-img/dokku/

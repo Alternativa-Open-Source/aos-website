@@ -3,7 +3,7 @@ createdAt: '2024-10-06T01:32:33.601Z'
 headlight: Vanilla é um fórum de discussão extremamente simples que você pode personalizar facilmente para torná-lo tão único quanto sua comunidade.
 source: github vanilla/vanilla
 url: https://vanillaforums.com/en/
-logo: /open-source/vanilla/logo.jpeg
+logo: /open-source-img/vanilla/logo.jpeg
 description: ''
 categories:
   - Community
@@ -19,4 +19,4 @@ relatedProjects:
 tutorials:
   - title: ''
     link: ''
-images: /public/open-source/vanilla/
+images: /public/open-source-img/vanilla/

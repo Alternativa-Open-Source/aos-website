@@ -3,7 +3,7 @@ createdAt: '2024-10-06T01:11:34.062Z'
 headlight: pagure é um forge leve centrado em git baseado em pygit2. (MIRROR)
 source: github Pagure/pagure
 url: https://pagure.io/pagure
-logo: /open-source/pagure/logo.png
+logo: /open-source-img/pagure/logo.png
 description: ''
 categories:
   - Developer Tools
@@ -18,4 +18,4 @@ relatedProjects:
 tutorials:
   - title: ''
     link: ''
-images: /public/open-source/pagure/
+images: /public/open-source-img/pagure/

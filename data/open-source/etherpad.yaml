@@ -3,7 +3,7 @@ createdAt: '2024-10-06T00:49:34.883Z'
 headlight: 'Etherpad: Um editor de documentos colaborativo moderno e em tempo real.'
 source: github ether/etherpad-lite
 url: https://etherpad.org/
-logo: /open-source/etherpad/logo.jpeg
+logo: /open-source-img/etherpad/logo.jpeg
 description: ''
 categories:
   - Documentation
@@ -19,4 +19,4 @@ relatedProjects:
 tutorials:
   - title: ''
     link: ''
-images: /public/open-source/etherpad/
+images: /public/open-source-img/etherpad/

@@ -3,7 +3,7 @@ createdAt: '2024-10-06T00:49:32.104Z'
 headlight: EspoCRM – Aplicativo CRM de código aberto
 source: github espocrm/espocrm
 url: https://www.espocrm.com/
-logo: /open-source/espocrm/logo.png
+logo: /open-source-img/espocrm/logo.png
 description: ''
 categories:
   - Database
@@ -20,4 +20,4 @@ relatedProjects:
 tutorials:
   - title: ''
     link: ''
-images: /public/open-source/espocrm/
+images: /public/open-source-img/espocrm/

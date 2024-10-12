@@ -3,7 +3,7 @@ createdAt: '2024-10-06T01:24:12.477Z'
 headlight: Plataforma de comércio eletrônico multilíngue/multimoeda/multiloja de código aberto
 source: github spree/spree
 url: https://spreecommerce.org/
-logo: /open-source/spree-commerce/logo.png
+logo: /open-source-img/spree-commerce/logo.png
 description: ''
 categories:
   - E-commerce
@@ -19,4 +19,4 @@ relatedProjects:
 tutorials:
   - title: ''
     link: ''
-images: /public/open-source/spree-commerce/
+images: /public/open-source-img/spree-commerce/

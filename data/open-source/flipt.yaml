@@ -3,7 +3,7 @@ createdAt: '2024-10-06T00:50:52.404Z'
 headlight: Solução de gerenciamento de recursos CloudNative pronta para empresas, habilitada para GitOps
 source: github markphelps/flipt
 url: https://flipt.io/
-logo: /open-source/flipt/logo.jpeg
+logo: /open-source-img/flipt/logo.jpeg
 description: ''
 categories:
   - Developer Tools
@@ -19,4 +19,4 @@ relatedProjects:
 tutorials:
   - title: ''
     link: ''
-images: /public/open-source/flipt/
+images: /public/open-source-img/flipt/

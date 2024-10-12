@@ -3,7 +3,7 @@ createdAt: '2024-10-06T01:11:43.913Z'
 headlight: Sistema de gerenciamento de documentos de código aberto para arquivos digitais (documentos digitalizados)
 source: github ciur/papermerge
 url: https://www.papermerge.com/
-logo: /open-source/papermerge/logo.svg
+logo: /open-source-img/papermerge/logo.svg
 description: ''
 categories:
   - Documentation
@@ -19,4 +19,4 @@ relatedProjects:
 tutorials:
   - title: ''
     link: ''
-images: /public/open-source/papermerge/
+images: /public/open-source-img/papermerge/

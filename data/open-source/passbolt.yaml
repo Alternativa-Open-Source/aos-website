@@ -3,7 +3,7 @@ createdAt: '2024-10-06T01:11:49.449Z'
 headlight: Passbolt Community Edition (CE) API. A API JSON para o gerenciador de senhas de código aberto para equipes!
 source: github passbolt/passbolt_api
 url: https://www.passbolt.com/
-logo: /open-source/passbolt/logo.png
+logo: /open-source-img/passbolt/logo.png
 description: ''
 categories:
   - Password Managers
@@ -18,4 +18,4 @@ relatedProjects:
 tutorials:
   - title: ''
     link: ''
-images: /public/open-source/passbolt/
+images: /public/open-source-img/passbolt/

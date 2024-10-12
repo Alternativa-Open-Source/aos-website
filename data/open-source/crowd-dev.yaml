@@ -3,7 +3,7 @@ createdAt: '2024-10-06T01:39:18.507Z'
 headlight: ⚡️ A plataforma de dados do desenvolvedor para centralizar dados da comunidade, do produto e do cliente
 source: github CrowdDotDev/crowd.dev
 url: https://www.crowd.dev/
-logo: /open-source/crowd-dev/logo.png
+logo: /open-source-img/crowd-dev/logo.png
 description: ''
 categories:
   - Customer Data
@@ -19,4 +19,4 @@ relatedProjects:
 tutorials:
   - title: ''
     link: ''
-images: /public/open-source/crowd-dev/
+images: /public/open-source-img/crowd-dev/

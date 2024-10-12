@@ -3,7 +3,7 @@ createdAt: '2024-10-06T01:04:24.310Z'
 headlight: 🎧☁️ Servidor de música moderno e streamer compatível com Subsonic/Airsonic
 source: github navidrome/navidrome
 url: https://www.navidrome.org/
-logo: /open-source/navidrome/logo.png
+logo: /open-source-img/navidrome/logo.png
 description: ''
 categories:
   - Music
@@ -17,4 +17,4 @@ relatedProjects:
 tutorials:
   - title: ''
     link: ''
-images: /public/open-source/navidrome/
+images: /public/open-source-img/navidrome/

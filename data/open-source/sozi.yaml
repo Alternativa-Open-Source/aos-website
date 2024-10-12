@@ -3,7 +3,7 @@ createdAt: '2024-10-06T01:24:02.848Z'
 headlight: Um editor de apresentação "zoom"
 source: github sozi-projects/Sozi
 url: https://sozi.baierouge.fr/
-logo: /open-source/sozi/logo.png
+logo: /open-source-img/sozi/logo.png
 description: ''
 categories:
   - Design
@@ -18,4 +18,4 @@ relatedProjects:
 tutorials:
   - title: ''
     link: ''
-images: /public/open-source/sozi/
+images: /public/open-source-img/sozi/

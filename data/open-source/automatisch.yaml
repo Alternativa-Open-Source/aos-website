@@ -3,7 +3,7 @@ createdAt: '2024-10-06T00:44:11.803Z'
 headlight: A alternativa de código aberto ao Zapier. Crie automação de fluxo de trabalho sem gastar tempo e dinheiro.
 source: github automatisch/automatisch
 url: https://automatisch.io/
-logo: /open-source/automatisch/logo.png
+logo: /open-source-img/automatisch/logo.png
 description: ''
 categories:
   - Automation
@@ -19,4 +19,4 @@ relatedProjects:
 tutorials:
   - title: ''
     link: ''
-images: /public/open-source/automatisch/
+images: /public/open-source-img/automatisch/

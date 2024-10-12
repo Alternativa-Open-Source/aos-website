@@ -3,7 +3,7 @@ createdAt: '2024-10-06T01:14:42.934Z'
 headlight: ✉️ Uma plataforma de entrega de e-mail de código aberto com todos os recursos para e-mails recebidos e enviados
 source: github postalserver/postal
 url: https://docs.postalserver.io/
-logo: /open-source/postal/logo.svg
+logo: /open-source-img/postal/logo.svg
 description: ''
 categories:
   - Email marketing
@@ -19,4 +19,4 @@ relatedProjects:
 tutorials:
   - title: ''
     link: ''
-images: /public/open-source/postal/
+images: /public/open-source-img/postal/

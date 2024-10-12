@@ -3,7 +3,7 @@ createdAt: '2024-10-06T00:39:32.622Z'
 headlight: ✨ Análise simples, de código aberto e com foco na privacidade para aplicativos móveis, de desktop e da Web
 source: github aptabase/aptabase
 url: https://github.com/aptabase/aptabase
-logo: /open-source/aptabase/logo.jpeg
+logo: /open-source-img/aptabase/logo.jpeg
 description: ''
 categories:
   - Analytics
@@ -18,4 +18,4 @@ relatedProjects:
 tutorials:
   - title: ''
     link: ''
-images: /public/open-source/aptabase/
+images: /public/open-source-img/aptabase/

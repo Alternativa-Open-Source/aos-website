@@ -3,7 +3,7 @@ createdAt: '2024-10-06T00:56:48.391Z'
 headlight: 'JanusGraph: um banco de dados de gráficos distribuídos de código aberto'
 source: github JanusGraph/janusgraph
 url: https://janusgraph.org/
-logo: /open-source/janusgraph/logo.png
+logo: /open-source-img/janusgraph/logo.png
 description: ''
 categories:
   - Database
@@ -18,4 +18,4 @@ relatedProjects:
 tutorials:
   - title: ''
     link: ''
-images: /public/open-source/janusgraph/
+images: /public/open-source-img/janusgraph/

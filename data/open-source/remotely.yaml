@@ -3,7 +3,7 @@ createdAt: '2024-10-06T01:17:06.915Z'
 headlight: Uma solução de controle remoto e script remoto, criada com .NET 8, Blazor e SignalR.
 source: github Jay-Rad/Remotely
 url: https://remotely.one/
-logo: /open-source/remotely/logo.png
+logo: /open-source-img/remotely/logo.png
 description: ''
 categories:
   - Remote Desktop
@@ -17,4 +17,4 @@ relatedProjects:
 tutorials:
   - title: ''
     link: ''
-images: /public/open-source/remotely/
+images: /public/open-source-img/remotely/

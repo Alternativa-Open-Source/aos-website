@@ -3,7 +3,7 @@ createdAt: '2024-10-06T01:00:44.031Z'
 headlight: O canivete suíço da edição de vídeo/áudio sem perdas
 source: github mifi/lossless-cut
 url: '#'
-logo: /open-source/losslesscut/logo.svg
+logo: /open-source-img/losslesscut/logo.svg
 description: ''
 categories:
   - Video
@@ -18,4 +18,4 @@ relatedProjects:
 tutorials:
   - title: ''
     link: ''
-images: /public/open-source/losslesscut/
+images: /public/open-source-img/losslesscut/

@@ -3,7 +3,7 @@ createdAt: '2024-10-06T01:03:25.709Z'
 headlight: 🚀 WebRTC - P2P - Videoconferências simples, seguras e rápidas em tempo real de até 4k e 60 fps, compatível com todos os navegadores e plataformas.
 source: github miroslavpejic85/mirotalk
 url: https://p2p.mirotalk.com/
-logo: /open-source/mirotalk-p2p/logo.svg
+logo: /open-source-img/mirotalk-p2p/logo.svg
 description: ''
 categories:
   - Communication
@@ -19,4 +19,4 @@ relatedProjects:
 tutorials:
   - title: ''
     link: ''
-images: /public/open-source/mirotalk-p2p/
+images: /public/open-source-img/mirotalk-p2p/

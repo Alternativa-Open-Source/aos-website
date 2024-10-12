@@ -3,7 +3,7 @@ createdAt: '2024-10-06T00:53:29.151Z'
 headlight: Aplicativo de câmera moderno focado em privacidade e segurança com leitura de QR e código de barras.
 source: github GrapheneOS/Camera
 url: https://grapheneos.org/
-logo: /open-source/grapheneos/logo.png
+logo: /open-source-img/grapheneos/logo.png
 description: ''
 categories:
   - Cybersecurity
@@ -18,4 +18,4 @@ relatedProjects:
 tutorials:
   - title: ''
     link: ''
-images: /public/open-source/grapheneos/
+images: /public/open-source-img/grapheneos/

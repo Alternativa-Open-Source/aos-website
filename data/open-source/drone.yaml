@@ -3,7 +3,7 @@ createdAt: '2024-10-06T00:49:01.917Z'
 headlight: Gitness é uma plataforma de desenvolvimento de código aberto com gerenciamento de controle de origem, integração contínua e entrega contínua.
 source: github harness/drone
 url: https://www.drone.io/
-logo: /open-source/drone/logo.png
+logo: /open-source-img/drone/logo.png
 description: ''
 categories:
   - Project Management
@@ -18,4 +18,4 @@ relatedProjects:
 tutorials:
   - title: ''
     link: ''
-images: /public/open-source/drone/
+images: /public/open-source-img/drone/

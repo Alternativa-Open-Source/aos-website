@@ -3,7 +3,7 @@ createdAt: '2024-10-06T00:58:15.766Z'
 headlight: Encontre um horário que funcione para todos
 source: github Kukkee/Kukkee
 url: https://www.kukkee.com/
-logo: /open-source/kukkee/logo.png
+logo: /open-source-img/kukkee/logo.png
 description: ''
 categories:
   - Scheduling
@@ -18,4 +18,4 @@ relatedProjects:
 tutorials:
   - title: ''
     link: ''
-images: /public/open-source/kukkee/
+images: /public/open-source-img/kukkee/

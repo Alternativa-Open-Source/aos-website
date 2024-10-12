@@ -3,7 +3,7 @@ createdAt: '2024-10-06T00:29:00.284Z'
 headlight: Ferramenta de análise auto-hospedada baseada em Node.js para aqueles que se preocupam com privacidade.
 source: github electerious/Ackee
 url: https://ackee.electerious.com
-logo: /open-source/ackee/logo.png
+logo: /open-source-img/ackee/logo.png
 description: ''
 categories:
   - Analytics
@@ -17,4 +17,4 @@ relatedProjects:
 tutorials:
   - title: ''
     link: ''
-images: /public/open-source/ackee/
+images: /public/open-source-img/ackee/

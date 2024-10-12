@@ -3,7 +3,7 @@ createdAt: '2024-10-06T01:14:33.637Z'
 headlight: 🦔 O PostHog fornece análises de produtos de código aberto, gravação de sessão, sinalização de recursos e testes A/B que você pode hospedar.
 source: github PostHog/posthog
 url: https://posthog.com/
-logo: /open-source/posthog/logo.jpeg
+logo: /open-source-img/posthog/logo.jpeg
 description: ''
 categories:
   - Product Management
@@ -18,4 +18,4 @@ relatedProjects:
 tutorials:
   - title: ''
     link: ''
-images: /public/open-source/posthog/
+images: /public/open-source-img/posthog/

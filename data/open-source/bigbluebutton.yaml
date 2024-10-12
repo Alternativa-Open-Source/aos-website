@@ -3,7 +3,7 @@ createdAt: '2024-10-06T00:44:34.854Z'
 headlight: Sistema completo de webconferência de código aberto.
 source: github bigbluebutton/bigbluebutton
 url: https://bigbluebutton.org/
-logo: /open-source/bigbluebutton/logo.png
+logo: /open-source-img/bigbluebutton/logo.png
 description: ''
 categories:
   - Communication
@@ -19,4 +19,4 @@ relatedProjects:
 tutorials:
   - title: ''
     link: ''
-images: /public/open-source/bigbluebutton/
+images: /public/open-source-img/bigbluebutton/

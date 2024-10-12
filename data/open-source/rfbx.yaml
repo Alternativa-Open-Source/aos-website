@@ -3,7 +3,7 @@ createdAt: '2024-10-06T01:40:46.494Z'
 headlight: Motor/Framework de jogo leve em C++17 com editor WYSIWYG. Ligações experimentais em C#.
 source: github rbfx/rbfx
 url: '#'
-logo: /open-source/rfbx/logo.
+logo: /open-source-img/rfbx/logo.
 description: ''
 categories:
   - Gaming
@@ -19,4 +19,4 @@ relatedProjects:
 tutorials:
   - title: ''
     link: ''
-images: /public/open-source/rfbx/
+images: /public/open-source-img/rfbx/

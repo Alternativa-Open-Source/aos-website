@@ -3,10 +3,11 @@ createdAt: '2024-10-06T01:25:03.849Z'
 headlight: Apache Superset é uma plataforma de visualização e exploração de dados
 source: github apache/superset
 url: https://superset.apache.org/
-logo: /open-source/superset/logo.png
+logo: /open-source-img/superset/logo.png
 description: ''
 categories:
   - Visual Database
+  - Business intelligence
 alterantiveTo:
   - power-bi
   - tableau
@@ -21,4 +22,4 @@ relatedProjects:
 tutorials:
   - title: ''
     link: ''
-images: /public/open-source/superset/
+images: /public/open-source-img/superset/

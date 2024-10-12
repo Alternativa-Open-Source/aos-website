@@ -3,7 +3,7 @@ createdAt: '2024-10-06T01:23:44.035Z'
 headlight: Um mensageiro privado para Android.
 source: github signalapp/Signal-Android
 url: https://signal.org/
-logo: /open-source/signal-android/logo.png
+logo: /open-source-img/signal-android/logo.png
 description: ''
 categories:
   - Communication
@@ -18,4 +18,4 @@ relatedProjects:
 tutorials:
   - title: ''
     link: ''
-images: /public/open-source/signal-android/
+images: /public/open-source-img/signal-android/

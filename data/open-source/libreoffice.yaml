@@ -3,7 +3,7 @@ createdAt: '2024-10-06T00:59:52.436Z'
 headlight: Repositório principal do LibreOffice somente leitura - sem solicitação de pull (use gerrit em vez disso https://gerrit.libreoffice.org/) - não baixe o zip, use https://dev-www.libreoffice.org/bundles/ em vez disso
 source: github LibreOffice/core
 url: https://www.libreoffice.org/
-logo: /open-source/libreoffice/logo.jpeg
+logo: /open-source-img/libreoffice/logo.jpeg
 description: ''
 categories:
   - Documentation
@@ -17,4 +17,4 @@ relatedProjects:
 tutorials:
   - title: ''
     link: ''
-images: /public/open-source/libreoffice/
+images: /public/open-source-img/libreoffice/

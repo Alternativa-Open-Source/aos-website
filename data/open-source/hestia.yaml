@@ -3,7 +3,7 @@ createdAt: '2024-10-06T00:54:55.012Z'
 headlight: Painel de controle Hestia | Um painel de controle leve e poderoso para a web moderna.
 source: github hestiacp/hestiacp
 url: https://hestiacp.com/
-logo: /open-source/hestia/logo.png
+logo: /open-source-img/hestia/logo.png
 description: ''
 categories:
   - Developer Tools
@@ -18,4 +18,4 @@ relatedProjects:
 tutorials:
   - title: ''
     link: ''
-images: /public/open-source/hestia/
+images: /public/open-source-img/hestia/

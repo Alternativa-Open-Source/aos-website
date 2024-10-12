@@ -3,7 +3,7 @@ createdAt: '2024-10-06T00:53:18.496Z'
 headlight: Análises web fáceis. Sem rastreamento de dados pessoais.
 source: github arp242/goatcounter
 url: https://www.goatcounter.com/
-logo: /open-source/goatcounter/logo.png
+logo: /open-source-img/goatcounter/logo.png
 description: ''
 categories:
   - Analytics
@@ -17,4 +17,4 @@ relatedProjects:
 tutorials:
   - title: ''
     link: ''
-images: /public/open-source/goatcounter/
+images: /public/open-source-img/goatcounter/

@@ -1,4 +1,4 @@
-import { getPaidToolUrlBySlug } from "@/lib/client-urls";
+import { getAlternativeToUrlBySlug } from "@/lib/client-urls";
 import { joining } from "@/utils/arrayUtils";
 import { elegantNameParser } from "@/utils/textUtils";
 import Link from "next/link";
@@ -10,7 +10,7 @@ export function ProjectAlternatives({ project }) {
       que serve como alternativa para as seguintes ferramentas:{" "}
       {project.yaml.alterantiveTo
         .map((alternative) => (
-          <Link key={alternative} href={getPaidToolUrlBySlug(alternative)} className="text-gray-900 hover:underline">
+          <Link key={alternative} href={getAlternativeToUrlBySlug(alternative)} className="text-gray-900 hover:underline">
             <span>{elegantNameParser(alternative)}</span>
           </Link>
         )) //

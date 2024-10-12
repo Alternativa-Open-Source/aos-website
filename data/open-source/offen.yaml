@@ -3,7 +3,7 @@ createdAt: '2024-10-06T01:05:37.955Z'
 headlight: Análise da Web Offen Fair
 source: github offen/offen
 url: https://www.offen.dev/
-logo: /open-source/offen/logo.png
+logo: /open-source-img/offen/logo.png
 description: ''
 categories:
   - Analytics
@@ -18,4 +18,4 @@ relatedProjects:
 tutorials:
   - title: ''
     link: ''
-images: /public/open-source/offen/
+images: /public/open-source-img/offen/

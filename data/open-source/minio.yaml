@@ -3,10 +3,11 @@ createdAt: '2024-10-06T01:39:26.708Z'
 headlight: O Object Store para infraestrutura de dados de IA
 source: github minio/minio
 url: https://min.io
-logo: /open-source/minio/logo.svg
+logo: /open-source-img/minio/logo.svg
 description: ''
 categories:
   - Deployment
+  - Cloud Storage
 alterantiveTo:
   - amazon-s3
 relatedProjects:
@@ -18,4 +19,4 @@ relatedProjects:
 tutorials:
   - title: ''
     link: ''
-images: /public/open-source/minio/
+images: /public/open-source-img/minio/

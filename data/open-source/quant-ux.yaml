@@ -3,7 +3,7 @@ createdAt: '2024-10-06T01:15:51.721Z'
 headlight: Quant-UX - Prototipar, testar e aprender
 source: github KlausSchaefers/quant-ux
 url: https://quant-ux.com/#/
-logo: /open-source/quant-ux/logo.svg
+logo: /open-source-img/quant-ux/logo.svg
 description: ''
 categories:
   - Design
@@ -16,4 +16,4 @@ relatedProjects:
 tutorials:
   - title: ''
     link: ''
-images: /public/open-source/quant-ux/
+images: /public/open-source-img/quant-ux/

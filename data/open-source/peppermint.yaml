@@ -3,7 +3,7 @@ createdAt: '2024-10-06T01:12:03.804Z'
 headlight: Uma solução de gerenciamento de tickets e help desk de código aberto. Uma alternativa ao freshdesk
 source: github Peppermint-Lab/peppermint
 url: https://peppermint.sh/
-logo: /open-source/peppermint/logo.png
+logo: /open-source-img/peppermint/logo.png
 description: ''
 categories:
   - Customer Engagement
@@ -18,4 +18,4 @@ relatedProjects:
 tutorials:
   - title: ''
     link: ''
-images: /public/open-source/peppermint/
+images: /public/open-source-img/peppermint/

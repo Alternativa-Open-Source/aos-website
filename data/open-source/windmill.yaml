@@ -3,7 +3,7 @@ createdAt: '2024-10-06T01:34:10.718Z'
 headlight: Plataforma de desenvolvedor de código aberto para transformar scripts em fluxos de trabalho e UIs. Mecanismo de fluxo de trabalho mais rápido (5x vs Airflow). Alternativa de código aberto para Airplane e Retool.
 source: github windmill-labs/windmill
 url: https://docs.windmill.dev/
-logo: /open-source/windmill/logo.png
+logo: /open-source-img/windmill/logo.png
 description: ''
 categories:
   - Developer Tools
@@ -19,4 +19,4 @@ relatedProjects:
 tutorials:
   - title: ''
     link: ''
-images: /public/open-source/windmill/
+images: /public/open-source-img/windmill/

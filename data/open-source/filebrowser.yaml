@@ -3,7 +3,7 @@ createdAt: '2024-10-06T00:50:27.761Z'
 headlight: 📂 Navegador de arquivos da Web
 source: github filebrowser/filebrowser
 url: https://filebrowser.org/
-logo: /open-source/filebrowser/logo.png
+logo: /open-source-img/filebrowser/logo.png
 description: ''
 categories:
   - Cloud Storage
@@ -17,4 +17,4 @@ relatedProjects:
 tutorials:
   - title: ''
     link: ''
-images: /public/open-source/filebrowser/
+images: /public/open-source-img/filebrowser/

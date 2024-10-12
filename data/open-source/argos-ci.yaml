@@ -3,7 +3,7 @@ createdAt: '2024-10-06T00:39:42.629Z'
 headlight: Testes visuais para aplicativos web modernos. Revise as mudanças visuais no seu fluxo de trabalho de desenvolvimento.
 source: github argos-ci/argos
 url: https://argos-ci.com/
-logo: /open-source/argos-ci/logo.png
+logo: /open-source-img/argos-ci/logo.png
 description: ''
 categories:
   - Developer Tools
@@ -17,4 +17,4 @@ relatedProjects:
 tutorials:
   - title: ''
     link: ''
-images: /public/open-source/argos-ci/
+images: /public/open-source-img/argos-ci/

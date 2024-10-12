@@ -3,7 +3,7 @@ createdAt: '2024-10-06T00:48:35.786Z'
 headlight: The Modern Data Stack 🐰 — Directus é uma API REST+GraphQL instantânea e um aplicativo intuitivo de colaboração de dados sem código para qualquer banco de dados SQL.
 source: github directus/directus
 url: https://directus.io/
-logo: /open-source/directus/logo.jpeg
+logo: /open-source-img/directus/logo.jpeg
 description: ''
 categories:
   - CMS
@@ -17,4 +17,4 @@ relatedProjects:
 tutorials:
   - title: ''
     link: ''
-images: /public/open-source/directus/
+images: /public/open-source-img/directus/

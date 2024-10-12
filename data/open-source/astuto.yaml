@@ -3,7 +3,7 @@ createdAt: '2024-10-06T00:39:50.456Z'
 headlight: Uma ferramenta de feedback do cliente gratuita, de código aberto e auto-hospedada 🦊
 source: github riggraz/astuto
 url: https://github.com/riggraz/astuto
-logo: /open-source/astuto/logo.png
+logo: /open-source-img/astuto/logo.png
 description: ''
 categories:
   - Product Management
@@ -18,4 +18,4 @@ relatedProjects:
 tutorials:
   - title: ''
     link: ''
-images: /public/open-source/astuto/
+images: /public/open-source-img/astuto/

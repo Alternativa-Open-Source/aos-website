@@ -59,6 +59,7 @@ const getGitHubRepoData = async (projectId) => {
     size: data?.size,
     forks: data?.forks_count,
     issues: data?.open_issues_count,
+    createdAt: data?.created_at,
     generatedAt: new Date().toISOString(),
   };
 };

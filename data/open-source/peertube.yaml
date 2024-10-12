@@ -3,7 +3,7 @@ createdAt: '2024-10-06T01:11:57.599Z'
 headlight: Plataforma de streaming de vídeo federada ActivityPub usando P2P diretamente no seu navegador da web
 source: github Chocobozzz/PeerTube
 url: https://joinpeertube.org/
-logo: /open-source/peertube/logo.svg
+logo: /open-source-img/peertube/logo.svg
 description: ''
 categories:
   - Social Media
@@ -18,4 +18,4 @@ relatedProjects:
 tutorials:
   - title: ''
     link: ''
-images: /public/open-source/peertube/
+images: /public/open-source-img/peertube/

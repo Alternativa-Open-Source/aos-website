@@ -3,7 +3,7 @@ createdAt: '2024-10-06T01:06:46.519Z'
 headlight: OpenSCAD - O modelador CAD 3D sólido para programadores
 source: github openscad/openscad
 url: https://openscad.org/
-logo: /open-source/openscad/logo.jpeg
+logo: /open-source-img/openscad/logo.jpeg
 description: ''
 categories:
   - 3D Modelling
@@ -19,4 +19,4 @@ relatedProjects:
 tutorials:
   - title: ''
     link: ''
-images: /public/open-source/openscad/
+images: /public/open-source-img/openscad/

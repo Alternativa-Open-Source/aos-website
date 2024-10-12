@@ -3,7 +3,7 @@ createdAt: '2024-10-06T00:52:16.345Z'
 headlight: ':video_game: Mecanismo de jogo de código aberto e multiplataforma projetado para ser usado por todos.'
 source: github 4ian/GDevelop
 url: https://gdevelop.io/
-logo: /open-source/gdevelop/logo.jpeg
+logo: /open-source-img/gdevelop/logo.jpeg
 description: ''
 categories:
   - Gaming
@@ -19,4 +19,4 @@ relatedProjects:
 tutorials:
   - title: ''
     link: ''
-images: /public/open-source/gdevelop/
+images: /public/open-source-img/gdevelop/

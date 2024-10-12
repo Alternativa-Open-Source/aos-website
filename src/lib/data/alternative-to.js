@@ -3,7 +3,7 @@ import { listFiles, readYamlFile } from "../file-functions";
 
 const FOLDER = "data/alternative-to/";
 
-export const getPaidToolUrlBySlug = (slug) => `/alternativa-para/${slug}`
+export const getAlternativeToUrlBySlug = (slug) => `/alternativa-para/${slug}`
 
 export const listAlternativeToFiles = async () => {
   const files = await listFiles(FOLDER);
@@ -31,10 +31,10 @@ export const readAlternativeToFilesAndRepoData = async () => {
   const files = await listAlternativeToFiles();
 
   // this loads all yamls + repodata in memory - shouldn't be a problem for a while, but may require refactor late
-  const yamlAndRepos = await Promise.all(files.map(async (file) => getAlternativeToBySlug(file)));
+  const yamlAndRepos = await Promise.all(files.map(async (file) => getAlternativeToBySlug(file.replace('.yaml', ''))));
 
   // todo when upgrade node version, replace to `.toSorted((el) => el.repoData.forks)`
-  yamlAndRepos.sort((x, y) => x.repoData.forks - y.repoData.forks);
+  yamlAndRepos.sort((x, y) => x.name.localeCompare(y.name));
 
   return yamlAndRepos;
 };

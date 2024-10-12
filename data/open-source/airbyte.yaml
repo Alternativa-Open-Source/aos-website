@@ -3,7 +3,7 @@ createdAt: '2024-10-06T00:26:10.096Z'
 headlight: A plataforma líder de integração de dados para pipelines de dados ETL/ELT de APIs, bancos de dados e arquivos para data warehouses, data lakes e data lakehouses. Tanto auto-hospedados quanto hospedados na nuvem.
 source: github airbytehq/airbyte
 url: https://airbyte.com/
-logo: /open-source/airbyte/logo.jpeg
+logo: /open-source-img/airbyte/logo.jpeg
 description: ''
 categories:
   - ELT/ETL
@@ -18,4 +18,4 @@ relatedProjects:
 tutorials:
   - title: ''
     link: ''
-images: /public/open-source/airbyte/
+images: /public/open-source-img/airbyte/

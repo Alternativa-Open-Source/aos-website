@@ -1,0 +1,21 @@
+name: Plane
+createdAt: '2024-10-06T00:29:00.284Z'
+headlight: Alternativa Open Source para JIRA, Linear, Monday e Asana. O Plane ajuda você a rastrear seus problemas, épicos e roteiros de produtos da forma mais simples possível.
+source: github makeplane/plane
+url: https://plane.so
+logo: /open-source-img/plane/logo.png
+description: ''
+categories:
+  - Project Management
+alterantiveTo:
+  - jira
+  - asana
+relatedProjects:
+  - leantime
+  - affine-pro
+  - redmine
+  - chatwoot
+tutorials:
+  - title: ''
+    link: ''
+images: /public/open-source-img/plane/

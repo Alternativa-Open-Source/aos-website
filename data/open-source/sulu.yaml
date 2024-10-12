@@ -3,7 +3,7 @@ createdAt: '2024-10-06T01:24:50.663Z'
 headlight: Estrutura central que implementa a funcionalidade do sistema de gerenciamento de conteúdo Sulu
 source: github sulu/sulu
 url: https://sulu.io/
-logo: /open-source/sulu/logo.png
+logo: /open-source-img/sulu/logo.png
 description: ''
 categories:
   - CMS
@@ -18,4 +18,4 @@ relatedProjects:
 tutorials:
   - title: ''
     link: ''
-images: /public/open-source/sulu/
+images: /public/open-source-img/sulu/

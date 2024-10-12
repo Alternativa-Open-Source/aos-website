@@ -3,7 +3,7 @@ createdAt: '2024-10-06T01:38:42.821Z'
 headlight: Sua bancada de publicação completa
 source: github Zettlr/Zettlr
 url: https://www.zettlr.com/
-logo: /open-source/zettlr/logo.png
+logo: /open-source-img/zettlr/logo.png
 description: ''
 categories:
   - CMS
@@ -21,4 +21,4 @@ relatedProjects:
 tutorials:
   - title: ''
     link: ''
-images: /public/open-source/zettlr/
+images: /public/open-source-img/zettlr/

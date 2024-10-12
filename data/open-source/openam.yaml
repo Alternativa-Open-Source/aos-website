@@ -3,7 +3,7 @@ createdAt: '2024-10-06T01:06:21.657Z'
 headlight: OpenAM é uma solução de gerenciamento de acesso aberto que inclui autenticação, SSO, autorização, federação, direitos e segurança de serviços web.
 source: github OpenIdentityPlatform/OpenAM
 url: https://www.openidentityplatform.org/openam
-logo: /open-source/openam/logo.png
+logo: /open-source-img/openam/logo.png
 description: ''
 categories:
   - Auth & SSO
@@ -18,4 +18,4 @@ relatedProjects:
 tutorials:
   - title: ''
     link: ''
-images: /public/open-source/openam/
+images: /public/open-source-img/openam/

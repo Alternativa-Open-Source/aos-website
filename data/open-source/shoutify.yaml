@@ -3,7 +3,7 @@ createdAt: '2024-10-06T01:23:21.146Z'
 headlight: Uma solução de código aberto, auto-hospedada e totalmente gratuita para gerenciamento de mídias sociais.
 source: github TechSquidTV/Shoutify
 url: https://github.com/TechSquidTV/Shoutify
-logo: /open-source/shoutify/logo.svg
+logo: /open-source-img/shoutify/logo.svg
 description: ''
 categories:
   - Social Media
@@ -19,4 +19,4 @@ relatedProjects:
 tutorials:
   - title: ''
     link: ''
-images: /public/open-source/shoutify/
+images: /public/open-source-img/shoutify/

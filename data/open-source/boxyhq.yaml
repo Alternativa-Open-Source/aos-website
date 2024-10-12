@@ -3,7 +3,7 @@ createdAt: '2024-10-06T00:44:58.699Z'
 headlight: 🔥 Simplifique a autenticação do seu aplicativo da web com o Jackson, um serviço SSO que oferece suporte aos protocolos SAML e OpenID Connect. Além do Single Sign-On de nível empresarial, ele também oferece suporte ao Directory Sync por meio do protocolo SCIM 2.0 para provisionamento/desprovisionamento automático de usuários e grupos. 🤩
 source: github boxyhq/jackson
 url: https://boxyhq.com/
-logo: /open-source/boxyhq/logo.png
+logo: /open-source-img/boxyhq/logo.png
 description: ''
 categories:
   - Developer Tools
@@ -18,4 +18,4 @@ relatedProjects:
 tutorials:
   - title: ''
     link: ''
-images: /public/open-source/boxyhq/
+images: /public/open-source-img/boxyhq/

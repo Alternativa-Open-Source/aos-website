@@ -3,7 +3,7 @@ createdAt: '2024-10-06T00:58:08.867Z'
 headlight: Solução Laravel CRM gratuita e de código aberto para PMEs e empresas para gerenciamento completo do ciclo de vida do cliente.
 source: github krayin/laravel-crm
 url: https://krayincrm.com/
-logo: /open-source/krayin/logo.png
+logo: /open-source-img/krayin/logo.png
 description: ''
 categories:
   - CRM
@@ -18,4 +18,4 @@ relatedProjects:
 tutorials:
   - title: ''
     link: ''
-images: /public/open-source/krayin/
+images: /public/open-source-img/krayin/

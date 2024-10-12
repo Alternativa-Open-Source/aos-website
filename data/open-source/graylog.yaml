@@ -3,7 +3,7 @@ createdAt: '2024-10-06T00:53:39.727Z'
 headlight: Gerenciamento de logs livre e aberto
 source: github Graylog2/graylog2-server
 url: https://www.graylog.org/
-logo: /open-source/graylog/logo.png
+logo: /open-source-img/graylog/logo.png
 description: ''
 categories:
   - Log Management
@@ -17,4 +17,4 @@ relatedProjects:
 tutorials:
   - title: ''
     link: ''
-images: /public/open-source/graylog/
+images: /public/open-source-img/graylog/

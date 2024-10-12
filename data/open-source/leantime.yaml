@@ -3,7 +3,7 @@ createdAt: '2024-10-06T00:59:14.425Z'
 headlight: Leantime é um sistema de gerenciamento de projetos focado em metas para não gerentes de projetos. Construído com TDAH, Autismo e dislexia em mente.
 source: github leantime/leantime
 url: https://leantime.io/
-logo: /open-source/leantime/logo.png
+logo: /open-source-img/leantime/logo.png
 description: ''
 categories:
   - Product Management
@@ -18,4 +18,4 @@ relatedProjects:
 tutorials:
   - title: ''
     link: ''
-images: /public/open-source/leantime/
+images: /public/open-source-img/leantime/

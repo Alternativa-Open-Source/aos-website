@@ -3,7 +3,7 @@ createdAt: '2024-10-06T00:52:41.527Z'
 headlight: Glimesh é uma plataforma de transmissão ao vivo de última geração criada pela comunidade, para a comunidade.
 source: github glimesh/glimesh.tv
 url: https://glimesh.tv/
-logo: /open-source/glimesh/logo.png
+logo: /open-source-img/glimesh/logo.png
 description: ''
 categories:
   - Streaming
@@ -18,4 +18,4 @@ relatedProjects:
 tutorials:
   - title: ''
     link: ''
-images: /public/open-source/glimesh/
+images: /public/open-source-img/glimesh/

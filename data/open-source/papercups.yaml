@@ -3,7 +3,7 @@ createdAt: '2024-10-06T01:11:38.547Z'
 headlight: Chat ao vivo com o cliente de código aberto
 source: github papercups-io/papercups
 url: https://papercups.io/
-logo: /open-source/papercups/logo.png
+logo: /open-source-img/papercups/logo.png
 description: ''
 categories:
   - Customer Engagement
@@ -19,4 +19,4 @@ relatedProjects:
 tutorials:
   - title: ''
     link: ''
-images: /public/open-source/papercups/
+images: /public/open-source-img/papercups/

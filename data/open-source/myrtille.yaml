@@ -3,7 +3,7 @@ createdAt: '2024-10-06T01:04:11.953Z'
 headlight: Um cliente nativo HTML4 / HTML5 Remote Desktop Protocol e SSH
 source: github cedrozor/myrtille
 url: https://cedrozor.github.io/myrtille/
-logo: /open-source/myrtille/logo.png
+logo: /open-source-img/myrtille/logo.png
 description: ''
 categories:
   - Remote Desktop
@@ -18,4 +18,4 @@ relatedProjects:
 tutorials:
   - title: ''
     link: ''
-images: /public/open-source/myrtille/
+images: /public/open-source-img/myrtille/

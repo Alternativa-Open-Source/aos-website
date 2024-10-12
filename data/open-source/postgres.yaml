@@ -3,7 +3,7 @@ createdAt: '2024-10-06T01:14:46.534Z'
 headlight: Espelho do repositório oficial do PostgreSQL GIT. Note que este é apenas um *espelho* - não trabalhamos com solicitações de pull no github. Para contribuir, consulte https://wiki.postgresql.org/wiki/Submitting_a_Patch
 source: github postgres/postgres
 url: https://www.postgresql.org/
-logo: /open-source/postgres/logo.png
+logo: /open-source-img/postgres/logo.png
 description: ''
 categories:
   - Database
@@ -19,4 +19,4 @@ relatedProjects:
 tutorials:
   - title: ''
     link: ''
-images: /public/open-source/postgres/
+images: /public/open-source-img/postgres/

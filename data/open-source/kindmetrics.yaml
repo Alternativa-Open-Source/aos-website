@@ -3,7 +3,7 @@ createdAt: '2024-10-06T00:57:34.158Z'
 headlight: Métricas analíticas gentis para seu site
 source: github kindmetrics/kindmetrics
 url: https://kindmetrics.io
-logo: /open-source/kindmetrics/logo.png
+logo: /open-source-img/kindmetrics/logo.png
 description: ''
 categories:
   - Analytics
@@ -18,4 +18,4 @@ relatedProjects:
 tutorials:
   - title: ''
     link: ''
-images: /public/open-source/kindmetrics/
+images: /public/open-source-img/kindmetrics/

@@ -3,7 +3,7 @@ createdAt: '2024-10-06T00:56:57.772Z'
 headlight: ☁️ Crie aplicativos de IA multimodais com pilha nativa da nuvem
 source: github jina-ai/jina
 url: https://jina.ai/
-logo: /open-source/jina-ai/logo.jpeg
+logo: /open-source-img/jina-ai/logo.jpeg
 description: ''
 categories:
   - Enterprise Search
@@ -18,4 +18,4 @@ relatedProjects:
 tutorials:
   - title: ''
     link: ''
-images: /public/open-source/jina-ai/
+images: /public/open-source-img/jina-ai/

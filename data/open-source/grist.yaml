@@ -3,7 +3,7 @@ createdAt: '2024-10-06T00:53:48.665Z'
 headlight: Grist é a evolução das planilhas.
 source: github gristlabs/grist-core
 url: https://www.getgrist.com/
-logo: /open-source/grist/logo.png
+logo: /open-source-img/grist/logo.png
 description: ''
 categories:
   - Database
@@ -20,4 +20,4 @@ relatedProjects:
 tutorials:
   - title: ''
     link: ''
-images: /public/open-source/grist/
+images: /public/open-source-img/grist/

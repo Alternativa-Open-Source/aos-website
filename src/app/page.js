@@ -1,101 +1,80 @@
-import Image from "next/image";
+import { Suspense } from "react";
 
-export default function Home() {
+import { AlternativeToCard } from "@/components/AlternativeToCard";
+import { Container } from "@/components/Container";
+import { ProjectCard } from "@/components/ProjectCard";
+import { SearchForm } from "@/components/search/SearchForm";
+import { getAlternativeToBySlug } from "@/lib/data/alternative-to";
+import { getOpenSourceBySlug } from "@/lib/data/open-source";
+import { ArrowRight } from "lucide-react";
+
+export default async function Home() {
+  const homeItems = [
+    { saas: "rdstation", openSource: "mautic" },
+    { saas: "conta-azul", openSource: "akaunting" },
+    { saas: "calendly", openSource: "cal-com" },
+    { saas: "shopify", openSource: "woocommerce" },
+    { saas: "hootsuite", openSource: "mastodon" },
+    { saas: "notion", openSource: "appflowy" },
+    { saas: "slack", openSource: "rocket-chat" },
+    { saas: "salesforce", openSource: "odoo" },
+    { saas: "mailchimp", openSource: "listmonk" },
+    { saas: "trello", openSource: "wekan" },
+    { saas: "intercom", openSource: "chatwoot" },
+    { saas: "docusign", openSource: "docuseal" },
+    { saas: "zendesk", openSource: "uvdesk" },
+    { saas: "zapier", openSource: "n8n" },
+    { saas: "dropbox", openSource: "nextcloud" },
+    { saas: "firebase", openSource: "supabase" },
+    { saas: "jira", openSource: "plane" },
+    { saas: "google-analytics", openSource: "matomo" },
+    { saas: "microsoft-office", openSource: "libreoffice" },
+    { saas: "airtable", openSource: "nocodb" },
+    { saas: "figma", openSource: "penpot" },
+    { saas: "vercel", openSource: "coolify" },
+    { saas: "heroku", openSource: "dokku" },
+    { saas: "datadog", openSource: "signoz" },
+    { saas: "zoom", openSource: "jitsi" },
+    { saas: "asana", openSource: "openproject" },
+    { saas: "confluence", openSource: "docusaurus" },
+  ];
+
+  const comparisons = await Promise.all(
+    homeItems.map(async (comparison) => {
+      return {
+        saas: await getAlternativeToBySlug(comparison.saas),
+        openSource: await getOpenSourceBySlug(comparison.openSource),
+      };
+    })
+  );
+
   return (
-    <div className="grid grid-rows-[20px_1fr_20px] items-center justify-items-center min-h-screen p-8 pb-20 gap-16 sm:p-20 font-[family-name:var(--font-geist-sans)]">
-      <main className="flex flex-col gap-8 row-start-2 items-center sm:items-start">
-        <Image
-          className="dark:invert"
-          src="https://nextjs.org/icons/next.svg"
-          alt="Next.js logo"
-          width={180}
-          height={38}
-          priority
-        />
-        <ol className="list-inside list-decimal text-sm text-center sm:text-left font-[family-name:var(--font-geist-mono)]">
-          <li className="mb-2">
-            Get started by editing{" "}
-            <code className="bg-black/[.05] dark:bg-white/[.06] px-1 py-0.5 rounded font-semibold">
-              src/app/page.js
-            </code>
-            .
-          </li>
-          <li>Save and see your changes instantly.</li>
-        </ol>
+    <section className="border-t border-gray-200 py-10 sm:py-14">
+      <Container>
+        <Suspense fallback={<div>loading...</div>}>
+          <SearchForm />
+        </Suspense>
 
-        <div className="flex gap-4 items-center flex-col sm:flex-row">
-          <a
-            className="rounded-full border border-solid border-transparent transition-colors flex items-center justify-center bg-foreground text-background gap-2 hover:bg-[#383838] dark:hover:bg-[#ccc] text-sm sm:text-base h-10 sm:h-12 px-4 sm:px-5"
-            href="https://vercel.com/new?utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            <Image
-              className="dark:invert"
-              src="https://nextjs.org/icons/vercel.svg"
-              alt="Vercel logomark"
-              width={20}
-              height={20}
-            />
-            Deploy now
-          </a>
-          <a
-            className="rounded-full border border-solid border-black/[.08] dark:border-white/[.145] transition-colors flex items-center justify-center hover:bg-[#f2f2f2] dark:hover:bg-[#1a1a1a] hover:border-transparent text-sm sm:text-base h-10 sm:h-12 px-4 sm:px-5 sm:min-w-44"
-            href="https://nextjs.org/docs?utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            Read our docs
-          </a>
+        <div className="container mx-auto py-12 px-4">
+          <h2 className="text-3xl font-bold text-center">SaaS vs Open Source Alternatives</h2>
+          <p className="my-10 text-lg text-center text-gray-600">Lembre-se, para cada SaaS pago, há uma alternativa gratuita, de código aberto e self-hosted:</p>
+          <div className="space-y-6">
+            {comparisons.map((comparison, index) => (
+              <div key={index} className="flex items-stretch">
+                <div className="w-1/2 pr-4">
+                  <AlternativeToCard alternativeTo={comparison.saas} />
+                </div>
+                <div className="flex-shrink-0 mt-4 mx-4">
+                  <ArrowRight className="text-gray-400 mt-14 w-10 h-10" />
+                </div>
+                <div className="w-1/2">
+                  <ProjectCard key={index} project={comparison.openSource} showDetails={false} />
+                </div>
+              </div>
+            ))}
+          </div>
         </div>
-      </main>
-      <footer className="row-start-3 flex gap-6 flex-wrap items-center justify-center">
-        <a
-          className="flex items-center gap-2 hover:underline hover:underline-offset-4"
-          href="https://nextjs.org/learn?utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          <Image
-            aria-hidden
-            src="https://nextjs.org/icons/file.svg"
-            alt="File icon"
-            width={16}
-            height={16}
-          />
-          Learn
-        </a>
-        <a
-          className="flex items-center gap-2 hover:underline hover:underline-offset-4"
-          href="https://vercel.com/templates?framework=next.js&utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          <Image
-            aria-hidden
-            src="https://nextjs.org/icons/window.svg"
-            alt="Window icon"
-            width={16}
-            height={16}
-          />
-          Examples
-        </a>
-        <a
-          className="flex items-center gap-2 hover:underline hover:underline-offset-4"
-          href="https://nextjs.org?utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          <Image
-            aria-hidden
-            src="https://nextjs.org/icons/globe.svg"
-            alt="Globe icon"
-            width={16}
-            height={16}
-          />
-          Go to nextjs.org →
-        </a>
-      </footer>
-    </div>
+      </Container>
+    </section>
   );
 }

@@ -3,7 +3,7 @@ createdAt: '2024-10-06T00:55:53.507Z'
 headlight: Armazenamento de dados escalável para métricas, eventos e análises em tempo real
 source: github influxdata/influxdb
 url: https://www.influxdata.com/
-logo: /open-source/influxdb/logo.jpeg
+logo: /open-source-img/influxdb/logo.jpeg
 description: ''
 categories:
   - Database
@@ -18,4 +18,4 @@ relatedProjects:
 tutorials:
   - title: ''
     link: ''
-images: /public/open-source/influxdb/
+images: /public/open-source-img/influxdb/

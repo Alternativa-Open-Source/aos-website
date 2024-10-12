@@ -3,7 +3,7 @@ createdAt: '2024-10-06T01:34:18.632Z'
 headlight: Uma plataforma de e-commerce personalizável e de código aberto construída no WordPress. Construa qualquer solução de comércio que você possa imaginar.
 source: github woocommerce/woocommerce
 url: http://www.woocommerce.com/
-logo: /open-source/woocommerce/logo.jpeg
+logo: /open-source-img/woocommerce/logo.jpeg
 description: ''
 categories:
   - E-commerce
@@ -19,4 +19,4 @@ relatedProjects:
 tutorials:
   - title: ''
     link: ''
-images: /public/open-source/woocommerce/
+images: /public/open-source-img/woocommerce/

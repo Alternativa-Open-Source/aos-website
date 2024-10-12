@@ -1,11 +1,15 @@
 import { Container } from "@/components/Container";
-import { ProjectCardByProject } from "@/components/ProjectCardByProject";
+import { ProjectCard } from "@/components/ProjectCard";
 import { listCategories, readCategory } from "@/lib/data/categories";
 import { getOpenSourceBySlug } from "@/lib/data/open-source";
 
 export async function generateStaticParams() {
   const categories = await listCategories();
-  return categories.filter(el => el);
+  const slugs = categories
+    .filter((el) => el.name && el.slug) // remove empty values
+    .map((categ) => ({ slug: categ.slug })) // map to slug only
+    .filter((item, index, self) => index === self.findIndex((t) => t.slug === item.slug)); // remove duplicates
+  return slugs;
 }
 
 export default async function CategoryPage({ params }) {
@@ -27,7 +31,7 @@ export default async function CategoryPage({ params }) {
           {projectsOfCategory &&
             projectsOfCategory.length > 0 &&
             projectsOfCategory.map((project, index) => {
-              return <ProjectCardByProject key={index} project={project} />;
+              return <ProjectCard key={index} project={project} />;
             })}
         </div>
       </Container>

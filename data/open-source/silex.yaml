@@ -3,7 +3,7 @@ createdAt: '2024-10-06T01:23:49.301Z'
 headlight: Criação de web ao vivo Silex, construtor de sites sem código gratuito/livre, Webflow de última geração para a web estática
 source: github silexlabs/Silex
 url: https://silex.me
-logo: /open-source/silex/logo.png
+logo: /open-source-img/silex/logo.png
 description: ''
 categories:
   - CMS
@@ -18,4 +18,4 @@ relatedProjects:
 tutorials:
   - title: ''
     link: ''
-images: /public/open-source/silex/
+images: /public/open-source-img/silex/

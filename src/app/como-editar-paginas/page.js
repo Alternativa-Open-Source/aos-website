@@ -6,7 +6,14 @@ export default function HowUpdatePages() {
     <section className="border-t border-gray-200 py-10 sm:py-14">
       <Container>
         <div className="mx-auto max-w-2xl lg:mx-0">
-          <h1 className="text-3xl font-medium tracking-tight text-gray-900">Como editar páginas</h1>
+          <h1 className="text-3xl font-medium tracking-tight text-gray-900">Como contribuir</h1>
+          <p className="mt-2 text-lg text-gray-600">
+            Todo o site é editável, basta acessar o github do projeto:{" "}
+            <a href={process.env.NEXT_PUBLIC_GITHUB_REPO} target="_blank" className="text-gray-900 underline">
+              link
+            </a>
+          </p>
+          <h1 className="text-3xl font-medium tracking-tight text-gray-900 mt-10">Como editar páginas</h1>
           <p className="mt-2 text-lg text-gray-600">
             Todos os projetos <b>open-sorce</b> deste website são editáveis. Siga as etapas a seguir para contribuir com o projeto e editar paginas no GitHub.
           </p>
@@ -128,11 +135,10 @@ export default function HowUpdatePages() {
                 <p>Por fim, envie suas alterações para revisão:</p>
                 <ol className="list-decimal list-inside space-y-2">
                   <li>
-                    Vá para o repositório original (
+                    Vá para o repositório original
                     <a href={process.env.NEXT_PUBLIC_GITHUB_REPO} target="_blank" className="text-gray-900 underline">
                       link
                     </a>
-                    )
                   </li>
                   <li>Clique em "Pull requests" e depois em "Create pull request". </li>
                   <li>Selecione o seu fork e a branch. </li>

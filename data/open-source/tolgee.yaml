@@ -3,7 +3,7 @@ createdAt: '2024-10-06T01:31:01.354Z'
 headlight: Plataforma de localização baseada na web, amigável para desenvolvedores e tradutores
 source: github tolgee/server
 url: https://tolgee.io/
-logo: /open-source/tolgee/logo.jpeg
+logo: /open-source-img/tolgee/logo.jpeg
 description: ''
 categories:
   - Developer Tools
@@ -20,4 +20,4 @@ relatedProjects:
 tutorials:
   - title: ''
     link: ''
-images: /public/open-source/tolgee/
+images: /public/open-source-img/tolgee/

@@ -3,7 +3,7 @@ createdAt: '2024-10-06T00:52:43.882Z'
 headlight: Servidor ActivityPub rápido, divertido e pequeno.
 source: github superseriousbusiness/gotosocial
 url: https://docs.gotosocial.org/en/latest/
-logo: /open-source/gotosocial/logo.png
+logo: /open-source-img/gotosocial/logo.png
 description: ''
 categories:
   - Social Media
@@ -17,4 +17,4 @@ relatedProjects:
 tutorials:
   - title: ''
     link: ''
-images: /public/open-source/gotosocial/
+images: /public/open-source-img/gotosocial/

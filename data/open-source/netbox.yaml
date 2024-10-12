@@ -3,7 +3,7 @@ createdAt: '2024-10-06T01:04:34.296Z'
 headlight: 'A principal fonte de verdade que alimenta a automação de rede. Código aberto sob Apache 2. Demonstração pública: https://demo.netbox.dev'
 source: github netbox-community/netbox
 url: https://demo.netbox.dev/
-logo: /open-source/netbox/logo.png
+logo: /open-source-img/netbox/logo.png
 description: ''
 categories:
   - Automation
@@ -21,4 +21,4 @@ relatedProjects:
 tutorials:
   - title: ''
     link: ''
-images: /public/open-source/netbox/
+images: /public/open-source-img/netbox/

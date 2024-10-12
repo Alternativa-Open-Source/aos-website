@@ -3,7 +3,7 @@ createdAt: '2024-10-06T01:18:15.948Z'
 headlight: Uma área de trabalho remota de código aberto e alternativa ao TeamViewer.
 source: github rustdesk/rustdesk
 url: https://rustdesk.com/
-logo: /open-source/rustdesk/logo.png
+logo: /open-source-img/rustdesk/logo.png
 description: ''
 categories:
   - Remote Desktop
@@ -18,4 +18,4 @@ relatedProjects:
 tutorials:
   - title: ''
     link: ''
-images: /public/open-source/rustdesk/
+images: /public/open-source-img/rustdesk/

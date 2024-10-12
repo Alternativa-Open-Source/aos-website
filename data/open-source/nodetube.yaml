@@ -3,7 +3,7 @@ createdAt: '2024-10-06T01:05:00.335Z'
 headlight: Alternativa de código aberto ao YouTube que oferece uploads de vídeo, áudio e imagem, transmissão ao vivo e monetização integrada
 source: github mayeaux/nodetube
 url: https://github.com/mayeaux/nodetube
-logo: /open-source/nodetube/logo.png
+logo: /open-source-img/nodetube/logo.png
 description: ''
 categories:
   - Video
@@ -18,4 +18,4 @@ relatedProjects:
 tutorials:
   - title: ''
     link: ''
-images: /public/open-source/nodetube/
+images: /public/open-source-img/nodetube/

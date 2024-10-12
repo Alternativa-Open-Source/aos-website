@@ -3,7 +3,7 @@ createdAt: '2024-10-06T01:24:35.538Z'
 headlight: SuiteCRM - CRM de código aberto para o mundo
 source: github salesagility/SuiteCRM
 url: https://www.suitecrm.com/
-logo: /open-source/suitecrm/logo.png
+logo: /open-source-img/suitecrm/logo.png
 description: ''
 categories:
   - CRM
@@ -19,4 +19,4 @@ relatedProjects:
 tutorials:
   - title: ''
     link: ''
-images: /public/open-source/suitecrm/
+images: /public/open-source-img/suitecrm/

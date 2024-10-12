@@ -3,7 +3,7 @@ createdAt: '2024-10-06T00:55:01.199Z'
 headlight: Suporte HomeKit para os impacientes.
 source: github homebridge/homebridge
 url: https://homebridge.io/
-logo: /open-source/homebridge/logo.png
+logo: /open-source-img/homebridge/logo.png
 description: ''
 categories:
   - Smart Home
@@ -18,4 +18,4 @@ relatedProjects:
 tutorials:
   - title: ''
     link: ''
-images: /public/open-source/homebridge/
+images: /public/open-source-img/homebridge/

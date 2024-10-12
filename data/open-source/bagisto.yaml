@@ -3,7 +3,7 @@ createdAt: '2024-10-06T00:44:14.875Z'
 headlight: Plataforma de comércio eletrônico Laravel gratuita e de código aberto
 source: github bagisto/bagisto
 url: https://bagisto.com
-logo: /open-source/bagisto/logo.png
+logo: /open-source-img/bagisto/logo.png
 description: ''
 categories:
   - E-commerce
@@ -19,4 +19,4 @@ relatedProjects:
 tutorials:
   - title: ''
     link: ''
-images: /public/open-source/bagisto/
+images: /public/open-source-img/bagisto/

@@ -3,7 +3,7 @@ createdAt: '2024-10-06T00:57:37.329Z'
 headlight: Cliente oficial do Kontalk para Android
 source: github kontalk/androidclient
 url: https://www.kontalk.org/
-logo: /open-source/kontalk/logo.jpeg
+logo: /open-source-img/kontalk/logo.jpeg
 description: ''
 categories:
   - Communication
@@ -16,4 +16,4 @@ relatedProjects:
 tutorials:
   - title: ''
     link: ''
-images: /public/open-source/kontalk/
+images: /public/open-source-img/kontalk/

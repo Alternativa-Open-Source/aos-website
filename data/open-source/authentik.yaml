@@ -3,7 +3,7 @@ createdAt: '2024-10-06T00:44:05.098Z'
 headlight: A cola de autenticação que você precisa.
 source: github goauthentik/authentik
 url: https://github.com/goauthentik/authentik
-logo: /open-source/authentik/logo.png
+logo: /open-source-img/authentik/logo.png
 description: ''
 categories:
   - Auth & SSO
@@ -18,4 +18,4 @@ relatedProjects:
 tutorials:
   - title: ''
     link: ''
-images: /public/open-source/authentik/
+images: /public/open-source-img/authentik/

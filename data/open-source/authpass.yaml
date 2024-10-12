@@ -3,7 +3,7 @@ createdAt: '2024-10-06T00:40:01.399Z'
 headlight: AuthPass - Gerenciador de senhas baseado em Flutter para todas as plataformas. Compatível com Keepass 2.x (kdbx 3.x).
 source: github authpass/authpass
 url: https://authpass.app/
-logo: /open-source/authpass/logo.svg
+logo: /open-source-img/authpass/logo.svg
 description: ''
 categories:
   - Password Managers
@@ -19,4 +19,4 @@ relatedProjects:
 tutorials:
   - title: ''
     link: ''
-images: /public/open-source/authpass/
+images: /public/open-source-img/authpass/

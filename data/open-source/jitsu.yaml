@@ -3,7 +3,7 @@ createdAt: '2024-10-06T00:57:03.898Z'
 headlight: Jitsu é uma alternativa de código aberto ao Segment. Mecanismo de ingestão de dados totalmente programável para equipes de dados modernas. Configure um pipeline de dados em tempo real em minutos, não em dias
 source: github jitsucom/jitsu
 url: https://jitsu.com/
-logo: /open-source/jitsu/logo.png
+logo: /open-source-img/jitsu/logo.png
 description: ''
 categories:
   - Customer Data
@@ -18,4 +18,4 @@ relatedProjects:
 tutorials:
   - title: ''
     link: ''
-images: /public/open-source/jitsu/
+images: /public/open-source-img/jitsu/

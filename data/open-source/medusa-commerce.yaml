@@ -3,7 +3,7 @@ createdAt: '2024-10-06T01:01:41.214Z'
 headlight: Blocos de construção para o comércio digital
 source: github medusajs/medusa
 url: https://www.medusa-commerce.com
-logo: /open-source/medusa-commerce/logo.png
+logo: /open-source-img/medusa-commerce/logo.png
 description: ''
 categories:
   - E-commerce
@@ -19,4 +19,4 @@ relatedProjects:
 tutorials:
   - title: ''
     link: ''
-images: /public/open-source/medusa-commerce/
+images: /public/open-source-img/medusa-commerce/

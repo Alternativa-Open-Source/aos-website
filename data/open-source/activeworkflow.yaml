@@ -3,7 +3,7 @@ createdAt: '2024-10-06T00:29:02.172Z'
 headlight: Fluxos de trabalho poliglotas sem sair do conforto do seu conjunto de tecnologia.
 source: github automaticmode/active_workflow
 url: https://github.com/automaticmode/active_workflow
-logo: /open-source/activeworkflow/logo.svg
+logo: /open-source-img/activeworkflow/logo.svg
 description: ''
 categories:
   - Automation
@@ -19,4 +19,4 @@ relatedProjects:
 tutorials:
   - title: ''
     link: ''
-images: /public/open-source/activeworkflow/
+images: /public/open-source-img/activeworkflow/

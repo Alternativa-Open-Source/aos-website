@@ -3,7 +3,7 @@ createdAt: '2024-10-06T00:53:55.047Z'
 headlight: 🦘 O Grouparoo Monorepo - estrutura de sincronização de dados de clientes de código aberto
 source: github grouparoo/grouparoo
 url: https://www.grouparoo.com/
-logo: /open-source/grouparoo/logo.jpeg
+logo: /open-source-img/grouparoo/logo.jpeg
 description: ''
 categories:
   - Reverse ETL
@@ -17,4 +17,4 @@ relatedProjects:
 tutorials:
   - title: ''
     link: ''
-images: /public/open-source/grouparoo/
+images: /public/open-source-img/grouparoo/

@@ -3,7 +3,7 @@ createdAt: '2024-10-06T00:46:54.238Z'
 headlight: A plataforma de integração de dados de alto desempenho e código aberto criada para desenvolvedores.
 source: github cloudquery/cloudquery
 url: https://www.cloudquery.io/
-logo: /open-source/cloudquery/logo.jpeg
+logo: /open-source-img/cloudquery/logo.jpeg
 description: ''
 categories:
   - Cybersecurity
@@ -20,4 +20,4 @@ relatedProjects:
 tutorials:
   - title: ''
     link: ''
-images: /public/open-source/cloudquery/
+images: /public/open-source-img/cloudquery/

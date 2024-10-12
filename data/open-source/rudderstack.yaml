@@ -3,7 +3,7 @@ createdAt: '2024-10-06T01:18:10.016Z'
 headlight: Segmento alternativo focado em privacidade e segurança, em Golang e React
 source: github rudderlabs/rudder-server
 url: https://www.rudderstack.com
-logo: /open-source/rudderstack/logo.png
+logo: /open-source-img/rudderstack/logo.png
 description: ''
 categories:
   - Customer Data
@@ -17,4 +17,4 @@ relatedProjects:
 tutorials:
   - title: ''
     link: ''
-images: /public/open-source/rudderstack/
+images: /public/open-source-img/rudderstack/

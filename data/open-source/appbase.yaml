@@ -3,7 +3,7 @@ createdAt: '2024-10-06T00:34:20.587Z'
 headlight: Pesquisar componentes de IU para React e Vue
 source: github appbaseio/reactivesearch
 url: https://www.appbase.io/
-logo: /open-source/appbase/logo.png
+logo: /open-source-img/appbase/logo.png
 description: ''
 categories:
   - Enterprise Search
@@ -18,4 +18,4 @@ relatedProjects:
 tutorials:
   - title: ''
     link: ''
-images: /public/open-source/appbase/
+images: /public/open-source-img/appbase/

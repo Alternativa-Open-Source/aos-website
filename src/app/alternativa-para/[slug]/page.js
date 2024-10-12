@@ -1,5 +1,5 @@
 import { Container } from "@/components/Container";
-import { ProjectCardByProject } from "@/components/ProjectCardByProject";
+import { ProjectCard } from "@/components/ProjectCard";
 import { getAlternativeToBySlug, listAlternativeToFiles } from "@/lib/data/alternative-to";
 import { readOpenSourceFilesAndRepoData } from "@/lib/data/open-source";
 
@@ -25,6 +25,7 @@ export default async function AlternativeToPage({ params }) {
           <h1 className="text-3xl font-medium tracking-tight text-gray-900">Alternativa open-source para {alternativeTo.name}</h1>
           <p className="mt-2 text-lg text-gray-600">
             Nesta página você encontra alternativas <b>open-sorce</b> para <b>{alternativeTo.name}</b>. {alternativeTo.headlight}
+            Dê uma olhada nas alternativas de código aberto ao {alternativeTo.name} abaixo.
           </p>
         </div>
 
@@ -32,7 +33,7 @@ export default async function AlternativeToPage({ params }) {
           {projects &&
             projects.length > 0 &&
             projects.map((project, index) => {
-              return <ProjectCardByProject key={index} project={project} />;
+              return <ProjectCard key={index} project={project} />;
             })}
         </div>
       </Container>

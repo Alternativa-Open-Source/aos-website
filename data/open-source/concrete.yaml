@@ -3,7 +3,7 @@ createdAt: '2024-10-06T00:47:12.807Z'
 headlight: Repositório oficial para desenvolvimento do Concrete CMS
 source: github concrete5/concrete5
 url: https://www.concretecms.com/
-logo: /open-source/concrete/logo.jpeg
+logo: /open-source-img/concrete/logo.jpeg
 description: ''
 categories:
   - CMS
@@ -18,4 +18,4 @@ relatedProjects:
 tutorials:
   - title: ''
     link: ''
-images: /public/open-source/concrete/
+images: /public/open-source-img/concrete/

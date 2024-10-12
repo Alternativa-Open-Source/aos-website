@@ -3,7 +3,7 @@ createdAt: '2024-10-06T00:44:56.399Z'
 headlight: BoxBilling - Software de faturamento e gerenciamento de clientes de código aberto
 source: github boxbilling/boxbilling
 url: https://www.boxbilling.org/
-logo: /open-source/boxbilling/logo.png
+logo: /open-source-img/boxbilling/logo.png
 description: ''
 categories:
   - Finances
@@ -19,4 +19,4 @@ relatedProjects:
 tutorials:
   - title: ''
     link: ''
-images: /public/open-source/boxbilling/
+images: /public/open-source-img/boxbilling/

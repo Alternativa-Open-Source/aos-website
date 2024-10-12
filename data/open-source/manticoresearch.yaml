@@ -3,7 +3,7 @@ createdAt: '2024-10-06T01:01:18.844Z'
 headlight: Banco de dados rápido de código aberto fácil de usar para pesquisa | Boa alternativa ao Elasticsearch agora | Substituto imediato para E no ELK em breve
 source: github manticoresoftware/manticoresearch
 url: https://manticoresearch.com/
-logo: /open-source/manticoresearch/logo.png
+logo: /open-source-img/manticoresearch/logo.png
 description: ''
 categories:
   - Database
@@ -18,4 +18,4 @@ relatedProjects:
 tutorials:
   - title: ''
     link: ''
-images: /public/open-source/manticoresearch/
+images: /public/open-source-img/manticoresearch/

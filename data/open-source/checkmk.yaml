@@ -3,7 +3,7 @@ createdAt: '2024-10-06T00:45:46.864Z'
 headlight: Checkmk - Monitoramento de infraestrutura e aplicativos de primeira linha
 source: github tribe29/checkmk
 url: https://checkmk.com/
-logo: /open-source/checkmk/logo.png
+logo: /open-source-img/checkmk/logo.png
 description: ''
 categories:
   - Observability and monitoring
@@ -20,4 +20,4 @@ relatedProjects:
 tutorials:
   - title: ''
     link: ''
-images: /public/open-source/checkmk/
+images: /public/open-source-img/checkmk/

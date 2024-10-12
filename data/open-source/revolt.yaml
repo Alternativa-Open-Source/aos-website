@@ -3,7 +3,7 @@ createdAt: '2024-10-06T01:17:53.686Z'
 headlight: 'Repositório para gerenciamento de repositórios diversos e discussões: https://github.com/revoltchat/revolt/discussions'
 source: github revoltchat/revolt
 url: https://revolt.chat/
-logo: /open-source/revolt/logo.png
+logo: /open-source-img/revolt/logo.png
 description: ''
 categories:
   - Communication
@@ -18,4 +18,4 @@ relatedProjects:
 tutorials:
   - title: ''
     link: ''
-images: /public/open-source/revolt/
+images: /public/open-source-img/revolt/

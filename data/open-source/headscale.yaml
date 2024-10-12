@@ -3,7 +3,7 @@ createdAt: '2024-10-06T00:54:11.027Z'
 headlight: Uma implementação de código aberto e auto-hospedada do servidor de controle Tailscale
 source: github juanfont/headscale
 url: https://headscale.net/
-logo: /open-source/headscale/logo.png
+logo: /open-source-img/headscale/logo.png
 description: ''
 categories:
   - VPN
@@ -18,4 +18,4 @@ relatedProjects:
 tutorials:
   - title: ''
     link: ''
-images: /public/open-source/headscale/
+images: /public/open-source-img/headscale/

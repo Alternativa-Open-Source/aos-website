@@ -3,7 +3,7 @@ createdAt: '2024-10-06T00:49:06.934Z'
 headlight: Infraestrutura de gerenciamento de links de código aberto.
 source: github steven-tey/dub
 url: http://dub.co/
-logo: /open-source/dub/logo.svg
+logo: /open-source-img/dub/logo.svg
 description: ''
 categories:
   - Link Shortener
@@ -18,4 +18,4 @@ relatedProjects:
 tutorials:
   - title: ''
     link: ''
-images: /public/open-source/dub/
+images: /public/open-source-img/dub/

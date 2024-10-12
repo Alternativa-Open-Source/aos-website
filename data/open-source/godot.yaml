@@ -3,7 +3,7 @@ createdAt: '2024-10-06T00:53:19.937Z'
 headlight: Godot Engine – Motor de jogo multiplataforma 2D e 3D
 source: github godotengine/godot
 url: https://godotengine.org/
-logo: /open-source/godot/logo.png
+logo: /open-source-img/godot/logo.png
 description: ''
 categories:
   - Gaming
@@ -19,4 +19,4 @@ relatedProjects:
 tutorials:
   - title: ''
     link: ''
-images: /public/open-source/godot/
+images: /public/open-source-img/godot/

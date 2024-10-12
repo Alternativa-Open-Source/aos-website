@@ -3,15 +3,17 @@ createdAt: '2024-10-06T01:01:34.919Z'
 headlight: 'Mautic: Software de automação de marketing de código aberto.'
 source: github mautic/mautic
 url: https://www.mautic.org/
-logo: /open-source/mautic/logo.png
+logo: /open-source-img/mautic/logo.png
 description: ''
 categories:
   - Automation
+  - Market Digital
 alterantiveTo:
   - mailchimp
   - activecampaign
+  - rdstation
 relatedProjects:
-  - astuto
+  - erxes
   - nuclei
   - gatus
   - quickwit
@@ -19,4 +21,4 @@ relatedProjects:
 tutorials:
   - title: ''
     link: ''
-images: /public/open-source/mautic/
+images: /public/open-source-img/mautic/

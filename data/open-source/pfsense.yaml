@@ -3,7 +3,7 @@ createdAt: '2024-10-06T01:39:37.042Z'
 headlight: Repositório principal para pfSense
 source: github pfsense/pfsense
 url: https://www.pfsense.org/
-logo: /open-source/pfsense/logo.png
+logo: /open-source-img/pfsense/logo.png
 description: ''
 categories:
   - Cybersecurity
@@ -19,4 +19,4 @@ relatedProjects:
 tutorials:
   - title: ''
     link: ''
-images: /public/open-source/pfsense/
+images: /public/open-source-img/pfsense/

@@ -1,0 +1,21 @@
+name: Invoice Plane
+createdAt: '2024-10-06T00:33:05.453Z'
+headlight: Alternativa open source para contas a pagar e a receber.
+source: github InvoicePlane/InvoicePlane
+url: https://www.invoiceplane.com/
+logo: /open-source-img/invoiceplane/logo.jpeg
+description: ''
+categories:
+  - Accounting
+alterantiveTo:
+  - quickbooks
+  - conta-azul
+relatedProjects:
+  - jitsu
+  - jam
+  - firefly-iii
+  - hedgedoc
+tutorials:
+  - title: ''
+    link: ''
+images: /public/open-source-img/invoiceplane/

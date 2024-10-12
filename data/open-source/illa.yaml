@@ -3,7 +3,7 @@ createdAt: '2024-10-06T00:55:47.562Z'
 headlight: A plataforma low-code permite que você crie aplicativos de negócios, permite que você crie rapidamente ferramentas internas como dashboard, crud app, painel de administração, crm, cms, etc. Suporta PostgreSQL, MySQL, Supabase, GraphQL, MongoDB, MSSQL, Rest API, Hugging Face, Redis, etc. Automatize fluxos de trabalho com agendamento ou webhook. Retool de código aberto.
 source: github illacloud/illa-builder
 url: https://www.illacloud.com/
-logo: /open-source/illa/logo.png
+logo: /open-source-img/illa/logo.png
 description: ''
 categories:
   - Internal Tool
@@ -20,4 +20,4 @@ relatedProjects:
 tutorials:
   - title: ''
     link: ''
-images: /public/open-source/illa/
+images: /public/open-source-img/illa/

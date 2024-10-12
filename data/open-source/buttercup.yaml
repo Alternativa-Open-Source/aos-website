@@ -3,7 +3,7 @@ createdAt: '2024-10-06T00:45:21.530Z'
 headlight: ':key: Cofre de senhas e segredos multiplataforma'
 source: github buttercup/buttercup-desktop
 url: https://buttercup.pw
-logo: /open-source/buttercup/logo.png
+logo: /open-source-img/buttercup/logo.png
 description: ''
 categories:
   - Password Managers
@@ -19,4 +19,4 @@ relatedProjects:
 tutorials:
   - title: ''
     link: ''
-images: /public/open-source/buttercup/
+images: /public/open-source-img/buttercup/

@@ -1,15 +1,16 @@
 import { slugify } from "@/utils/textUtils";
 import { readOpenSourceFilesAndRepoData } from "./open-source";
 import { readFile, saveFile } from "../file-functions";
+import { unique } from "@/utils/arrayUtils";
 
 const FOLDER = "data/cache/category-data/";
 
 export const listCategories = async () => {
   const filesWithRepo = await readOpenSourceFilesAndRepoData();
 
-  const categories = filesWithRepo //
-    .flatMap((project) => project.yaml.categories) //
-    .map((category) => ({ name: category, slug: slugify(category) }));
+  const categories = unique(
+    filesWithRepo.flatMap((project) => project.yaml.categories) //
+  ).map((category) => ({ name: category, slug: slugify(category) }));
 
   // cache the categories to allow reading later
   categories.forEach((category) => saveCategoryCache(category, filesWithRepo));

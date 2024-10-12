@@ -3,7 +3,7 @@ createdAt: '2024-10-06T01:31:04.353Z'
 headlight: Plataforma de baixo código para construir aplicativos de negócios. Conecte-se a bancos de dados, armazenamentos em nuvem, GraphQL, endpoints de API, Airtable, planilhas do Google, OpenAI, etc. e crie aplicativos usando o construtor de aplicativos de arrastar e soltar. Construído usando JavaScript/TypeScript. 🚀
 source: github tooljet/tooljet
 url: https://tooljet.com/
-logo: /open-source/tooljet/logo.png
+logo: /open-source-img/tooljet/logo.png
 description: ''
 categories:
   - Internal Tool
@@ -18,4 +18,4 @@ relatedProjects:
 tutorials:
   - title: ''
     link: ''
-images: /public/open-source/tooljet/
+images: /public/open-source-img/tooljet/

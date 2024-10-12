@@ -3,7 +3,7 @@ createdAt: '2024-10-06T00:52:04.854Z'
 headlight: Este é o código-fonte oficial do FreeCAD, um modelador paramétrico 3D multiplataforma, gratuito e de código aberto.
 source: github FreeCAD/FreeCAD
 url: https://www.freecadweb.org/
-logo: /open-source/freecad/logo.jpeg
+logo: /open-source-img/freecad/logo.jpeg
 description: ''
 categories:
   - 3D Modelling
@@ -24,4 +24,4 @@ relatedProjects:
 tutorials:
   - title: ''
     link: ''
-images: /public/open-source/freecad/
+images: /public/open-source-img/freecad/

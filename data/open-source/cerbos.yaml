@@ -3,7 +3,7 @@ createdAt: '2024-10-06T00:45:40.126Z'
 headlight: Cerbos é uma solução de autorização escalável, independente de linguagem e de núcleo aberto que torna as permissões e autorizações de usuários simples de implementar e gerenciar, escrevendo políticas de controle de acesso sensíveis ao contexto para os recursos do seu aplicativo.
 source: github cerbos/cerbos
 url: https://cerbos.dev/
-logo: /open-source/cerbos/logo.jpeg
+logo: /open-source-img/cerbos/logo.jpeg
 description: ''
 categories:
   - Auth & SSO
@@ -18,4 +18,4 @@ relatedProjects:
 tutorials:
   - title: ''
     link: ''
-images: /public/open-source/cerbos/
+images: /public/open-source-img/cerbos/

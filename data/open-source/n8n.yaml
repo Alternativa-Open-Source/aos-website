@@ -3,7 +3,7 @@ createdAt: '2024-10-06T01:39:31.150Z'
 headlight: Ferramenta de automação de fluxo de trabalho licenciada por código justo, gratuita e disponível em código fonte. Automatize tarefas facilmente em diferentes serviços.
 source: github n8n-io/n8n
 url: https://n8n.io
-logo: /open-source/n8n/logo.png
+logo: /open-source-img/n8n/logo.png
 description: ''
 categories:
   - Automation
@@ -19,4 +19,4 @@ relatedProjects:
 tutorials:
   - title: ''
     link: ''
-images: /public/open-source/n8n/
+images: /public/open-source-img/n8n/

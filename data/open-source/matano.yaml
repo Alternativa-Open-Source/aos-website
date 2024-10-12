@@ -3,7 +3,7 @@ createdAt: '2024-10-06T01:01:23.718Z'
 headlight: Data lake de segurança de código aberto para busca, detecção e resposta a ameaças e análise de segurança cibernética em escala de petabytes na AWS
 source: github matanolabs/matano
 url: https://www.matano.dev/
-logo: /open-source/matano/logo.png
+logo: /open-source-img/matano/logo.png
 description: ''
 categories:
   - Cybersecurity
@@ -20,4 +20,4 @@ relatedProjects:
 tutorials:
   - title: ''
     link: ''
-images: /public/open-source/matano/
+images: /public/open-source-img/matano/

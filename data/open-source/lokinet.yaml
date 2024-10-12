@@ -3,7 +3,7 @@ createdAt: '2024-10-06T01:00:41.400Z'
 headlight: Lokinet é uma rede de sobreposição anônima, descentralizada e baseada em IP para a internet.
 source: github oxen-io/lokinet
 url: https://lokinet.org/
-logo: /open-source/lokinet/logo.png
+logo: /open-source-img/lokinet/logo.png
 description: ''
 categories:
   - Social Media
@@ -21,4 +21,4 @@ relatedProjects:
 tutorials:
   - title: ''
     link: ''
-images: /public/open-source/lokinet/
+images: /public/open-source-img/lokinet/

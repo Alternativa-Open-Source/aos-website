@@ -3,7 +3,7 @@ createdAt: '2024-10-06T00:50:49.023Z'
 headlight: Flax Engine – motor de jogo 3D multiplataforma
 source: github FlaxEngine/FlaxEngine
 url: https://flaxengine.com/
-logo: /open-source/flax-engine/logo.png
+logo: /open-source-img/flax-engine/logo.png
 description: ''
 categories:
   - Gaming
@@ -19,4 +19,4 @@ relatedProjects:
 tutorials:
   - title: ''
     link: ''
-images: /public/open-source/flax-engine/
+images: /public/open-source-img/flax-engine/

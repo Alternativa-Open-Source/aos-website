@@ -3,7 +3,7 @@ createdAt: '2024-10-06T01:02:12.441Z'
 headlight: Uma API de pesquisa extremamente rápida que se adapta perfeitamente aos seus aplicativos, sites e fluxo de trabalho
 source: github meilisearch/meilisearch
 url: https://www.meilisearch.com/
-logo: /open-source/meilisearch/logo.png
+logo: /open-source-img/meilisearch/logo.png
 description: ''
 categories:
   - Developer Tools
@@ -23,4 +23,4 @@ relatedProjects:
 tutorials:
   - title: ''
     link: ''
-images: /public/open-source/meilisearch/
+images: /public/open-source-img/meilisearch/

@@ -3,7 +3,7 @@ createdAt: '2024-10-06T01:00:10.794Z'
 headlight: LinkAce é um arquivo auto-hospedado para coletar links dos seus sites favoritos.
 source: github Kovah/LinkAce
 url: https://www.linkace.org/
-logo: /open-source/linkace/logo.jpeg
+logo: /open-source-img/linkace/logo.jpeg
 description: ''
 categories:
   - Utilities
@@ -19,4 +19,4 @@ relatedProjects:
 tutorials:
   - title: ''
     link: ''
-images: /public/open-source/linkace/
+images: /public/open-source-img/linkace/

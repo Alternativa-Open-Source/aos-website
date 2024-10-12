@@ -3,12 +3,13 @@ createdAt: '2024-10-06T01:01:21.416Z'
 headlight: Sua comunidade de microblogging auto-hospedada e globalmente interconectada
 source: github tootsuite/mastodon
 url: https://joinmastodon.org
-logo: /open-source/mastodon/logo.png
+logo: /open-source-img/mastodon/logo.png
 description: ''
 categories:
   - Social Media
 alterantiveTo:
   - facebook
+  - hootsuite
 relatedProjects:
   - losslesscut
   - shopaholic
@@ -18,4 +19,4 @@ relatedProjects:
 tutorials:
   - title: ''
     link: ''
-images: /public/open-source/mastodon/
+images: /public/open-source-img/mastodon/

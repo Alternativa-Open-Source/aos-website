@@ -3,7 +3,7 @@ createdAt: '2024-10-06T01:31:10.372Z'
 headlight: O Proxy de Aplicativo Nativo da Nuvem
 source: github traefik/traefik
 url: https://traefik.io/
-logo: /open-source/traefik/logo.png
+logo: /open-source-img/traefik/logo.png
 description: ''
 categories:
   - API Platform
@@ -18,4 +18,4 @@ relatedProjects:
 tutorials:
   - title: ''
     link: ''
-images: /public/open-source/traefik/
+images: /public/open-source-img/traefik/

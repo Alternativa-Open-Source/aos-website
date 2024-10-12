@@ -14,6 +14,24 @@ const readOpenSourceYamlFile = async (slug) => {
   return await readYamlFile(FOLDER, filename);
 };
 
+function calculateScoreFinal(stars, forks, createdAt) {
+  // Adjust stars and forks effect to a smaller scale
+  const a = (stars / 3 + forks) / 100;
+
+  // Get the current date and createdAt date
+  const now = new Date();
+  const createdDate = new Date(createdAt);
+
+  // Calculate the difference in months between now and createdAt
+  const m = (now.getFullYear() - createdDate.getFullYear()) * 12 + (now.getMonth() - createdDate.getMonth());
+
+  // Apply subtle time weighting using logarithmic scaling
+  const weight = 1 / (1 + Math.log(1 + m));
+
+  // Return the final score
+  return a * weight;
+}
+
 export const getOpenSourceBySlug = async (slug) => {
   if (slug.endsWith(".yaml")) throw new Error(slug + "has yaml");
   const file = slug + ".yaml";
@@ -33,6 +51,7 @@ export const getOpenSourceBySlug = async (slug) => {
     },
     repoData,
     images,
+    scoreFinal: calculateScoreFinal(repoData.stargazers, repoData.forks, repoData.createdAt),
   };
 };
 
@@ -40,12 +59,12 @@ export const readOpenSourceFilesAndRepoData = async () => {
   const files = await listOpenSourceFiles();
 
   // this loads all yamls + repodata in memory - shouldn't be a problem for a while, but may require refactor late
-  const yamlAndRepos = await Promise.all(files.map(async (file) => getOpenSourceBySlug(file.replace('.yaml', ''))));
+  const yamlAndRepos = await Promise.all(files.map(async (file) => getOpenSourceBySlug(file.replace(".yaml", ""))));
 
   // todo when upgrade node version, replace to `.toSorted((el) => el.repoData.forks)`
-  yamlAndRepos.sort((x, y) => y.repoData.forks - x.repoData.forks );
+  yamlAndRepos.sort((x, y) => y.scoreFinal - x.scoreFinal);
 
-  return yamlAndRepos.filter(el => !el.yaml.removed);
+  return yamlAndRepos.filter((el) => !el.yaml.removed);
 };
 
 export const readOpenSourceFileImages = async (slug, yaml) => {
@@ -59,7 +78,7 @@ export const readOpenSourceFileImages = async (slug, yaml) => {
 
       return {
         title,
-        url: `/open-source/${slug}/${el}`,
+        url: `/open-source-img/${slug}/${el}`,
       };
     });
 };

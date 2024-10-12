@@ -3,7 +3,7 @@ createdAt: '2024-10-06T01:34:14.500Z'
 headlight: ':wavy_dash: Visão geral do código-fonte aberto para Wire'
 source: github wireapp/wire
 url: https://wire.com/en/
-logo: /open-source/wire/logo.png
+logo: /open-source-img/wire/logo.png
 description: ''
 categories:
   - Communication
@@ -20,4 +20,4 @@ relatedProjects:
 tutorials:
   - title: ''
     link: ''
-images: /public/open-source/wire/
+images: /public/open-source-img/wire/

@@ -3,7 +3,7 @@ createdAt: '2024-10-06T01:04:29.321Z'
 headlight: Vim-fork focado em extensibilidade e usabilidade
 source: github neovim/neovim
 url: https://neovim.io/
-logo: /open-source/neovim/logo.png
+logo: /open-source-img/neovim/logo.png
 description: ''
 categories:
   - Developer Tools
@@ -19,4 +19,4 @@ relatedProjects:
 tutorials:
   - title: ''
     link: ''
-images: /public/open-source/neovim/
+images: /public/open-source-img/neovim/

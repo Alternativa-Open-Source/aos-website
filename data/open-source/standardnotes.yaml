@@ -3,7 +3,7 @@ createdAt: '2024-10-06T01:24:18.710Z'
 headlight: Pense sem medo com notas e arquivos criptografados de ponta a ponta. Para problemas, visite https://standardnotes.com/forum ou https://standardnotes.com/help.
 source: github standardnotes/web
 url: https://standardnotes.com/
-logo: /open-source/standardnotes/logo.png
+logo: /open-source-img/standardnotes/logo.png
 description: ''
 categories:
   - Notetaking
@@ -22,4 +22,4 @@ relatedProjects:
 tutorials:
   - title: ''
     link: ''
-images: /public/open-source/standardnotes/
+images: /public/open-source-img/standardnotes/

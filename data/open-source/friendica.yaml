@@ -3,7 +3,7 @@ createdAt: '2024-10-06T00:52:09.839Z'
 headlight: Plataforma de Comunicações Friendica
 source: github friendica/friendica
 url: https://friendi.ca/
-logo: /open-source/friendica/logo.png
+logo: /open-source-img/friendica/logo.png
 description: ''
 categories:
   - Social Media
@@ -18,4 +18,4 @@ relatedProjects:
 tutorials:
   - title: ''
     link: ''
-images: /public/open-source/friendica/
+images: /public/open-source-img/friendica/

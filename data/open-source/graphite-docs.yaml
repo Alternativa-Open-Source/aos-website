@@ -3,7 +3,7 @@ createdAt: '2024-10-06T00:53:31.202Z'
 headlight: Suíte de produtividade criptografada, segura e de propriedade do usuário
 source: github Graphite-Docs/graphite
 url: https://www.graphitedocs.com/
-logo: /open-source/graphite-docs/logo.png
+logo: /open-source-img/graphite-docs/logo.png
 description: ''
 categories:
   - Documentation
@@ -19,4 +19,4 @@ relatedProjects:
 tutorials:
   - title: ''
     link: ''
-images: /public/open-source/graphite-docs/
+images: /public/open-source-img/graphite-docs/

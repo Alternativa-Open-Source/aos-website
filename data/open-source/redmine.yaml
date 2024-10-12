@@ -3,7 +3,7 @@ createdAt: '2024-10-06T01:17:05.745Z'
 headlight: 'Espelho do código fonte do redmine - O repositório oficial do Subversion está em https://svn.redmine.org/redmine - contato: @vividtone ou maeda (at) farend (dot) jp'
 source: github redmine/redmine
 url: https://redmine.org/
-logo: /open-source/redmine/logo.
+logo: /open-source-img/redmine/logo.png
 description: ''
 categories:
   - Project Management
@@ -19,4 +19,4 @@ relatedProjects:
 tutorials:
   - title: ''
     link: ''
-images: /public/open-source/redmine/
+images: /public/open-source-img/redmine/

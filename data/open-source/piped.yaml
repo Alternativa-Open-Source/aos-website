@@ -3,7 +3,7 @@ createdAt: '2024-10-06T01:13:14.194Z'
 headlight: Um frontend alternativo do YouTube que respeita a privacidade e é eficiente por natureza.
 source: github TeamPiped/Piped
 url: https://piped.kavin.rocks/
-logo: /open-source/piped/logo.png
+logo: /open-source-img/piped/logo.png
 description: ''
 categories:
   - Video
@@ -18,4 +18,4 @@ relatedProjects:
 tutorials:
   - title: ''
     link: ''
-images: /public/open-source/piped/
+images: /public/open-source-img/piped/

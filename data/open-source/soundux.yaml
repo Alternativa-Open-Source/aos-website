@@ -3,7 +3,7 @@ createdAt: '2024-10-06T01:24:00.784Z'
 headlight: 🔊 Uma mesa de som multiplataforma
 source: github Soundux/Soundux
 url: https://soundux.rocks/
-logo: /open-source/soundux/logo.png
+logo: /open-source-img/soundux/logo.png
 description: ''
 categories:
   - Communication
@@ -18,4 +18,4 @@ relatedProjects:
 tutorials:
   - title: ''
     link: ''
-images: /public/open-source/soundux/
+images: /public/open-source-img/soundux/

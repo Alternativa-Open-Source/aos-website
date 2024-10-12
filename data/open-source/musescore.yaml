@@ -3,7 +3,7 @@ createdAt: '2024-10-06T01:03:47.202Z'
 headlight: MuseScore é um software de notação musical de código aberto e gratuito. Para suporte, contribuição, relatórios de bugs, visite MuseScore.org. Bifurque e faça pull requests!
 source: github musescore/MuseScore
 url: https://musescore.org/
-logo: /open-source/musescore/logo.png
+logo: /open-source-img/musescore/logo.png
 description: ''
 categories:
   - Music
@@ -19,4 +19,4 @@ relatedProjects:
 tutorials:
   - title: ''
     link: ''
-images: /public/open-source/musescore/
+images: /public/open-source-img/musescore/

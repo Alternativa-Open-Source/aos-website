@@ -3,7 +3,7 @@ createdAt: '2024-10-06T00:44:09.233Z'
 headlight: Uma extensão do navegador para automatizar seu navegador conectando blocos
 source: github AutomaApp/automa
 url: https://www.automa.site/
-logo: /open-source/automa/logo.png
+logo: /open-source-img/automa/logo.png
 description: ''
 categories:
   - Browser
@@ -19,4 +19,4 @@ relatedProjects:
 tutorials:
   - title: ''
     link: ''
-images: /public/open-source/automa/
+images: /public/open-source-img/automa/

@@ -6,7 +6,7 @@ import { ExclamationTriangleIcon } from "@radix-ui/react-icons";
 import { MayfairSlider } from "@/components/custom/MayfairSlider";
 import { NewLineToBreakLine, parseDateBr } from "@/utils/textUtils";
 import { Empty } from "./Empty";
-import { ProjectCardByProject } from "./ProjectCardByProject";
+import { ProjectCard } from "./ProjectCard";
 import { EditPageBtn } from "./EditPageBtn";
 import { ProjectImage } from "./ProjectImage";
 import { ProjectCategories } from "./ProjectCategories";
@@ -83,6 +83,10 @@ export function ProjectDetails({ project, relatedProjects }) {
                 <div>
                   <dt className="font-semibold">Adicionado em</dt>
                   <dd>{parseDateBr(project.yaml.createdAt)}</dd>
+                </div>
+                <div>
+                  <dt className="font-semibold">Criado em</dt>
+                  <dd>{parseDateBr(project.repoData.createdAt)}</dd>
                 </div>
                 <div>
                   <dt className="font-semibold">Source</dt>
@@ -168,7 +172,7 @@ export function ProjectDetails({ project, relatedProjects }) {
             <CardContent>
               <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
                 {relatedProjects.map((relatedProject, index) => (
-                  <ProjectCardByProject key={index} project={relatedProject} />
+                  <ProjectCard key={index} project={relatedProject} />
                 ))}
               </div>
             </CardContent>

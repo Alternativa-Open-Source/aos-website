@@ -3,7 +3,7 @@ createdAt: '2024-10-06T01:04:14.526Z'
 headlight: NVDA, o leitor de tela gratuito e de código aberto para Microsoft Windows
 source: github nvaccess/nvda
 url: https://www.nvaccess.org/
-logo: /open-source/nvda/logo.png
+logo: /open-source-img/nvda/logo.png
 description: ''
 categories:
   - Communication
@@ -18,4 +18,4 @@ relatedProjects:
 tutorials:
   - title: ''
     link: ''
-images: /public/open-source/nvda/
+images: /public/open-source-img/nvda/

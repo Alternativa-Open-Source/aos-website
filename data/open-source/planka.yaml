@@ -3,7 +3,7 @@ createdAt: '2024-10-06T01:13:35.229Z'
 headlight: O quadro kanban em tempo real para grupos de trabalho criado com React e Redux.
 source: github plankanban/planka
 url: https://planka.app/
-logo: /open-source/planka/logo.png
+logo: /open-source-img/planka/logo.png
 description: ''
 categories:
   - Notetaking
@@ -18,4 +18,4 @@ relatedProjects:
 tutorials:
   - title: ''
     link: ''
-images: /public/open-source/planka/
+images: /public/open-source-img/planka/

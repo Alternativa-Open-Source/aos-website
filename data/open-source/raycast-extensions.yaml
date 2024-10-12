@@ -3,7 +3,7 @@ createdAt: '2024-10-06T01:16:28.832Z'
 headlight: Tudo o que você precisa para estender o Raycast.
 source: github raycast/extensions
 url: https://developers.raycast.com/
-logo: /open-source/raycast-extensions/logo.png
+logo: /open-source-img/raycast-extensions/logo.png
 description: ''
 categories:
   - Developer Tools
@@ -17,4 +17,4 @@ relatedProjects:
 tutorials:
   - title: ''
     link: ''
-images: /public/open-source/raycast-extensions/
+images: /public/open-source-img/raycast-extensions/

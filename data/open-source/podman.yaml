@@ -3,7 +3,7 @@ createdAt: '2024-10-06T01:13:47.935Z'
 headlight: 'Podman: Uma ferramenta para gerenciar contêineres e pods OCI.'
 source: github containers/podman
 url: https://podman.io/
-logo: /open-source/podman/logo.png
+logo: /open-source-img/podman/logo.png
 description: ''
 categories:
   - Platform as a service
@@ -18,4 +18,4 @@ relatedProjects:
 tutorials:
   - title: ''
     link: ''
-images: /public/open-source/podman/
+images: /public/open-source-img/podman/

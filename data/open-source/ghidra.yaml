@@ -3,7 +3,7 @@ createdAt: '2024-10-06T00:52:25.852Z'
 headlight: Ghidra é uma estrutura de engenharia reversa de software (SRE)
 source: github NationalSecurityAgency/ghidra
 url: https://ghidra-sre.org/
-logo: /open-source/ghidra/logo.png
+logo: /open-source-img/ghidra/logo.png
 description: ''
 categories:
   - Cybersecurity
@@ -18,4 +18,4 @@ relatedProjects:
 tutorials:
   - title: ''
     link: ''
-images: /public/open-source/ghidra/
+images: /public/open-source-img/ghidra/

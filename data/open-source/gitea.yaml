@@ -3,7 +3,7 @@ createdAt: '2024-10-06T00:52:37.661Z'
 headlight: Git com uma xícara de chá! Serviço de desenvolvimento de software all-in-one auto-hospedado e sem dor, incluindo hospedagem Git, revisão de código, colaboração de equipe, registro de pacotes e CI/CD
 source: github go-gitea/gitea
 url: https://gitea.io/en-us/
-logo: /open-source/gitea/logo.svg
+logo: /open-source-img/gitea/logo.svg
 description: ''
 categories:
   - Developer Tools
@@ -20,4 +20,4 @@ relatedProjects:
 tutorials:
   - title: ''
     link: ''
-images: /public/open-source/gitea/
+images: /public/open-source-img/gitea/

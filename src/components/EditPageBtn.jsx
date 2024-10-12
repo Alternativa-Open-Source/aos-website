@@ -1,5 +1,5 @@
 import { DropdownMenu, DropdownMenuContent, DropdownMenuItem, DropdownMenuTrigger } from "./ui/dropdown-menu";
-import { ExternalLink, Pencil, ShieldQuestion } from "lucide-react";
+import { ExternalLink, MessageCircleWarning, Pencil, ShieldQuestion } from "lucide-react";
 
 import { Button } from "@/components/ui/button";
 import Link from "next/link";
@@ -17,6 +17,11 @@ export function EditPageBtn({ project, variant }) {
           <a href={project.sourceEditUrl} target="_blank" className="cursor-pointer">
             <ExternalLink className="mr-2 h-4 w-4" /> Editar no github
           </a>
+        </DropdownMenuItem>
+        <DropdownMenuItem asChild>
+          <Link href={`${process.env.NEXT_PUBLIC_GITHUB_REPO}/issues/new?title=[${project.slug}] &body=Eu gostaria de reportar um problema com a página do projeto ${project.yaml.name}. `} target="_blank" className="cursor-pointer">
+            <MessageCircleWarning className="mr-2 h-4 w-4" /> Reportar problema ou sugestão
+          </Link>
         </DropdownMenuItem>
         <DropdownMenuItem asChild>
           <Link href="/como-editar-paginas" className="cursor-pointer">

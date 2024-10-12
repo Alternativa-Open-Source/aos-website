@@ -3,7 +3,7 @@ createdAt: '2024-10-06T00:34:10.384Z'
 headlight: O Apostrophe é um CMS de código aberto e completo, criado com Node.js, que capacita organizações ao combinar edição em contexto e arquitetura headless em um ambiente JS full-stack.
 source: github apostrophecms/apostrophe
 url: https://apostrophecms.com/
-logo: /open-source/apostrophecms-3/logo.svg
+logo: /open-source-img/apostrophecms-3/logo.svg
 description: ''
 categories:
   - CMS
@@ -18,4 +18,4 @@ relatedProjects:
 tutorials:
   - title: ''
     link: ''
-images: /public/open-source/apostrophecms-3/
+images: /public/open-source-img/apostrophecms-3/

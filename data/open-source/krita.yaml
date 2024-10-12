@@ -3,7 +3,7 @@ createdAt: '2024-10-06T00:58:12.841Z'
 headlight: Krita é um aplicativo multiplataforma gratuito e de código aberto que oferece uma solução completa para criar arquivos de arte digital do zero, construído nas estruturas KDE e Qt.
 source: github KDE/krita
 url: https://krita.org/en/
-logo: /open-source/krita/logo.png
+logo: /open-source-img/krita/logo.png
 description: ''
 categories:
   - Design
@@ -16,4 +16,4 @@ relatedProjects:
 tutorials:
   - title: ''
     link: ''
-images: /public/open-source/krita/
+images: /public/open-source-img/krita/

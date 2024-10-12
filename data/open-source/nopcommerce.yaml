@@ -3,7 +3,7 @@ createdAt: '2024-10-06T01:39:35.246Z'
 headlight: Software de comércio eletrônico ASP.NET Core. nopCommerce é um carrinho de compras gratuito e de código aberto.
 source: github nopSolutions/nopCommerce
 url: https://www.nopcommerce.com/en
-logo: /open-source/nopcommerce/logo.png
+logo: /open-source-img/nopcommerce/logo.png
 description: ''
 categories:
   - E-commerce
@@ -18,4 +18,4 @@ relatedProjects:
 tutorials:
   - title: ''
     link: ''
-images: /public/open-source/nopcommerce/
+images: /public/open-source-img/nopcommerce/

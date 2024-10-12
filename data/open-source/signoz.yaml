@@ -3,7 +3,7 @@ createdAt: '2024-10-06T01:23:46.049Z'
 headlight: SigNoz é uma plataforma de observabilidade de código aberto nativa do OpenTelemetry com logs, traces e métricas em um único aplicativo. Uma alternativa de código aberto para DataDog, NewRelic, etc. 🔥 🖥. 👉 Ferramenta de monitoramento de desempenho de aplicativo (APM) e observabilidade de código aberto
 source: github signoz/signoz
 url: https://signoz.io/
-logo: /open-source/signoz/logo.svg
+logo: /open-source-img/signoz/logo.svg
 description: ''
 categories:
   - Observability and monitoring
@@ -19,4 +19,4 @@ relatedProjects:
 tutorials:
   - title: ''
     link: ''
-images: /public/open-source/signoz/
+images: /public/open-source-img/signoz/

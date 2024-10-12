@@ -3,7 +3,7 @@ createdAt: '2024-10-06T00:51:58.203Z'
 headlight: Plataforma de pesquisa de código aberto
 source: github formbricks/formbricks
 url: https://formbricks.com/
-logo: /open-source/formbricks/logo.jpeg
+logo: /open-source-img/formbricks/logo.jpeg
 description: ''
 categories:
   - Developer Tools
@@ -20,4 +20,4 @@ relatedProjects:
 tutorials:
   - title: ''
     link: ''
-images: /public/open-source/formbricks/
+images: /public/open-source-img/formbricks/

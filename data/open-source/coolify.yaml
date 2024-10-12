@@ -3,12 +3,14 @@ createdAt: '2024-10-06T00:47:16.097Z'
 headlight: Uma alternativa de código aberto e auto-hospedável ao Heroku / Netlify / Vercel.
 source: github coollabsio/coolify
 url: https://coolify.io/
-logo: /open-source/coolify/logo.
+logo: /open-source-img/coolify/logo.svg
 description: ''
 categories:
   - Platform as a service
 alterantiveTo:
   - heroku
+  - netlify
+  - vercel
 relatedProjects:
   - leantime
   - cube-js
@@ -17,4 +19,4 @@ relatedProjects:
 tutorials:
   - title: ''
     link: ''
-images: /public/open-source/coolify/
+images: /public/open-source-img/coolify/

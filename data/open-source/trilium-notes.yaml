@@ -3,7 +3,7 @@ createdAt: '2024-10-06T01:31:14.500Z'
 headlight: Construa sua base de conhecimento pessoal com o Trilium Notes
 source: github zadam/trilium
 url: https://github.com/zadam/trilium
-logo: /open-source/trilium-notes/logo.png
+logo: /open-source-img/trilium-notes/logo.png
 description: ''
 categories:
   - Notetaking
@@ -20,4 +20,4 @@ relatedProjects:
 tutorials:
   - title: ''
     link: ''
-images: /public/open-source/trilium-notes/
+images: /public/open-source-img/trilium-notes/

@@ -3,7 +3,7 @@ createdAt: '2024-10-06T00:58:19.645Z'
 headlight: Back-end de código aberto, auto-hospedável e pronto para uso - Tempo real, armazenamento, pesquisa avançada - Web, aplicativos, dispositivos móveis, IoT -
 source: github kuzzleio/kuzzle
 url: https://kuzzle.io/kuzzle-backend/
-logo: /open-source/kuzzle/logo.jpeg
+logo: /open-source-img/kuzzle/logo.jpeg
 description: ''
 categories:
   - Backend service
@@ -18,4 +18,4 @@ relatedProjects:
 tutorials:
   - title: ''
     link: ''
-images: /public/open-source/kuzzle/
+images: /public/open-source-img/kuzzle/

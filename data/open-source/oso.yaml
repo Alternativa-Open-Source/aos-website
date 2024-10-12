@@ -3,7 +3,7 @@ createdAt: '2024-10-06T01:07:20.253Z'
 headlight: Um microserviço Ruby OAuth para autenticação baseada em SAML
 source: github enterprise-oss/osso
 url: https://ossoapp.com
-logo: /open-source/oso/logo.svg
+logo: /open-source-img/oso/logo.svg
 description: ''
 categories:
   - Developer Tools
@@ -18,4 +18,4 @@ relatedProjects:
 tutorials:
   - title: ''
     link: ''
-images: /public/open-source/oso/
+images: /public/open-source-img/oso/

@@ -3,12 +3,13 @@ createdAt: '2024-10-06T01:04:47.274Z'
 headlight: ☁️ Servidor Nextcloud, um lar seguro para todos os seus dados
 source: github nextcloud/server
 url: https://nextcloud.com
-logo: /open-source/nextcloud/logo.svg
+logo: /open-source-img/nextcloud/logo.svg
 description: ''
 categories:
   - Cloud
 alterantiveTo:
   - google-drive
+  - dropbox
 relatedProjects:
   - crowdsec
   - rfbx
@@ -18,4 +19,4 @@ relatedProjects:
 tutorials:
   - title: ''
     link: ''
-images: /public/open-source/nextcloud/
+images: /public/open-source-img/nextcloud/

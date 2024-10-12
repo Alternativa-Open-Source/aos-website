@@ -3,7 +3,7 @@ createdAt: '2024-10-06T00:50:40.025Z'
 headlight: Plataforma de acesso de confiança zero baseada em WireGuard® que oferece suporte à autenticação OIDC, sincronização de usuário/grupo e não requer configuração de firewall.
 source: github firezone/firezone
 url: https://www.firez.one/
-logo: /open-source/firezone/logo.png
+logo: /open-source-img/firezone/logo.png
 description: ''
 categories:
   - Cybersecurity
@@ -18,4 +18,4 @@ relatedProjects:
 tutorials:
   - title: ''
     link: ''
-images: /public/open-source/firezone/
+images: /public/open-source-img/firezone/

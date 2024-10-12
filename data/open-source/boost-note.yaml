@@ -3,7 +3,7 @@ createdAt: '2024-10-06T00:44:53.163Z'
 headlight: O Boost Note é uma ferramenta de gerenciamento de projetos orientada a documentos que maximiza a velocidade da equipe remota de DevOps.
 source: github BoostIO/BoostNote-App
 url: https://boostnote.io/
-logo: /open-source/boost-note/logo.png
+logo: /open-source-img/boost-note/logo.png
 description: ''
 categories:
   - Project Management
@@ -18,4 +18,4 @@ relatedProjects:
 tutorials:
   - title: ''
     link: ''
-images: /public/open-source/boost-note/
+images: /public/open-source-img/boost-note/

@@ -3,7 +3,7 @@ createdAt: '2024-10-06T00:50:24.167Z'
 headlight: Gerenciamento de usuários e autenticação SaaS
 source: github fief-dev/fief
 url: https://www.fief.dev/
-logo: /open-source/fief/logo.
+logo: /open-source-img/fief/logo.
 description: ''
 categories:
   - Auth & SSO
@@ -19,4 +19,4 @@ relatedProjects:
 tutorials:
   - title: ''
     link: ''
-images: /public/open-source/fief/
+images: /public/open-source-img/fief/

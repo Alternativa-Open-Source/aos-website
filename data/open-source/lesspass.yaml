@@ -3,7 +3,7 @@ createdAt: '2024-10-06T00:59:50.213Z'
 headlight: ':key: gerenciador de senhas de código aberto sem estado'
 source: github lesspass/lesspass
 url: https://www.lesspass.com/
-logo: /open-source/lesspass/logo.png
+logo: /open-source-img/lesspass/logo.png
 description: ''
 categories:
   - Password Managers
@@ -19,4 +19,4 @@ relatedProjects:
 tutorials:
   - title: ''
     link: ''
-images: /public/open-source/lesspass/
+images: /public/open-source-img/lesspass/

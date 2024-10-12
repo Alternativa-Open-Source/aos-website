@@ -3,7 +3,7 @@ createdAt: '2024-10-06T01:03:44.890Z'
 headlight: Movim - Plataforma social descentralizada
 source: github movim/movim
 url: https://movim.eu/
-logo: /open-source/movim/logo.png
+logo: /open-source-img/movim/logo.png
 description: ''
 categories:
   - Communication
@@ -21,4 +21,4 @@ relatedProjects:
 tutorials:
   - title: ''
     link: ''
-images: /public/open-source/movim/
+images: /public/open-source-img/movim/

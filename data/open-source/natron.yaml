@@ -3,7 +3,7 @@ createdAt: '2024-10-06T01:04:19.976Z'
 headlight: Software de composição de vídeo de código aberto. Baseado em Node-graph. Similar em funcionalidades ao Adobe After Effects e Nuke da The Foundry.
 source: github NatronGitHub/Natron
 url: https://natrongithub.github.io/
-logo: /open-source/natron/logo.png
+logo: /open-source-img/natron/logo.png
 description: ''
 categories:
   - Design
@@ -18,4 +18,4 @@ relatedProjects:
 tutorials:
   - title: ''
     link: ''
-images: /public/open-source/natron/
+images: /public/open-source-img/natron/

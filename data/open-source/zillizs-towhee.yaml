@@ -3,7 +3,7 @@ createdAt: '2024-10-06T01:38:47.338Z'
 headlight: Towhee é uma estrutura dedicada a tornar os pipelines de processamento de dados neurais simples e rápidos.
 source: github towhee-io/towhee
 url: https://towhee.io/
-logo: /open-source/zillizs-towhee/logo.png
+logo: /open-source-img/zillizs-towhee/logo.png
 description: ''
 categories:
   - ML Ops
@@ -17,4 +17,4 @@ relatedProjects:
 tutorials:
   - title: ''
     link: ''
-images: /public/open-source/zillizs-towhee/
+images: /public/open-source-img/zillizs-towhee/

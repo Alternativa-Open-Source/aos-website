@@ -3,7 +3,7 @@ createdAt: '2024-10-06T00:53:22.346Z'
 headlight: Gogs é um serviço Git auto-hospedado e sem complicações
 source: github gogs/gogs
 url: https://gogs.io/
-logo: /open-source/gogs/logo.png
+logo: /open-source-img/gogs/logo.png
 description: ''
 categories:
   - Developer Tools
@@ -19,4 +19,4 @@ relatedProjects:
 tutorials:
   - title: ''
     link: ''
-images: /public/open-source/gogs/
+images: /public/open-source-img/gogs/

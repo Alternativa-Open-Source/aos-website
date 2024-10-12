@@ -3,7 +3,7 @@ createdAt: '2024-10-06T01:01:32.364Z'
 headlight: O Mattermost é uma plataforma de código aberto para colaboração segura em todo o ciclo de vida de desenvolvimento de software.
 source: github mattermost/mattermost-server
 url: https://mattermost.com
-logo: /open-source/mattermost/logo.png
+logo: /open-source-img/mattermost/logo.png
 description: ''
 categories:
   - Communication
@@ -19,4 +19,4 @@ relatedProjects:
 tutorials:
   - title: ''
     link: ''
-images: /public/open-source/mattermost/
+images: /public/open-source-img/mattermost/

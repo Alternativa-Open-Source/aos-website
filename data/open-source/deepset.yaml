@@ -3,7 +3,7 @@ createdAt: '2024-10-06T01:39:21.702Z'
 headlight: ':mag: Estrutura de orquestração LLM para construir aplicativos LLM personalizáveis e prontos para produção. Conecte componentes (modelos, bancos de dados vetoriais, conversores de arquivo) a pipelines ou agentes que podem interagir com seus dados. Com métodos avançados de recuperação, é mais adequado para construir RAG, respostas a perguntas, pesquisa semântica ou chatbots de agentes conversacionais.'
 source: github deepset-ai/haystack
 url: https://www.deepset.ai/
-logo: /open-source/deepset/logo.png
+logo: /open-source-img/deepset/logo.png
 description: ''
 categories:
   - Enterprise Search
@@ -18,4 +18,4 @@ relatedProjects:
 tutorials:
   - title: ''
     link: ''
-images: /public/open-source/deepset/
+images: /public/open-source-img/deepset/

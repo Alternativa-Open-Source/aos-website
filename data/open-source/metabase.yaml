@@ -3,13 +3,16 @@ createdAt: '2024-10-06T01:02:22.870Z'
 headlight: 'A maneira mais simples e rápida de levar inteligência de negócios e análises para todos na sua empresa :yum:'
 source: github metabase/metabase
 url: https://www.metabase.com/
-logo: /open-source/metabase/logo.jpeg
+logo: /open-source-img/metabase/logo.jpeg
 description: ''
 categories:
   - Business intelligence
+  - Visual Database
 alterantiveTo:
   - tableau
   - data-studio
+  - power-bi
+  - qlik
 relatedProjects:
   - openreplay
   - fief
@@ -18,4 +21,4 @@ relatedProjects:
 tutorials:
   - title: ''
     link: ''
-images: /public/open-source/metabase/
+images: /public/open-source-img/metabase/

@@ -3,7 +3,7 @@ createdAt: '2024-10-06T01:07:15.737Z'
 headlight: Crie pipelines de dados de forma fácil 🛠️
 source: github orchest/orchest
 url: https://www.orchest.io/
-logo: /open-source/orchest/logo.png
+logo: /open-source-img/orchest/logo.png
 description: ''
 categories:
   - ELT/ETL
@@ -19,4 +19,4 @@ relatedProjects:
 tutorials:
   - title: ''
     link: ''
-images: /public/open-source/orchest/
+images: /public/open-source-img/orchest/

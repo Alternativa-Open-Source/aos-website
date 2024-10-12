@@ -3,7 +3,7 @@ createdAt: '2024-10-06T01:39:02.252Z'
 headlight: Servidor Zulip e aplicativo web. Bate-papo de equipe de código aberto que ajuda as equipes a permanecerem produtivas e focadas.
 source: github zulip/zulip
 url: https://zulip.com/
-logo: /open-source/zulip/logo.svg
+logo: /open-source-img/zulip/logo.svg
 description: ''
 categories:
   - Communication
@@ -20,4 +20,4 @@ relatedProjects:
 tutorials:
   - title: ''
     link: ''
-images: /public/open-source/zulip/
+images: /public/open-source-img/zulip/

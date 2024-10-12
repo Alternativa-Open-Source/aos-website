@@ -3,7 +3,7 @@ createdAt: '2024-10-06T00:38:58.805Z'
 headlight: Plataforma para construir painéis de administração, ferramentas internas e dashboards. Integra-se com mais de 25 bancos de dados e qualquer API.
 source: github appsmithorg/appsmith
 url: https://www.appsmith.com/
-logo: /open-source/appsmith/logo.png
+logo: /open-source-img/appsmith/logo.png
 description: ''
 categories:
   - Internal Tool
@@ -20,4 +20,4 @@ relatedProjects:
 tutorials:
   - title: ''
     link: ''
-images: /public/open-source/appsmith/
+images: /public/open-source-img/appsmith/

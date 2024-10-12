@@ -3,7 +3,7 @@ createdAt: '2024-10-06T00:57:06.979Z'
 headlight: Joplin - o aplicativo seguro para anotações e tarefas com recursos de sincronização para Windows, macOS, Linux, Android e iOS.
 source: github laurent22/joplin
 url: https://joplinapp.org/
-logo: /open-source/joplin/logo.jpeg
+logo: /open-source-img/joplin/logo.jpeg
 description: ''
 categories:
   - Notetaking
@@ -20,4 +20,4 @@ relatedProjects:
 tutorials:
   - title: ''
     link: ''
-images: /public/open-source/joplin/
+images: /public/open-source-img/joplin/

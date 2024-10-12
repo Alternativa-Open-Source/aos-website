@@ -3,12 +3,13 @@ createdAt: '2024-10-06T00:26:15.231Z'
 headlight: Software de contabilidade online
 source: github akaunting/akaunting
 url: https://akaunting.com/
-logo: /open-source/akaunting/logo.png
+logo: /open-source-img/akaunting/logo.png
 description: ''
 categories:
   - Accounting
 alterantiveTo:
   - quickbooks
+  - conta-azul
 relatedProjects:
   - offen
   - dbeaver
@@ -18,4 +19,4 @@ relatedProjects:
 tutorials:
   - title: ''
     link: ''
-images: /public/open-source/akaunting/
+images: /public/open-source-img/akaunting/

@@ -3,7 +3,7 @@ createdAt: '2024-10-06T00:50:24.503Z'
 headlight: Gerenciador de upload/download de internet multiplataforma para HTTP(S), FTP(S), SSH, magnet-link, BitTorrent, m3u8, ed2k e vídeos online. Cliente WebDAV, cliente FTP, cliente SSH.
 source: github filecxx/FileCentipede
 url: http://filecxx.com/en_US/index.html
-logo: /open-source/file-centipede/logo.png
+logo: /open-source-img/file-centipede/logo.png
 description: ''
 categories:
   - Platform as a service
@@ -20,4 +20,4 @@ relatedProjects:
 tutorials:
   - title: ''
     link: ''
-images: /public/open-source/file-centipede/
+images: /public/open-source-img/file-centipede/

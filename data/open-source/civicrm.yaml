@@ -3,7 +3,7 @@ createdAt: '2024-10-06T00:45:52.223Z'
 headlight: CiviCRM (Aplicação e Framework Básico)
 source: github civicrm/civicrm-core
 url: https://github.com/civicrm/civicrm-core
-logo: /open-source/civicrm/logo.png
+logo: /open-source-img/civicrm/logo.png
 description: ''
 categories:
   - CRM
@@ -20,4 +20,4 @@ relatedProjects:
 tutorials:
   - title: ''
     link: ''
-images: /public/open-source/civicrm/
+images: /public/open-source-img/civicrm/

@@ -3,7 +3,7 @@ createdAt: '2024-10-06T00:39:46.550Z'
 headlight: Ferramentas de criação de conteúdo 3D
 source: github armory3d/armorpaint
 url: https://armorpaint.org/
-logo: /open-source/armorpaint/logo.png
+logo: /open-source-img/armorpaint/logo.png
 description: ''
 categories:
   - 3D Modelling
@@ -17,4 +17,4 @@ relatedProjects:
 tutorials:
   - title: ''
     link: ''
-images: /public/open-source/armorpaint/
+images: /public/open-source-img/armorpaint/

@@ -3,7 +3,7 @@ createdAt: '2024-10-06T01:33:15.813Z'
 headlight: 'O frontend de código aberto para qualquer eCommerce. Construído com uma abordagem PWA e headless, usando uma pilha JS moderna. Temos integrações personalizadas com Magento, commercetools, Shopware e Shopify e a cobertura total é apenas uma questão de tempo. A abordagem de API também permite que você mescle o VSF com qualquer ferramenta de terceiros, como CMS, gateways de pagamento ou análises. Atualizações mais recentes: https://blog.vuestorefront.io. Sempre código aberto, licença MIT.'
 source: github vuestorefront/vue-storefront
 url: https://www.vuestorefront.io/
-logo: /open-source/vue-storefront/logo.png
+logo: /open-source-img/vue-storefront/logo.png
 description: ''
 categories:
   - E-commerce
@@ -18,4 +18,4 @@ relatedProjects:
 tutorials:
   - title: ''
     link: ''
-images: /public/open-source/vue-storefront/
+images: /public/open-source-img/vue-storefront/

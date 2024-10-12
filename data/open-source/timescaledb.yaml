@@ -3,7 +3,7 @@ createdAt: '2024-10-06T01:30:40.886Z'
 headlight: Um banco de dados SQL de séries temporais de código aberto otimizado para ingestão rápida e consultas complexas. Empacotado como uma extensão PostgreSQL.
 source: github timescale/timescaledb
 url: https://www.timescale.com/
-logo: /open-source/timescaledb/logo.png
+logo: /open-source-img/timescaledb/logo.png
 description: ''
 categories:
   - Database
@@ -18,4 +18,4 @@ relatedProjects:
 tutorials:
   - title: ''
     link: ''
-images: /public/open-source/timescaledb/
+images: /public/open-source-img/timescaledb/

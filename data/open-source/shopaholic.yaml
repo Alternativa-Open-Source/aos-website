@@ -3,7 +3,7 @@ createdAt: '2024-10-06T01:23:08.591Z'
 headlight: 🛍️ Plataforma de e-commerce nº 1 para o October CMS
 source: github oc-shopaholic/oc-shopaholic-plugin
 url: https://shopaholic.one
-logo: /open-source/shopaholic/logo.svg
+logo: /open-source-img/shopaholic/logo.svg
 description: ''
 categories:
   - E-commerce
@@ -18,4 +18,4 @@ relatedProjects:
 tutorials:
   - title: ''
     link: ''
-images: /public/open-source/shopaholic/
+images: /public/open-source-img/shopaholic/

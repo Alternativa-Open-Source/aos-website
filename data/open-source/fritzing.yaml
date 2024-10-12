@@ -3,7 +3,7 @@ createdAt: '2024-10-06T00:52:12.619Z'
 headlight: Aplicativo de desktop com problemas
 source: github fritzing/fritzing-app
 url: https://fritzing.org/
-logo: /open-source/fritzing/logo.png
+logo: /open-source-img/fritzing/logo.png
 description: ''
 categories:
   - Community
@@ -19,4 +19,4 @@ relatedProjects:
 tutorials:
   - title: ''
     link: ''
-images: /public/open-source/fritzing/
+images: /public/open-source-img/fritzing/

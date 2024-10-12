@@ -3,7 +3,7 @@ createdAt: '2024-10-06T00:44:50.829Z'
 headlight: Uma plataforma para criar documentação/conteúdo wiki construído com PHP e Laravel
 source: github BookStackApp/BookStack
 url: https://www.bookstackapp.com/
-logo: /open-source/bookstack/logo.png
+logo: /open-source-img/bookstack/logo.png
 description: ''
 categories:
   - Documentation
@@ -21,4 +21,4 @@ relatedProjects:
 tutorials:
   - title: ''
     link: ''
-images: /public/open-source/bookstack/
+images: /public/open-source-img/bookstack/

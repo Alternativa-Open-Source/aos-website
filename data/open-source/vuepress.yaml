@@ -3,7 +3,7 @@ createdAt: '2024-10-06T01:33:20.639Z'
 headlight: 📝 Gerador de site estático minimalista com tecnologia Vue
 source: github vuejs/vuepress
 url: https://vuepress.vuejs.org/
-logo: /open-source/vuepress/logo.png
+logo: /open-source-img/vuepress/logo.png
 description: ''
 categories:
   - Documentation
@@ -18,4 +18,4 @@ relatedProjects:
 tutorials:
   - title: ''
     link: ''
-images: /public/open-source/vuepress/
+images: /public/open-source-img/vuepress/

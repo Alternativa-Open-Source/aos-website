@@ -3,7 +3,7 @@ createdAt: '2024-10-06T00:51:54.551Z'
 headlight: Para capacitar a comunidade 🌱
 source: github forem/forem
 url: https://www.forem.com/
-logo: /open-source/forem/logo.png
+logo: /open-source-img/forem/logo.png
 description: ''
 categories:
   - Community
@@ -19,4 +19,4 @@ relatedProjects:
 tutorials:
   - title: ''
     link: ''
-images: /public/open-source/forem/
+images: /public/open-source-img/forem/

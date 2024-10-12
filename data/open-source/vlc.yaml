@@ -3,7 +3,7 @@ createdAt: '2024-10-06T01:32:29.901Z'
 headlight: VLC media player - Todas as solicitações de pull são ignoradas, siga https://wiki.videolan.org/Sending_Patches_VLC/
 source: github videolan/vlc
 url: http://www.videolan.org/vlc/
-logo: /open-source/vlc/logo.png
+logo: /open-source-img/vlc/logo.png
 description: ''
 categories:
   - Music
@@ -18,4 +18,4 @@ relatedProjects:
 tutorials:
   - title: ''
     link: ''
-images: /public/open-source/vlc/
+images: /public/open-source-img/vlc/

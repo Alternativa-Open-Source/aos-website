@@ -3,7 +3,7 @@ createdAt: '2024-10-06T00:50:35.210Z'
 headlight: 🦄 Um cliente web moderno para SFTP, S3, FTP, WebDAV, Git, Minio, LDAP, CalDAV, CardDAV, Mysql, Backblaze, ...
 source: github mickael-kerjean/filestash
 url: https://www.filestash.app/
-logo: /open-source/filestash/logo.png
+logo: /open-source-img/filestash/logo.png
 description: ''
 categories:
   - File Hosting
@@ -19,4 +19,4 @@ relatedProjects:
 tutorials:
   - title: ''
     link: ''
-images: /public/open-source/filestash/
+images: /public/open-source-img/filestash/

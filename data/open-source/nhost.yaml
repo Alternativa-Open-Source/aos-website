@@ -3,7 +3,7 @@ createdAt: '2024-10-06T01:04:49.683Z'
 headlight: A alternativa de código aberto ao Firebase com GraphQL.
 source: github nhost/nhost
 url: https://nhost.io/
-logo: /open-source/nhost/logo.jpeg
+logo: /open-source-img/nhost/logo.jpeg
 description: ''
 categories:
   - Backend service
@@ -18,4 +18,4 @@ relatedProjects:
 tutorials:
   - title: ''
     link: ''
-images: /public/open-source/nhost/
+images: /public/open-source-img/nhost/

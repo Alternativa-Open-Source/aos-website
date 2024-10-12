@@ -3,7 +3,7 @@ createdAt: '2024-10-06T00:51:08.972Z'
 headlight: O Focalboard é uma alternativa de código aberto e auto-hospedada ao Trello, Notion e Asana.
 source: github mattermost/focalboard
 url: https://www.focalboard.com/
-logo: /open-source/focalboard/logo.png
+logo: /open-source-img/focalboard/logo.png
 description: ''
 categories:
   - Project Management
@@ -20,4 +20,4 @@ relatedProjects:
 tutorials:
   - title: ''
     link: ''
-images: /public/open-source/focalboard/
+images: /public/open-source-img/focalboard/

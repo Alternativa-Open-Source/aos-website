@@ -3,7 +3,7 @@ createdAt: '2024-10-06T01:31:31.757Z'
 headlight: Alternativa de código aberto para Algolia + Pinecone e uma alternativa mais fácil de usar para ElasticSearch ⚡ 🔍 ✨ Mecanismo de busca rápido, tolerante a erros de digitação e fuzzy na memória para criar experiências de busca agradáveis
 source: github typesense/typesense
 url: https://typesense.org/
-logo: /open-source/typesense/logo.png
+logo: /open-source-img/typesense/logo.png
 description: ''
 categories:
   - Developer Tools
@@ -18,4 +18,4 @@ relatedProjects:
 tutorials:
   - title: ''
     link: ''
-images: /public/open-source/typesense/
+images: /public/open-source-img/typesense/

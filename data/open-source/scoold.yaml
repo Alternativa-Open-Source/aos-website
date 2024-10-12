@@ -3,7 +3,7 @@ createdAt: '2024-10-06T01:18:37.028Z'
 headlight: Um clone do Stack Overflow para equipes (auto-hospedadas ou hospedadas)
 source: github Erudika/scoold
 url: https://scoold.com/
-logo: /open-source/scoold/logo.png
+logo: /open-source-img/scoold/logo.png
 description: ''
 categories:
   - Project Management
@@ -18,4 +18,4 @@ relatedProjects:
 tutorials:
   - title: ''
     link: ''
-images: /public/open-source/scoold/
+images: /public/open-source-img/scoold/

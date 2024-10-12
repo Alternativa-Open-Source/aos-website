@@ -3,7 +3,7 @@ createdAt: '2024-10-06T01:05:33.539Z'
 headlight: OpenID Certified™ OpenID Connect e OAuth Provider escritos em Go - segurança de API nativa da nuvem, segurança em primeiro lugar, código aberto para sua infraestrutura. SDKs para qualquer idioma. Funciona com módulos de segurança de hardware. Compatível com MITREid.
 source: github ory/hydra
 url: https://www.ory.sh/
-logo: /open-source/ory/logo.png
+logo: /open-source-img/ory/logo.png
 description: ''
 categories:
   - Auth & SSO
@@ -19,4 +19,4 @@ relatedProjects:
 tutorials:
   - title: ''
     link: ''
-images: /public/open-source/ory/
+images: /public/open-source-img/ory/

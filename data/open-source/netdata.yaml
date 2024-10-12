@@ -3,7 +3,7 @@ createdAt: '2024-10-06T01:04:39.716Z'
 headlight: A plataforma de observabilidade de código aberto que todos precisam!
 source: github netdata/netdata
 url: https://www.netdata.cloud/
-logo: /open-source/netdata/logo.png
+logo: /open-source-img/netdata/logo.png
 description: ''
 categories:
   - Observability and monitoring
@@ -19,4 +19,4 @@ relatedProjects:
 tutorials:
   - title: ''
     link: ''
-images: /public/open-source/netdata/
+images: /public/open-source-img/netdata/

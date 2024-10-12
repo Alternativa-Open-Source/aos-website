@@ -3,7 +3,7 @@ createdAt: '2024-10-06T01:31:39.361Z'
 headlight: Um gráfico de conhecimento local e universal, um mecanismo de busca pessoal e um espaço de trabalho para sua vida.
 source: github unigraph-dev/unigraph-dev
 url: https://unigraph.dev/
-logo: /open-source/unigraph/logo.png
+logo: /open-source-img/unigraph/logo.png
 description: ''
 categories:
   - Platform as a service
@@ -19,4 +19,4 @@ relatedProjects:
 tutorials:
   - title: ''
     link: ''
-images: /public/open-source/unigraph/
+images: /public/open-source-img/unigraph/

@@ -3,7 +3,7 @@ createdAt: '2024-10-06T00:34:51.803Z'
 headlight: AppFlowy é uma alternativa de código aberto ao Notion. Você é responsável pelos seus dados e personalizações. Construído com Flutter e Rust.
 source: github AppFlowy-IO/appflowy
 url: https://www.appflowy.io/
-logo: /open-source/appflowy/logo.png
+logo: /open-source-img/appflowy/logo.png
 description: ''
 categories:
   - Documentation
@@ -18,4 +18,4 @@ relatedProjects:
 tutorials:
   - title: ''
     link: ''
-images: /public/open-source/appflowy/
+images: /public/open-source-img/appflowy/

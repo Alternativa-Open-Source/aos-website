@@ -3,10 +3,11 @@ createdAt: '2024-10-06T01:16:34.358Z'
 headlight: Torne sua empresa orientada por dados. Conecte-se a qualquer fonte de dados, visualize facilmente, faça um painel e compartilhe seus dados.
 source: github getredash/redash
 url: https://redash.io/
-logo: /open-source/redash/logo.png
+logo: /open-source-img/redash/logo.png
 description: ''
 categories:
   - Visual Database
+  - Business intelligence
 alterantiveTo:
   - power-bi
   - tableau
@@ -21,4 +22,4 @@ relatedProjects:
 tutorials:
   - title: ''
     link: ''
-images: /public/open-source/redash/
+images: /public/open-source-img/redash/

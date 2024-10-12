@@ -3,7 +3,7 @@ createdAt: '2024-10-06T00:56:39.285Z'
 headlight: Faturas, Despesas e Tarefas criadas com Laravel, Flutter e React
 source: github invoiceninja/invoiceninja
 url: https://www.invoiceninja.com/
-logo: /open-source/invoiceninja/logo.png
+logo: /open-source-img/invoiceninja/logo.png
 description: ''
 categories:
   - Finances
@@ -18,4 +18,4 @@ relatedProjects:
 tutorials:
   - title: ''
     link: ''
-images: /public/open-source/invoiceninja/
+images: /public/open-source-img/invoiceninja/

@@ -3,7 +3,7 @@ createdAt: '2024-10-06T01:12:39.071Z'
 headlight: Uma ferramenta de criptografia muito pequena, muito simples, mas muito segura.
 source: github HACKERALERT/Picocrypt
 url: https://github.com/HACKERALERT/Picocrypt
-logo: /open-source/picocrypt/logo.png
+logo: /open-source-img/picocrypt/logo.png
 description: ''
 categories:
   - Cybersecurity
@@ -19,4 +19,4 @@ relatedProjects:
 tutorials:
   - title: ''
     link: ''
-images: /public/open-source/picocrypt/
+images: /public/open-source-img/picocrypt/

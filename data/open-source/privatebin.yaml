@@ -3,10 +3,10 @@ createdAt: '2024-10-06T01:15:01.816Z'
 headlight: Um pastebin online minimalista e de código aberto onde o servidor tem conhecimento zero dos dados colados. Os dados são criptografados/descriptografados no navegador usando AES de 256 bits.
 source: github PrivateBin/PrivateBin
 url: https://privatebin.info/
-logo: /open-source/privatebin/logo.png
+logo: /open-source-img/privatebin/logo.png
 description: ''
 categories:
-  - ''
+  - 'Clipboard'
 alterantiveTo:
   - pastebin
 relatedProjects:
@@ -18,4 +18,4 @@ relatedProjects:
 tutorials:
   - title: ''
     link: ''
-images: /public/open-source/privatebin/
+images: /public/open-source-img/privatebin/

@@ -3,7 +3,7 @@ createdAt: '2024-10-06T00:55:07.562Z'
 headlight: Crie agentes que monitoram e agem em seu nome. Seus agentes estão de prontidão!
 source: github huginn/huginn
 url: https://github.com/huginn/huginn
-logo: /open-source/huginn/logo.png
+logo: /open-source-img/huginn/logo.png
 description: ''
 categories:
   - Automation
@@ -18,4 +18,4 @@ relatedProjects:
 tutorials:
   - title: ''
     link: ''
-images: /public/open-source/huginn/
+images: /public/open-source-img/huginn/

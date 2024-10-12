@@ -3,7 +3,7 @@ createdAt: '2024-10-06T00:48:41.468Z'
 headlight: Uma plataforma para discussão comunitária. Livre, aberta, simples.
 source: github discourse/discourse
 url: https://www.discourse.org/
-logo: /open-source/discourse/logo.png
+logo: /open-source-img/discourse/logo.png
 description: ''
 categories:
   - Community
@@ -19,4 +19,4 @@ relatedProjects:
 tutorials:
   - title: ''
     link: ''
-images: /public/open-source/discourse/
+images: /public/open-source-img/discourse/

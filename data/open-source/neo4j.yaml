@@ -3,7 +3,7 @@ createdAt: '2024-10-06T01:04:27.617Z'
 headlight: Gráficos para todos
 source: github neo4j/neo4j
 url: https://neo4j.com/
-logo: /open-source/neo4j/logo.png
+logo: /open-source-img/neo4j/logo.png
 description: ''
 categories:
   - Database
@@ -19,4 +19,4 @@ relatedProjects:
 tutorials:
   - title: ''
     link: ''
-images: /public/open-source/neo4j/
+images: /public/open-source-img/neo4j/
