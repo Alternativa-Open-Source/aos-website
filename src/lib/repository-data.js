@@ -32,8 +32,8 @@ export const parseProvider = (source) => {
 
 const getGitHubRepoData = async (projectId) => {
   const token = process.env.ENV_GITHUB_TOKEN;
-  
-  if (!token) console.log(`Parsing ${projectId} without token`)
+
+  if (!token) console.log(`Parsing ${projectId} without token`);
 
   const url = `https://api.github.com/repos/${projectId}`;
 
@@ -47,8 +47,20 @@ const getGitHubRepoData = async (projectId) => {
 
   const response = await fetch(url, params);
   if (!response.ok) {
+    console.error(`Failed to fetch data ${url}`);
     console.error(await response.json());
-    throw new Error(`Failed to fetch data ${url}`);
+    return {
+      name: projectId,
+      sourceUrl: `https://github.com/${projectId}`,
+      license: "Not found",
+      language: "",
+      stargazers: 0,
+      size: 0,
+      forks: 0,
+      issues: 0,
+      createdAt: new Date().toISOString(),
+      generatedAt: new Date().toISOString(),
+    };
   }
 
   const data = await response.json();
