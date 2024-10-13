@@ -3,7 +3,7 @@ createdAt: '2024-10-06T01:24:00.379Z'
 headlight: 🦔 Backend de pesquisa rápido, leve e sem esquema. Uma alternativa ao Elasticsearch que roda em alguns MBs de RAM.
 source: github valeriansaliou/sonic
 url: https://crates.io/crates/sonic-server
-logo: /open-source-img/sonic/logo.
+logo: /open-source-img/sonic/logo.png
 description: ''
 categories:
   - Enterprise Search

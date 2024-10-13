@@ -3,7 +3,7 @@ createdAt: '2024-10-06T00:51:06.872Z'
 headlight: Aplicativo nativo da nuvem que redimensiona e corta imagens instantaneamente, entregando imagens otimizadas em formatos como AVIF, WebP, MozJPEG ou PNG usando o ImageMagick, com um sistema de cache eficiente.
 source: github flyimg/flyimg
 url: https://flyimg.io/
-logo: /open-source-img/flyimg/logo.
+logo: /open-source-img/flyimg/logo.png
 description: ''
 categories:
   - Design
