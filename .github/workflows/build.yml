@@ -22,3 +22,6 @@ jobs:
       env:
         ENV_GITHUB_TOKEN: ${{ secrets.ENV_GITHUB_TOKEN }}
     - run: ls out/
+
+    # the build is to check the integrity of the project
+    # the deployment is done by netlify.com

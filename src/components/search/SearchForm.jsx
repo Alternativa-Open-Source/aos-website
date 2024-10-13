@@ -24,10 +24,10 @@ export function SearchForm() {
 
   return (
     <div className="w-full p-8 rounded-2xl bg-[#556B2F] text-white">
-      <h2 className="text-3xl font-bold text-center mb-4">Buscar Projetos Open-Source      </h2>
+      <h2 className="text-3xl font-bold text-center mb-4">Buscar Projetos Open-Source </h2>
       <p className="text-center mb-8 text-indigo-100">
-      Encontre a ferramenta de código aberto perfeita para suas necessidades <br />
-      (busque por nome do projeto, categoria ou ferramenta alternativa)
+        Encontre a ferramenta de código aberto perfeita para suas necessidades <br />
+        (busque por nome do projeto, categoria ou ferramenta alternativa)
       </p>
       <form onSubmit={handleSearch}>
         <div className="flex items-center bg-white rounded-lg overflow-hidden p-1 text-black">
@@ -43,9 +43,9 @@ export function SearchForm() {
             </SelectContent>
           </Select>
           <Input name="query" type="text" placeholder="Search open-source projects or alternatives" className="flex-grow border-none focus:ring-0 text-gray-900" defaultValue={query} />
-          <Button type="submit" className=" px-6 py-2 rounded-lg">
+          <Button type="submit" className="px-6 py-2 rounded-lg">
             <Search className="w-5 h-5 mr-2" />
-            Search
+            <span className="hidden md:block">Search</span>
           </Button>
         </div>
       </form>

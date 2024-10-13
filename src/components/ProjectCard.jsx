@@ -10,7 +10,7 @@ import { ProjectAlternatives } from "./ProjectAlternatives";
 export function ProjectCard({ project, showDetails = true }) {
   return (
     <Card className="flex flex-col h-full">
-      <CardHeader className="flex-row gap-4 items-center">
+      <CardHeader className="sm:flex sm:items-center md:flex-row gap-4 md:items-center">
         <ProjectImage project={project} width={32} height={32} />
         <div>
           <CardTitle className="text-2xl">
