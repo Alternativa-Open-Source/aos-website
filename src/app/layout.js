@@ -1,3 +1,4 @@
+import { GoogleTagManager } from "@next/third-parties/google";
 import { Inter } from "next/font/google";
 import clsx from "clsx";
 
@@ -21,6 +22,7 @@ export const metadata = {
 export default function RootLayout({ children }) {
   return (
     <html lang="pt-br">
+      <GoogleTagManager gtmId={process.env.NEXT_PUBLIC_GOOGLE_TAG_MANAGER_ID} />
       <body className={clsx("bg-gray-50 antialiased", inter.variable)}>
         <Layout>{children}</Layout>
       </body>
