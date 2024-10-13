@@ -11,10 +11,10 @@ jobs:
     steps:
     - uses: actions/checkout@v4
     - name: Use Node.js 18.x
-      env:
-        ENV_GITHUB_TOKEN: ${{ secrets.ENV_GITHUB_TOKEN }}
 
       uses: actions/setup-node@v4
+      env:
+        ENV_GITHUB_TOKEN: ${{ secrets.ENV_GITHUB_TOKEN }}
       with:
         node-version: 18.x
         cache: "npm"
