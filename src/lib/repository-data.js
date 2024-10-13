@@ -32,6 +32,9 @@ export const parseProvider = (source) => {
 
 const getGitHubRepoData = async (projectId) => {
   const token = process.env.ENV_GITHUB_TOKEN;
+  
+  if (!token) console.log(`Parsing ${projectId} without token`)
+
   const url = `https://api.github.com/repos/${projectId}`;
 
   const params = token
