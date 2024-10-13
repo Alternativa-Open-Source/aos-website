@@ -12,10 +12,10 @@ const inter = Inter({
 
 export const metadata = {
   title: {
-    template: "%s - Pocket",
-    default: "Pocket - Invest at the perfect time.",
+    template: "%s - Alternativa Open Source",
+    default: "Alternativa Open Source - Livre-se das assinaturas recorrentes",
   },
-  description: "By leveraging insights from our network of industry insiders, you’ll know exactly when to buy to maximize profit, and exactly when to sell to avoid painful losses.",
+  description: "Encontre a ferramenta de código aberto perfeita para suas necessidades. Lembre-se, para cada SaaS pago, há uma alternativa gratuita, de código aberto e self-hosted.",
 };
 
 export default function RootLayout({ children }) {

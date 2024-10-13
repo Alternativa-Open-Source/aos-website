@@ -12,6 +12,16 @@ export async function generateStaticParams() {
   return slugs;
 }
 
+export async function generateMetadata({ params, searchParams }, parent) {
+  const slug = params.slug;
+  const alternativeTo = await getAlternativeToBySlug(slug);
+
+  return {
+    title: `Alternativa Open Source para ${alternativeTo.name}`,
+    description: `Nesta página você encontra alternativas open-sorce para ${alternativeTo.name}. ${alternativeTo.headlight}`,
+  };
+}
+
 export default async function AlternativeToPage({ params }) {
   const slug = params.slug;
   const alternativeTo = await getAlternativeToBySlug(slug);

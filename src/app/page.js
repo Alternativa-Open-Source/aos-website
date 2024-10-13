@@ -8,6 +8,11 @@ import { getAlternativeToBySlug } from "@/lib/data/alternative-to";
 import { getOpenSourceBySlug } from "@/lib/data/open-source";
 import { ArrowRight } from "lucide-react";
 
+
+export const metadata = {
+  description: "Encontre a ferramenta de código aberto perfeita para suas necessidades. Lembre-se, para cada SaaS pago, há uma alternativa gratuita, de código aberto e self-hosted. Alternativas para RD-Station, Conta Azul, Calendly, Shopify, entre outros.",
+};
+
 export default async function Home() {
   const homeItems = [
     { saas: "rdstation", openSource: "mautic" },
