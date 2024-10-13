@@ -9,20 +9,17 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-    - shell: bash
+    - uses: actions/checkout@v4
+    - name: Use Node.js 18.x
       env:
         ENV_GITHUB_TOKEN: ${{ secrets.ENV_GITHUB_TOKEN }}
-      run: |
-        echo "$ENV_GITHUB_TOKEN"
 
-    # - uses: actions/checkout@v4
-    # - name: Use Node.js 18.x
-    #   env:
-    #     ENV_GITHUB_TOKEN: ${{ secrets.ENV_GITHUB_TOKEN }}
-    #   uses: actions/setup-node@v4
-    #   with:
-    #     node-version: ${{ matrix.node-version }}
-    #     cache: 'npm'
+      uses: actions/setup-node@v4
+      with:
+        node-version: 18.x
+        cache: "npm"
+
+    - run: node listenv.js
     # - run: npm ci
     # - run: npm run build
     # - run: ls out/
