@@ -13,7 +13,7 @@ jobs:
       env:
         ENV_GITHUB_TOKEN: ${{ secrets.ENV_GITHUB_TOKEN }}
       run: |
-        example-command "$ENV_GITHUB_TOKEN"
+        echo "$ENV_GITHUB_TOKEN"
 
     # - uses: actions/checkout@v4
     # - name: Use Node.js 18.x
