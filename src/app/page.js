@@ -61,7 +61,7 @@ export default async function Home() {
         </Suspense>
 
         <div className="container mx-auto py-12 md:px-4 sm:px-0">
-          <h2 className="text-3xl font-bold text-center">SaaS vs Open Source Alternatives</h2>
+          <h2 className="text-3xl font-bold text-center">SaaS vs Open Source Alternativas</h2>
           <p className="my-10 text-lg text-center text-gray-600">Lembre-se, para cada SaaS pago, há uma alternativa gratuita, de código aberto e self-hosted:</p>
           <div className="space-y-6">
             {comparisons.map((comparison, index) => (
