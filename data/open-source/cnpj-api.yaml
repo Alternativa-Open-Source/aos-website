@@ -1,0 +1,24 @@
+name: CNPJ API
+createdAt: '2026-05-17T00:00:00.000Z'
+headlight: API para consulta de dados de empresas brasileiras. Acesse informações da Receita Federal, Simples Nacional e logos em uma única chamada. O pacote Agent Skills (MIT) integra com Claude Code, Cursor e outros.
+source: github cnpj-api/skills
+url: https://cnpj-api.com
+logo: /open-source-img/cnpj-api/logo.svg
+description: ''
+categories:
+  - Business Data
+alterantiveTo: []
+relatedProjects:
+  - n8n
+  - supabase
+  - appwrite
+  - directus
+  - parse-server
+tutorials:
+  - title: 'CNPJ no Excel: como formatar, validar e consultar dados da Receita Federal'
+    link: 'https://cnpj-api.com/blog/cnpj-no-excel'
+  - title: 'A melhor API de consulta de CNPJ em 2026: comparativo entre as principais opções do Brasil'
+    link: 'https://cnpj-api.com/blog/melhor-api-consulta-cnpj'
+  - title: 'Como preencher dados de CNPJ automaticamente no Google Sheets'
+    link: 'https://cnpj-api.com/blog/google-sheets-cnpj-api'
+images: /public/open-source-img/cnpj-api/
