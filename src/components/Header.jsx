@@ -48,7 +48,7 @@ export function Header() {
                 <SheetContent side="left">
                   <SheetHeader>
                     <SheetTitle>
-                      <Logo className="w-22 mb-5" />
+                      <Logo className="mb-5" />
                     </SheetTitle>
                     <SheetDescription>
                       <div className="flex flex-col gap-4 w-full text-xl">
