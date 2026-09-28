@@ -1,0 +1,18 @@
+name: pqp
+createdAt: '2026-09-28T21:00:00.000Z'
+headlight: Chat de voz e texto com compartilhamento de tela e watch party, no formato servidor/canal do Discord. Web, desktop, Android e iOS (beta). AGPL-3.0.
+source: github rafaelcg/pqp
+url: https://pqp.gg
+logo: /open-source-img/pqp/logo.png
+description: ''
+categories:
+  - Communication
+alterantiveTo:
+  - discord
+relatedProjects:
+  - revolt
+  - cinny
+tutorials:
+  - title: ''
+    link: ''
+images: /public/open-source-img/pqp/
