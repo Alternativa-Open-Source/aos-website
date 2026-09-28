@@ -13,7 +13,7 @@ export const listCategories = async () => {
   ).map((category) => ({ name: category, slug: slugify(category) }));
 
   // cache the categories to allow reading later
-  categories.forEach((category) => saveCategoryCache(category, filesWithRepo));
+  await Promise.all(categories.map((category) => saveCategoryCache(category, filesWithRepo)));
 
   return categories;
 };
