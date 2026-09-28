@@ -42,7 +42,7 @@ export function SearchForm() {
               <SelectItem value="alternatives">Ferramentas SASS</SelectItem>
             </SelectContent>
           </Select>
-          <Input name="query" type="text" placeholder="Search open-source projects or alternatives" className="flex-grow border-none focus:ring-0 text-gray-900" defaultValue={query} />
+          <Input name="query" type="text" placeholder="Search open-source projects or alternatives" className="grow border-none focus:ring-0 text-gray-900" defaultValue={query} />
           <Button type="submit" className="px-6 py-2 rounded-lg">
             <Search className="w-5 h-5 mr-2" />
             <span className="hidden md:block">Search</span>

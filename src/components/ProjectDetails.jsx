@@ -1,7 +1,7 @@
 import { Button } from "@/components/ui/button";
 import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card";
-import { ExternalLink, Github, Star, GitFork, AlertCircle } from "lucide-react";
-import { ExclamationTriangleIcon } from "@radix-ui/react-icons";
+import { ExternalLink, Star, GitFork, AlertCircle } from "lucide-react";
+import { ExclamationTriangleIcon, GitHubLogoIcon } from "@radix-ui/react-icons";
 
 import { MayfairSlider } from "@/components/custom/MayfairSlider";
 import { NewLineToBreakLine, parseDateBr } from "@/utils/textUtils";
@@ -35,7 +35,7 @@ export function ProjectDetails({ project, relatedProjects }) {
           <div className="flex space-x-2">
             <a href={project.repoData.sourceUrl} target="_blank">
               <Button variant="outline">
-                <Github className="mr-2 h-4 w-4" />
+                <GitHubLogoIcon className="mr-2 h-4 w-4" />
                 View Source
               </Button>
             </a>

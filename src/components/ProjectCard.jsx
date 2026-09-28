@@ -19,7 +19,7 @@ export function ProjectCard({ project, showDetails = true }) {
           <ProjectCategories categories={project.yaml.categories} />
         </div>
       </CardHeader>
-      <CardContent className="flex-grow flex flex-col justify-between">
+      <CardContent className="grow flex flex-col justify-between">
         <p className="text-muted-foreground mb-4">
           <ProjectAlternatives project={project} />
         </p>

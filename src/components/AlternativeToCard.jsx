@@ -18,7 +18,7 @@ export function AlternativeToCard({ alternativeTo }) {
           </CardTitle>
         </div>
       </CardHeader>
-      <CardContent className="flex-grow flex flex-col justify-between">
+      <CardContent className="grow flex flex-col justify-between">
         <p className="text-muted-foreground mb-4">{alternativeTo.headlight}</p>
       </CardContent>
     </Card>

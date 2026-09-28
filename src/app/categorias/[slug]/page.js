@@ -12,8 +12,8 @@ export async function generateStaticParams() {
   return slugs;
 }
 
-export async function generateMetadata({ params, searchParams }, parent) {
-  const slug = params.slug;
+export async function generateMetadata({ params }) {
+  const { slug } = await params;
   const category = await readCategory(slug);
 
   return {
@@ -23,7 +23,7 @@ export async function generateMetadata({ params, searchParams }, parent) {
 }
 
 export default async function CategoryPage({ params }) {
-  const slug = params.slug;
+  const { slug } = await params;
   const category = await readCategory(slug);
   const projectsOfCategory = category.projects && (await Promise.all(category.projects.map(async (project) => await getOpenSourceBySlug(project))));
 
