@@ -69,7 +69,7 @@ export default async function Home() {
                 <div className="w-1/2 md:pr-4 sm:pr-0">
                   <AlternativeToCard alternativeTo={comparison.saas} />
                 </div>
-                <div className="flex-shrink-0 mt-4 md:mx-4 sm:mx-0">
+                <div className="shrink-0 mt-4 md:mx-4 sm:mx-0">
                   <ArrowRight className="text-gray-400 mt-14 w-10 h-10" />
                 </div>
                 <div className="w-1/2">

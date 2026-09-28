@@ -83,9 +83,9 @@ export default function HowUpdatePages() {
                   .
                 </p>
                 <ol className="list-decimal list-inside space-y-2">
-                  <li>Na página de um projeto open source, clique na opção 'Editar essa página {">"} Editar no Github'.</li>
+                  <li>Na página de um projeto open source, clique na opção &apos;Editar essa página {">"} Editar no Github&apos;.</li>
                   <li>Caso necessário, faça login no GitHub</li>
-                  <li>Use a opção "Fork this repository"</li>
+                  <li>Use a opção &quot;Fork this repository&quot;</li>
                 </ol>
                 <div className="relative w-full h-64 bg-gray-200 rounded-lg overflow-hidden">
                   <Image src="/como-editar-paginas/fork-project.png" alt="Forking a repository on GitHub" layout="fill" objectFit="cover" />
@@ -117,9 +117,9 @@ export default function HowUpdatePages() {
               <div className="space-y-4">
                 <p>Depois de fazer suas edições, você precisará fazer o commit das alterações:</p>
                 <ol className="list-decimal list-inside space-y-2">
-                  <li>Clique em "Commit changes" no topo.</li>
+                  <li>Clique em &quot;Commit changes&quot; no topo.</li>
                   <li>Adicione uma breve descrição das suas alterações.</li>
-                  <li>Clique em "Commit changes" na modal.</li>
+                  <li>Clique em &quot;Commit changes&quot; na modal.</li>
                 </ol>
                 <div className="relative w-full h-64 bg-gray-200 rounded-lg overflow-hidden">
                   <Image src="/como-editar-paginas/commit.png" alt="Committing changes on GitHub" layout="fill" objectFit="cover" />
@@ -140,9 +140,9 @@ export default function HowUpdatePages() {
                       link
                     </a>
                   </li>
-                  <li>Clique em "Pull requests" e depois em "Create pull request". </li>
+                  <li>Clique em &quot;Pull requests&quot; e depois em &quot;Create pull request&quot;. </li>
                   <li>Selecione o seu fork e a branch. </li>
-                  <li>Clique em "Create pull request". </li>
+                  <li>Clique em &quot;Create pull request&quot;. </li>
                   <li>Adicione um título e uma descrição, depois envie.</li>
                 </ol>
                 <div className="relative w-full h-64 bg-gray-200 rounded-lg overflow-hidden">

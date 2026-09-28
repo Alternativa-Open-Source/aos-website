@@ -4,6 +4,8 @@ import { generateStaticParams as alternativesStaticParams } from "../alternativa
 import { generateStaticParams as categoriesStaticParams } from "../categorias/[slug]/page";
 import { generateStaticParams as osProjectsStaticParams } from "../open-source/[slug]/page";
 
+export const dynamic = "force-static";
+
 async function getSitemap() {
   const alternatives = (await alternativesStaticParams()).map(
     (item) => `

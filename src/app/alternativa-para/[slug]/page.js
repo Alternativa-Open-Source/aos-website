@@ -12,8 +12,8 @@ export async function generateStaticParams() {
   return slugs;
 }
 
-export async function generateMetadata({ params, searchParams }, parent) {
-  const slug = params.slug;
+export async function generateMetadata({ params }) {
+  const { slug } = await params;
   const alternativeTo = await getAlternativeToBySlug(slug);
 
   return {
@@ -23,7 +23,7 @@ export async function generateMetadata({ params, searchParams }, parent) {
 }
 
 export default async function AlternativeToPage({ params }) {
-  const slug = params.slug;
+  const { slug } = await params;
   const alternativeTo = await getAlternativeToBySlug(slug);
 
   const projects = (await readOpenSourceFilesAndRepoData()).filter((project) => project.yaml.alterantiveTo.includes(slug));

@@ -15,7 +15,7 @@ import { Container } from "@/components/Container";
 import { Logo } from "@/components/Logo";
 import { NavLinks } from "@/components/NavLinks";
 import { Button } from "./ui/button";
-import { Github } from "lucide-react";
+import { GitHubLogoIcon } from "@radix-ui/react-icons";
 
 export function Header() {
   return (
@@ -48,7 +48,7 @@ export function Header() {
                 <SheetContent side="left">
                   <SheetHeader>
                     <SheetTitle>
-                      <Logo className="w-22 mb-5" />
+                      <Logo className="mb-5" />
                     </SheetTitle>
                     <SheetDescription>
                       <div className="flex flex-col gap-4 w-full text-xl">
@@ -62,7 +62,7 @@ export function Header() {
 
             <Button asChild className="hidden lg:block">
               <a href={process.env.NEXT_PUBLIC_GITHUB_REPO} target="_blank" >
-              <Github className="h-4 w-4" />
+              <GitHubLogoIcon className="h-4 w-4" />
               </a>
             </Button>
           </div>

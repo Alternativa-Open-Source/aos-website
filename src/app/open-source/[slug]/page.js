@@ -11,8 +11,8 @@ export async function generateStaticParams() {
   return slugs;
 }
 
-export async function generateMetadata({ params, searchParams }, parent) {
-  const slug = params.slug;
+export async function generateMetadata({ params }) {
+  const { slug } = await params;
   const project = await getOpenSourceBySlug(slug);
 
   return {
@@ -22,7 +22,7 @@ export async function generateMetadata({ params, searchParams }, parent) {
 }
 
 export default async function AlternativeTo({ params }) {
-  const slug = params.slug;
+  const { slug } = await params;
   const project = await getOpenSourceBySlug(slug);
   const relatedProjects = (
     await Promise.all(
