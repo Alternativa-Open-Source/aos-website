@@ -48,7 +48,10 @@ export const saveFile = async (folder, file, data) => {
 
     const jsonData = JSON.stringify(data, null, 2);
 
-    await fs.promises.writeFile(filePath, jsonData, "utf8");
+    // write to a temp file and rename it, so parallel build workers never read a half-written file
+    const tmpPath = `${filePath}.${process.pid}.${Date.now()}.${Math.random().toString(36).slice(2)}.tmp`;
+    await fs.promises.writeFile(tmpPath, jsonData, "utf8");
+    await fs.promises.rename(tmpPath, filePath);
     return true;
   } catch (error) {
     console.error("Error saving object:", error, folder, file);
