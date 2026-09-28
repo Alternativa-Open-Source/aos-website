@@ -3,11 +3,29 @@ import { readFileOrNull, saveFile } from "./file-functions";
 
 const FOLDER = "data/cache/repository-data/";
 
-export const getRepoData = async (source) => {
+// dedupe lookups within the same build worker (many pages render the same project)
+const inFlight = new Map();
+
+export const getRepoData = (source) => {
+  if (!inFlight.has(source)) {
+    const promise = loadRepoData(source).catch((error) => {
+      inFlight.delete(source);
+      throw error;
+    });
+    inFlight.set(source, promise);
+  }
+  return inFlight.get(source);
+};
+
+const loadRepoData = async (source) => {
   const cacheSource = slugify(source) + ".json";
   const cache = await readFileOrNull(FOLDER, cacheSource);
   if (cache) {
-    return JSON.parse(cache);
+    try {
+      return JSON.parse(cache);
+    } catch (error) {
+      console.warn(`Ignoring invalid cache for ${source}`);
+    }
   }
 
   const { provider, projectId } = parseProvider(source);
@@ -18,7 +36,10 @@ export const getRepoData = async (source) => {
           throw new Error(`The provider ${provider} is not supported, source ${source}`);
         };
 
-  await saveFile(FOLDER, cacheSource, repoData);
+  // don't cache the fallback data, so a failed request is retried on the next build
+  if (!repoData.fetchFailed) {
+    await saveFile(FOLDER, cacheSource, repoData);
+  }
   return repoData;
 };
 
@@ -60,6 +81,7 @@ const getGitHubRepoData = async (projectId) => {
       issues: 0,
       createdAt: new Date().toISOString(),
       generatedAt: new Date().toISOString(),
+      fetchFailed: true,
     };
   }
 
