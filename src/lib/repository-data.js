@@ -66,10 +66,10 @@ const getGitHubRepoData = async (projectId) => {
       }
     : {};
 
-  const response = await fetch(url, params);
+  const response = await fetchWithRetry(url, params);
   if (!response.ok) {
     console.error(`Failed to fetch data ${url}`);
-    console.error(await response.json());
+    console.error(await response.json().catch(() => response.statusText));
     return {
       name: projectId,
       sourceUrl: `https://github.com/${projectId}`,
@@ -81,7 +81,8 @@ const getGitHubRepoData = async (projectId) => {
       issues: 0,
       createdAt: new Date().toISOString(),
       generatedAt: new Date().toISOString(),
-      fetchFailed: true,
+      // a 404 means the repository is gone, so it's fine to cache it
+      fetchFailed: response.status !== 404,
     };
   }
 
@@ -99,4 +100,47 @@ const getGitHubRepoData = async (projectId) => {
     createdAt: data?.created_at,
     generatedAt: new Date().toISOString(),
   };
+};
+
+// GitHub's secondary rate limit rejects bursts of parallel requests,
+// so limit the concurrency and retry when it kicks in
+const MAX_CONCURRENT_REQUESTS = 4;
+const MAX_RETRIES = 3;
+let activeRequests = 0;
+const waitingRequests = [];
+
+const fetchWithLimit = async (url, params) => {
+  if (activeRequests >= MAX_CONCURRENT_REQUESTS) {
+    await new Promise((resolve) => waitingRequests.push(resolve));
+  } else {
+    activeRequests++;
+  }
+  try {
+    return await fetch(url, params);
+  } finally {
+    // hand the slot straight to the next request, or release it
+    const next = waitingRequests.shift();
+    if (next) next();
+    else activeRequests--;
+  }
+};
+
+const isRateLimited = async (response) => {
+  if (response.status === 429) return true;
+  if (response.status !== 403) return false;
+  if (response.headers.get("retry-after") || response.headers.get("x-ratelimit-remaining") === "0") return true;
+  return (await response.clone().text()).includes("rate limit");
+};
+
+const fetchWithRetry = async (url, params) => {
+  for (let attempt = 0; ; attempt++) {
+    const response = await fetchWithLimit(url, params);
+    if (!(await isRateLimited(response)) || attempt >= MAX_RETRIES) {
+      return response;
+    }
+
+    const retryAfter = Number(response.headers.get("retry-after")) || 5 * 2 ** attempt;
+    console.warn(`Rate limited by GitHub on ${url}, retrying in ${retryAfter}s`);
+    await new Promise((resolve) => setTimeout(resolve, retryAfter * 1000));
+  }
 };
